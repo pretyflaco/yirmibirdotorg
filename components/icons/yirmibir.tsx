@@ -8,7 +8,6 @@ export const Yirmibir: React.FC = () => {
         version="1.1"
         id="svg5"
         xmlns="http://www.w3.org/2000/svg"
-        xmlns:svg="http://www.w3.org/2000/svg">
        <defs
           id="defs2">
          <clipPath
