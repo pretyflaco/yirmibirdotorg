@@ -42,7 +42,6 @@ export const Yirmibir: React.FC = () => {
             x="-2.220446e-16"
             y="0" />
          <text
-            xml:space="preserve"
             style="font-size:71.3091px;line-height:1.25;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';stroke-width:1.78273"
             x="185.955"
             y="52.554855"
@@ -52,7 +51,6 @@ export const Yirmibir: React.FC = () => {
               x="185.955"
               y="52.554855">B  </tspan></text>
          <text
-            xml:space="preserve"
             style="font-size:71.3091px;line-height:1.25;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';stroke-width:1.78273"
             x="69.28112"
             y="52.412239"
@@ -62,7 +60,6 @@ export const Yirmibir: React.FC = () => {
               x="69.28112"
               y="52.412239">RM  </tspan></text>
          <text
-            xml:space="preserve"
             style="font-size:71.3091px;line-height:1.25;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';stroke-width:1.78273"
             x="0.1426184"
             y="52.768764"
