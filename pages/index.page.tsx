@@ -24,7 +24,7 @@ export default function Index({
                 Türkiye Bitcoin Topluluğu
               </h1>
               <p className="text-xl font-medium md:text-xl mt-9">
-                Yirmibir, Türkiye'deki bitcoin meraklılarından oluşan gayri resmi bir grup olup, eğitim, girişimciliği teşvik etme ve farklı projelerle bitcoin ağını yayma amacını taşır.
+                Yirmibir, Türkiye&apos;deki bitcoin meraklılarından oluşan gayri resmi bir grup olup, eğitim, girişimciliği teşvik etme ve farklı projelerle bitcoin ağını yayma amacını taşır.
               </p>
             </div>
           </div>
