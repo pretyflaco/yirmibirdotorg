@@ -17,7 +17,7 @@ export function MeetupsSection({ events }: { events: EventType[] }) {
       <div className="w-5/6 m-auto">
         <p className="mb-16 text-xl font-medium text-center md:text-xl mt-14">
           Grubun şu anda yüzlerce üyesi var ve bölge genelinde düzenli toplantılar düzenliyor.
-          Bitcoin'in benzersizliğini ve önemini anlayan ve bunun hakkında bilgi edinmek isteyen herkesi bekliyoruz.
+          Bitcoin&apos;in benzersizliğini ve önemini anlayan ve bunun hakkında bilgi edinmek isteyen herkesi bekliyoruz.
           Bitcoin tutkunları olarak bilgi ve deneyimlerimizi herkesle paylaşmaktan mutluluk duyuyoruz.
           Bazılarımız bitcoin endüstrisinde çalışıyor, bazılarımızın bitcoin ile ilgili işletmeleri varken, 
           onlar bazıları sadece meraklı. Bizi birleştiren bu teknolojiye olan sevgimiz.
