@@ -16,7 +16,7 @@ export function PodcastSection({ episodes }: { episodes: Episode[] }) {
   return (
     <section className="mt-32">
       <h2 className="text-3xl md:text-[2.5rem] font-bold mb-14 text-center">
-        Nedavne epizode podcasta
+      Son Podcast Bölümleri
       </h2>
       <div className="grid grid-cols-1 px-4 md:grid-cols-2 xl:grid-cols-3 gap-10">
         {episodes.slice(0, 3).map(({ link, title, contentSnippet, itunes }) => (

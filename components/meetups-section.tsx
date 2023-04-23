@@ -26,7 +26,7 @@ export function MeetupsSection({ events }: { events: EventType[] }) {
         </p>
         <div className="flex justify-center w-full">
           <ActionLink href="https://www.meetup.com/istanbul-bitcoin-meetup-group/">
-            Naredni događaj
+          Bir sonraki etkinlik
           </ActionLink>
         </div>
       </div>
