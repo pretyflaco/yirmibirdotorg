@@ -18,7 +18,7 @@ import classNames from "classnames";
 import Head from "next/head";
 
 function getTwitterShareURL(title: string, slug: string) {
-  return `https://twitter.com/intent/tweet?text=${title} https://yirmibir.org/yirmibir.org/blog/${slug}`;
+  return `https://twitter.com/intent/tweet?text=${title} https://yirmibir.org/blog/${slug}`;
 }
 
 function getLinkedinShareURL(slug: string) {
@@ -159,7 +159,7 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
           </div>
 
           <div className="flex justify-center mx-10 md:mx-16">
-            <BlogSection title="Još sa bloga" posts={otherPosts} />
+            <BlogSection title="Diğer Makaleler" posts={otherPosts} />
           </div>
         </div>
       </main>
