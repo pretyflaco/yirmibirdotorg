@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 import { Dispatch, SetStateAction, useEffect } from "react";
 import { routes } from "../utils/routes";
 import { BarsIcon } from "./icons/bars";
-import { Yirmibir } from "./icons/yirmibir";
+import Yirmibir from './icons/yirmibir';
 import { XMarkIcon } from "./icons/x-mark";
 import { urls } from "../utils/urls";
 import { ArrowUpRight } from "./icons/arrow-up-right";
@@ -27,7 +27,7 @@ function useLinks() {
       Icon: undefined,
     },
     {
-      name: "Etkinlik",
+      name: "Etkinlikler",
       route: urls.meetup,
       active: router.asPath === routes.meetups,
       Icon: <ArrowUpRight />,
@@ -74,7 +74,7 @@ export function Header({
                   className={classNames("hover:text-purple whitespace-nowrap", {
                     "text-purple": active,
                   })}
-                  target={name === "Sastanci" ? "_blank" : undefined}
+                  target={name === "Etkinlikler" ? "_blank" : undefined}
                 >
                   <div className="flex items-center">
                     {name}
@@ -103,7 +103,7 @@ export function Header({
                             "text-purple": active,
                           })}
                           onClick={() => {
-                            if (name === "Sastanci") {
+                            if (name === "Etkinlikler") {
                               window.open(route, "_blank");
                             } else {
                               router.push(route);

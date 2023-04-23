@@ -1,6 +1,11 @@
 import React from 'react';
-export const Yirmibir: React.FC = () => {
-    return (
+
+interface YirmibirProps {
+  className?: string;
+}
+
+const Yirmibir: React.FC<YirmibirProps> = ({ className }) => {
+  return (
         <svg width="451" height="75" version="1.1" viewBox="0 0 317.5 52.769" xmlns="http://www.w3.org/2000/svg">
      <g fill="#ffffff" fontFamily="The Bold Font" fontSize="71.309px" strokeWidth="1.7827">
       <text x="185.955" y="52.554855" style={{ lineHeight: '1.25' }}>
@@ -31,5 +36,7 @@ export const Yirmibir: React.FC = () => {
  </g>
  <text x="245.08585" y="52.198311" fill="#ffffff" fontFamily="'The Bold Font'" fontSize="71.309px" strokeWidth="1.7827" style={{ lineHeight: '1.25' }}><tspan x="245.08585" y="52.198311" fill="#ffffff" strokeWidth="1.7827">R  </tspan></text>
 </svg>
-    );
-  };
+  );
+};
+
+export default Yirmibir;
