@@ -21,7 +21,7 @@ Raise a PR against `main` when ready to be reviewed
 ## Deployment 
 
 
-Merging PRs to `main` will trigger a deployment to [dvadesetjedan.com](https://dvadesetjedan.com/)
+Merging PRs to `main` will trigger a deployment to [yirmibir.org](https://yirmibir.org/)
 
 
 ##
