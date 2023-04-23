@@ -1,4 +1,4 @@
-export function Serbia() {
+export function Turkey() {
   return (
     <svg
       width="350"

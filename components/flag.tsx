@@ -1,4 +1,4 @@
-export type FlagType = "serbia" | "croatia" | "bosnia" | "montenegro" | "macedonia" | "slovenia";
+export type FlagType = "serbia" | "croatia" | "bosnia" | "montenegro" | "macedonia" | "slovenia" | "turkey";
 
 export function Flag({ country }: { country: FlagType }) {
   switch (country) {
@@ -14,5 +14,8 @@ export function Flag({ country }: { country: FlagType }) {
       return <span>🇲🇰</span>;
     case "slovenia":
       return <span>🇸🇮</span>;
+    case "turkey":
+      return <span>🇹🇷</span>;
   }
 }
+

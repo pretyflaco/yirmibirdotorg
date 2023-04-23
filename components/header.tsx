@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 import { Dispatch, SetStateAction, useEffect } from "react";
 import { routes } from "../utils/routes";
 import { BarsIcon } from "./icons/bars";
-import { DvadesetJedan } from "./icons/dvadesetjedan";
+import { Yirmibir } from "./icons/yirmibir";
 import { XMarkIcon } from "./icons/x-mark";
 import { urls } from "../utils/urls";
 import { ArrowUpRight } from "./icons/arrow-up-right";
@@ -15,7 +15,7 @@ function useLinks() {
 
   return [
     {
-      name: "Početna",
+      name: "Ana Sayfa",
       route: routes.home,
       active: router.asPath === routes.home,
       Icon: undefined,
@@ -27,7 +27,7 @@ function useLinks() {
       Icon: undefined,
     },
     {
-      name: "Sastanci",
+      name: "Etkinlik",
       route: urls.meetup,
       active: router.asPath === routes.meetups,
       Icon: <ArrowUpRight />,
@@ -55,8 +55,8 @@ export function Header({
         <Link href={routes.home}>
           <a>
             <div className="relative z-20 flex items-center md:ml-4">
-              <span className="sr-only">DvadesetJedan</span>
-              <DvadesetJedan className="mt-px ml-2 w-60 md:w-96" />
+              <span className="sr-only">YirmiBir</span>
+              <Yirmibir className="mt-px ml-2 w-60 md:w-96" />
             </div>
           </a>
         </Link>

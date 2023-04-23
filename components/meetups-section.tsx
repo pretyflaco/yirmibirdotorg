@@ -16,17 +16,17 @@ export function MeetupsSection({ events }: { events: EventType[] }) {
     <section className="mt-14">
       <div className="w-5/6 m-auto">
         <p className="mb-16 text-xl font-medium text-center md:text-xl mt-14">
-          Grupa trenutno broji stotine članova i organizuje redovne sastanke širom regiona.
-          Dobrodošli su svi koji razumeju posebnost i značaj bitcoina, ali i oni koji bi o tome
-          voleli da uče. Kao zaljubljenici u bitcoin, rado delimo znanje i iskustvo sa svima. Neki
-          od nas rade u bitcoin industriji, neki imaju biznise koji su vezani za bitcoin, dok su
-          neki samo entuzijasti. Ono što nas spaja jeste ljubav prema ovoj tehnologiji. Ukoliko vam
-          ovo deluje zanimljivo, želite da čujete šta imamo da kažemo ili postoji nešto što biste
-          podelili sa nama - čekamo vas!
+          Grubun şu anda yüzlerce üyesi var ve bölge genelinde düzenli toplantılar düzenliyor.
+          Bitcoin&apos;in benzersizliğini ve önemini anlayan ve bunun hakkında bilgi edinmek isteyen herkesi bekliyoruz.
+          Bitcoin tutkunları olarak bilgi ve deneyimlerimizi herkesle paylaşmaktan mutluluk duyuyoruz.
+          Bazılarımız bitcoin endüstrisinde çalışıyor, bazılarımızın bitcoin ile ilgili işletmeleri varken, 
+          onlar bazıları sadece meraklı. Bizi birleştiren bu teknolojiye olan sevgimiz.
+          Bu size ilginç geliyorsa, söyleyeceklerimizi duymak ister misiniz
+          veya bizimle paylaşmak istediğiniz bir şey var mı?
         </p>
         <div className="flex justify-center w-full">
-          <ActionLink href="https://www.meetup.com/dvadeset-jedan/events/">
-            Naredni događaj
+          <ActionLink href="https://www.meetup.com/istanbul-bitcoin-meetup-group/">
+          Bir sonraki etkinlik
           </ActionLink>
         </div>
       </div>
@@ -45,7 +45,7 @@ export function MeetupsSection({ events }: { events: EventType[] }) {
       {/*   </div> */}
       {/* </div> */}
       {/* <div className="flex justify-center w-full mt-14"> */}
-      {/*   <ActionLink href="https://www.meetup.com/dvadeset-jedan/events/"> */}
+      {/*   <ActionLink href="https://www.meetup.com/istanbul-bitcoin-meetup-group/"> */}
       {/*     Pregledaj događaje */}
       {/*   </ActionLink> */}
       {/* </div> */}

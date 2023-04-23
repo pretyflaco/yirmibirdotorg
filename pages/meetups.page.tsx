@@ -2,12 +2,7 @@ import { MeetupMap } from "../components/icons/meetup-map";
 import { MouseEvent, PropsWithChildren } from "react";
 import eventsJSON from "../content/events.json";
 import { InferGetStaticPropsType } from "next";
-import { Serbia } from "../components/icons/serbia";
-import { Croatia } from "../components/icons/croatia";
-import { Montenegro } from "../components/icons/montenegro";
-import { Bosnia } from "../components/icons/bosnia";
-import { Slovenia } from "../components/icons/slovenia";
-import { Macedonia } from "../components/icons/macedonia";
+import { Turkey } from "../components/icons/turkey";
 import classNames from "classnames";
 import { PINS } from "../utils/pins";
 
@@ -76,26 +71,13 @@ export default function Meetups({ events }: InferGetStaticPropsType<typeof getSt
   return (
     <main className="bg-dark">
       <div className="w-[90%] mx-auto py-20">
-        <h1 className="text-3xl font-semibold text-center md:text-4xl">Sastanci</h1>
+        <h1 className="text-3xl font-semibold text-center md:text-4xl">Toplantılar</h1>
         <p className="mt-8 mb-20 text-center">
-          Pronadji sastanak blizu tebe. Svi su dobrodosli. Vidimo se!
+          Yakınındaki bir toplantıyı bul. Herkes davetlidir. Görüşmek üzere!
         </p>
         <div className="flex items-center justify-center h-full" onClick={logPinPosition}>
           <div className="relative flex flex-col lg:hidden">
-            <Serbia />
-            <Croatia />
-            <MapSpacing sm>
-              <Montenegro />
-            </MapSpacing>
-            <MapSpacing>
-              <Bosnia />
-            </MapSpacing>
-            <MapSpacing>
-              <Slovenia />
-            </MapSpacing>
-            <MapSpacing>
-              <Macedonia />
-            </MapSpacing>
+            <Turkey />
             {mostRecentFutureEventFromEachCity.map(({ url, city }) => {
               const position = PINS.find((pin) => pin.city === city);
 
@@ -115,6 +97,7 @@ export default function Meetups({ events }: InferGetStaticPropsType<typeof getSt
     </main>
   );
 }
+
 
 export async function getStaticProps() {
   return {
