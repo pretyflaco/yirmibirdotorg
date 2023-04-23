@@ -7,7 +7,7 @@ export const Yirmibir: React.FC = () => {
         viewBox="0 0 317.49999 52.768759"
         version="1.1"
         id="svg5"
-        xmlns="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.org/2000/svg">
        <defs
           id="defs2">
          <clipPath
