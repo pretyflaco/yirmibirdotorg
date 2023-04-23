@@ -41,11 +41,11 @@ export function SmallerBlogPreview({
           {title}
         </h1>
         <p className="mt-4 text-lg md:text-md text-gray">
-          Autor{" "}
+          Yazar{" "}
           <a className="text-purple" href={authorURL}>
             {author}
           </a>
-          , Prevod{" "}
+          , Tercüme{" "}
           <a className="mr-1 text-purple" href={translatorURL}>
             {translator}
           </a>
@@ -53,7 +53,7 @@ export function SmallerBlogPreview({
         </p>
         <p className="mt-6 mb-4 text-xl md:text-xl text-gray">{meta}</p>
         <Link href={routes.blogArticle(slug)}>
-          <a className="text-lg md:text-sm text-purple">Pročitaj više...</a>
+          <a className="text-lg md:text-sm text-purple">Devamını oku...</a>
         </Link>
       </div>
     </article>

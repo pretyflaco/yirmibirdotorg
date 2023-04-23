@@ -31,7 +31,7 @@ export function PodcastSection({ episodes }: { episodes: Episode[] }) {
       </div>
       <div className="flex justify-center w-full mt-16">
         <ActionLink internal href={routes.podcast}>
-          Sve epizode
+          Tüm bölümler
         </ActionLink>
       </div>
     </section>
