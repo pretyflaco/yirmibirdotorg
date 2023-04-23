@@ -7,43 +7,8 @@ export const Yirmibir: React.FC = () => {
         viewBox="0 0 317.49999 52.768759"
         version="1.1"
         id="svg5"
-        inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
-        sodipodi:docname="yirmibir_horizontal.svg"
-        inkscape:export-filename="/home/kasita/Pictures/Inkscape Drawings/Yirmibir/yirmibir_logo.png"
-        inkscape:export-xdpi="356"
-        inkscape:export-ydpi="356"
-        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:svg="http://www.w3.org/2000/svg">
-       <sodipodi:namedview
-          id="namedview7"
-          pagecolor="#ffffff"
-          bordercolor="#666666"
-          borderopacity="1.0"
-          inkscape:pageshadow="2"
-          inkscape:pageopacity="0.0"
-          inkscape:pagecheckerboard="0"
-          inkscape:document-units="mm"
-          showgrid="false"
-          inkscape:zoom="0.70710678"
-          inkscape:cx="683.06515"
-          inkscape:cy="-125.86501"
-          inkscape:window-width="2560"
-          inkscape:window-height="1331"
-          inkscape:window-x="0"
-          inkscape:window-y="0"
-          inkscape:window-maximized="1"
-          inkscape:current-layer="layer1"
-          showguides="true"
-          inkscape:guide-bbox="true"
-          width="90mm"
-          units="mm">
-         <sodipodi:guide
-            position="84.954659,178.06493"
-            orientation="0,-1"
-            id="guide44929" />
-       </sodipodi:namedview>
        <defs
           id="defs2">
          <clipPath
@@ -69,10 +34,7 @@ export const Yirmibir: React.FC = () => {
               y="223.0201" />
          </clipPath>
        </defs>
-       <g
-          inkscape:label="Layer 1"
-          inkscape:groupmode="layer"
-          id="layer1">
+       <g id="layer1">
          <rect
             style="fill:#ffffff;stroke-width:1.58764"
             id="rect110657"
@@ -86,7 +48,6 @@ export const Yirmibir: React.FC = () => {
             x="185.955"
             y="52.554855"
             id="text107199"><tspan
-              sodipodi:role="line"
               id="tspan107197"
               style="stroke-width:1.78273"
               x="185.955"
@@ -97,7 +58,6 @@ export const Yirmibir: React.FC = () => {
             x="69.28112"
             y="52.412239"
             id="text96253"><tspan
-              sodipodi:role="line"
               id="tspan96251"
               style="stroke-width:1.78273"
               x="69.28112"
@@ -108,7 +68,6 @@ export const Yirmibir: React.FC = () => {
             x="0.1426184"
             y="52.768764"
             id="text35194"><tspan
-              sodipodi:role="line"
               id="tspan35192"
               style="stroke-width:1.78273"
               x="0.1426184"
@@ -185,7 +144,6 @@ export const Yirmibir: React.FC = () => {
             x="245.08585"
             y="52.198311"
             id="text123857"><tspan
-              sodipodi:role="line"
               id="tspan123855"
               style="stroke-width:1.78273"
               x="245.08585"
