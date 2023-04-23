@@ -2,12 +2,7 @@ import { MeetupMap } from "../components/icons/meetup-map";
 import { MouseEvent, PropsWithChildren } from "react";
 import eventsJSON from "../content/events.json";
 import { InferGetStaticPropsType } from "next";
-import { Serbia } from "../components/icons/serbia";
-import { Croatia } from "../components/icons/croatia";
-import { Montenegro } from "../components/icons/montenegro";
-import { Bosnia } from "../components/icons/bosnia";
-import { Slovenia } from "../components/icons/slovenia";
-import { Macedonia } from "../components/icons/macedonia";
+import { Turkey } from "../components/icons/turkey";
 import classNames from "classnames";
 import { PINS } from "../utils/pins";
 
