@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="DvadesetJedan logo" src="https://user-images.githubusercontent.com/34274884/190863104-86a51e3f-efd9-4ae5-82db-8f53b0e10919.jpg">
+  <img alt="Yirmibir logo" src="https://user-images.githubusercontent.com/32958103/233867143-9ebe7c82-70c1-481b-9531-cf7fcb0e8c42.jpg">
 </p>
 
 ## Getting Started
