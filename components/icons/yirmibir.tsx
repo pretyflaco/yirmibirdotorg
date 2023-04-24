@@ -6,7 +6,7 @@ interface YirmibirProps {
 
 const Yirmibir: React.FC<YirmibirProps> = ({ className }) => {
   return (
-        <svg width="349" height="58" version="1.1" viewBox="0 0 317.5 52.769" xmlns="http://www.w3.org/2000/svg">
+        <svg width="300" height="50" version="1.1" viewBox="0 0 317.5 52.769" xmlns="http://www.w3.org/2000/svg">
      <g fill="#ffffff" fontFamily="The Bold Font" fontSize="71.309px" strokeWidth="1.7827">
       <text x="185.955" y="52.554855" style={{ lineHeight: '1.25' }}>
         <tspan x="185.955" y="52.554855" fill="#ffffff" strokeWidth="1.7827">B  </tspan>
