@@ -126,7 +126,7 @@ Hepimiz eski bir atasözünü biliriz: "Ağaç dikmek için en iyi zaman 20 yıl
 > Bitcoin satın almak için en iyi zaman 10 yıl önceydi. 
 > İkinci en iyi zaman ise şimdi.
 
-Mesele şu: Bitcoin'e %0 ayırdığınız için kendinizi hırpalamayın. Sıfırdan kalkmak için çok geç değil. Tekrar ediyorum: Çok geç değil. Hâlâ erkencisiniz. Şu anda hala diğer paraları bitcoin ile takas edebiliyorsunuz. Gelecekte, muhtemelen onu kazanmanız gerekecek. Şöyle düşünün: Bitcoin'in izlediği yörünge devam ederse, itibari paranızı bitcoin ile değiştirmek için asla kötü bir zaman olmayacak.
+Mesele şu: Bitcoin'e %0 ayırdığınız için kendinizi hırpalamayın. Sıfır olan bakiyenizi geride bırakmak için çok geç değil. Tekrar ediyorum: Çok geç değil. Hâlâ erkencisiniz. Şu anda hala diğer paraları bitcoin ile takas edebiliyorsunuz. Gelecekte, muhtemelen onu kazanmanız gerekecek. Şöyle düşünün: Bitcoin'in izlediği yörünge devam ederse, itibari paranızı bitcoin ile değiştirmek için asla kötü bir zaman olmayacak.
 
 Bitcoin bir biriktirme oyunudur. Bunu anladığınızda, satoshi biriktirmek bariz bir strateji haline gelir. Esnek olmayan arz ve nispeten küçük piyasa değeri, bitcoin'i diğer varlıklardan daha oynak hale getirmektedir. ([Yine de](https://www.forbes.com/sites/investor/2020/04/17/stock-market-crash-party-like-its-1929/), [geleneksel piyasalardaki](https://investorplace.com/2020/03/investors-need-to-view-ba-stocks-biggest-crash-ever-as-a-gift/) [son hareketlerle](https://www.bloomberg.com/news/articles/2020-04-13/tesla-caps-43-rally-in-longest-advance-since-early-february) [karşılaştırıldığında](https://finance.yahoo.com/news/oil-crashes-lowest-level-since-113552445.html), bitcoin nispeten istikrarlıdır). Satoshi biriktirmek piyasanın oynaklığını görmezden gelmenizi sağlar. Odak noktası alım satım değil, pasif birikimdir.
 
@@ -134,12 +134,12 @@ Bitcoin bir biriktirme oyunudur. Bunu anladığınızda, satoshi biriktirmek bar
 >
 -- [Matt Odell](https://twitter.com/odell/status/1131559561872252928?s=20)
 
-Yeterince uzaklaştığınızda Bitcoin'in fiyat hareketinin yukarı ve sağa doğru olduğu açıkça görülür. Bu eğilimin devam edeceğine [inanmak için nedenler](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) var. Bu yükseliş trendi bozulmamış olsa bile, bitcoin fiyatı muhtemelen bir süre daha dalgalı kalacaktır. Benim tavsiyem: fiyatı görmezden gelin. Sıfırdan çıkın. Hâlâ sıfır satoshi'iniz mı var? Tembelliği bırakın - biriktirmeye başlayın!
+Yeterince uzaklaştığınızda Bitcoin'in fiyat hareketinin yukarı ve sağa doğru olduğu açıkça görülür. Bu eğilimin devam edeceğine [inanmak için nedenler](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) var. Bu yükseliş trendi bozulmamış olsa bile, bitcoin fiyatı muhtemelen bir süre daha dalgalı kalacaktır. Benim tavsiyem: fiyatı görmezden gelin. Sıfır olan bakiyenizi geride bırakın. Hâlâ sıfır satoshi'iniz mı var? Tembelliği bırakın - biriktirmeye başlayın!
 
 Unutulmaması gereken bazı hususlar:
 
 - [Alım satım yapma](https://youtu.be/KV5QlSgq7lg)
-- [Sıfırdan çık](https://twitter.com/search?q=bitcoin%20get%20off%20zero)
+- [Sıfır olan bakiyenizi geride bırakın](https://twitter.com/search?q=bitcoin%20get%20off%20zero)
 - [Auto-DCA ile otomatikleştirin](https://twitter.com/HassMcCook/status/1522829054088740864?s=20)
 - [Herkes geç kaldığını düşünüyor](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg)
 - [Bir bitcoin'in bir kısmını satın alabilirsiniz](https://dcabtc.com/)
