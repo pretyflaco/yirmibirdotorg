@@ -214,3 +214,6 @@ Sorumluluk Reddi: Bunu söylemeye gerek yok, ancak korkarım bunu açıkça beli
 
 - [Brekkie](https://twitter.com/BVBTC) ve [Fab](https://twitter.com/fabthefoxx)'a bu mektubun önceki taslakları hakkındaki değerli geri bildirimleri için teşekkür ederim.
 - [Hass](https://twitter.com/FriarHass)'a redaksiyon ve AutoDCA tepesinde ölme isteği için teşekkürler.
+
+[Orijinal Makale](https://dergigi.com/2020/04/27/dear-family-dear-friends/)
+[©©BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.tr) 
