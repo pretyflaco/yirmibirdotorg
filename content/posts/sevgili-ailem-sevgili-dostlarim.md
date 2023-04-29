@@ -8,7 +8,7 @@ translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
 slug: "sevgili-ailem-sevgili-dostlarim"
 flag: "turkey"
-img: 'blogPreview'
+img: 'sevgili-ailem'
 tags:
     - translation
 ---
