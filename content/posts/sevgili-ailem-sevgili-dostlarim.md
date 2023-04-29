@@ -25,7 +25,7 @@ Umarım bu mektup daha iyi bir gelecek için tohumlar eker. Kişisel olarak sizi
 
 Şimdiye kadar muhtemelen Bitcoin'i duymuşsunuzdur. Büyük haber kaynaklarında, televizyonda (sana bakıyorum CNBC) sıkça yer alan ve popüler kültürde (Simpsonlar, Bay Robot, Silikon Vadisi, The Big Bang Theory, Grey's Anatomy, Family Guy ve yine Simpsonlar) atıfta bulunulan bir isimdir. Bitcoin hakkında ne biliyor ya da bildiğinizi düşünüyor olursanız olun, göründüğünden çok daha ötesinde bir şey var.
 
-![Bitcoin: it is the future of money.](/images/content/blog/sevgili-ailem-sevgili-dostlar/cnn.jpg)
+![Bitcoin: paranın geleceğidir.](/images/content/blog/sevgili-ailem-sevgili-dostlar/cnn.jpg)
 
 Bitcoin ana akım medyada oldukça fazla yer bulmuş olsa da, Bitcoin'in ne olduğu ve dünyadaki rolünün ne olacağı hala büyük ölçüde yanlış anlaşılmaktadır. Ancak, kısmen Fed ve benzeri kurumların giderek daha pervasız hale gelen parasal müdahaleleri sayesinde, ana akım anlatı bile değişmeye başlıyor. Bitcoin artık suç ve darknet parası ile eşanlamlı değil. Bugün, giderek daha fazla sağlam para, mevcut sisteme karşı bir koruma, özgürlük için bir oy, farklı bir paradigma ile eşanlamlı hale geliyor.
 
