@@ -19,5 +19,5 @@ export const images = {
   "bitcoin-daje-ti-krila": `/images/content/bitcoin-daje-ti-krila.png`,
   "bitcoin-je-vrijeme": `/images/content/bitcoin-je-vrijeme.png`,
   "borba-protiv-monetarnog-kolonijalizma-pomocu-otvorenog-koda": `/images/content/borba-protiv-monetarnog-kolonijalizma-pomocu-otvorenog-koda.jpeg`,
-  "sevgili-ailem": `/public/images/dearfamilydearfriends.png`,
+  "sevgili-ailem": `/images/content/dear-family.jpeg`, 
 } as const;
