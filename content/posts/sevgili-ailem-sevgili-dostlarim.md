@@ -45,7 +45,7 @@ Bu yazı itibariyle Bitcoin'in piyasa değeri 137 milyar dolar civarındadır. A
 
 > Dünyayı satoshi ile fiyatlandırma sürecindeyiz.
 >
-> -- Bitcoin Tina
+-- Bitcoin Tina
 
 
 Kabul etmek gerekir ki, bitcoin satın almak ve elde tutmak incelikli bir iştir. Kendinizi ayağınızdan vurmak kolaydır. Dolandırılmak kolaydır. Bitcoin'inize erişiminizi sonsuza dek kaybetmeniz mümkündür. Bu nedenle, bir uyarı vermek istiyorum: kendinizi eğitin ve dikkatli olun.
@@ -60,7 +60,7 @@ Toplum olarak Bitcoin'e onun bize olduğundan daha fazla ihtiyacımız var. Para
 
 > Geleneksel paranın temel sorunu, işlemesi için gerekli olan güven unsurudur. Merkez bankasının para biriminin değerini düşürmeyeceğine güvenilmelidir, ancak itibari para birimlerinin tarihi bu güvenin ihlal edilmesiyle doludur.
 >
-> -- [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
+-- [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
 
 Virüs bize sadece insan hayatının kırılganlığını hatırlatmakla kalmadı, aynı zamanda tedarik zincirlerimizin ve diğer küresel sistemlerimizin kırılganlığını da ortaya çıkardı. Özellikle de finansal ve parasal sistemimizin gülünçlüğünü vurguladı. Birkaç gün içinde milyarlar basmaktan trilyonlar basmaya, trilyon dolar değerinde platin para basma önerilerine, [sınırsız parasal genişleme](https://www.marketwatch.com/story/fed-announces-unlimited-qe-and-sets-up-several-new-lending-programs-2020-03-23)'ye ve [sonsuz nakit paraya](https://www.bloomberg.com/opinion/articles/2020-03-23/coronavirus-fed-s-infinite-cash-tested-in-world-of-leverage) geçtik. Ekonomistler ve politikacılar ekonomiyi kurtarmaktan, likidite enjekte etmekten, parasal genişlemeden, ters repo anlaşmalarından, batmak için çok büyük olanları (yine) kurtarmaktan - kaçınılmaz çöküşü ertelemek ve sorunu biraz daha ötelemek için ellerinden gelen her şeyi yapmaktan bahsediyorlar.
 
@@ -68,7 +68,7 @@ Kullanılan dil süslü olsa da, etkileri basittir: medeniyetimizin temel bir ar
 
 > Dünya çıldırmış ve sistem çökmüş durumda.
 >
-> -- [Ray Dalio](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/)
+-- [Ray Dalio](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/)
 
 Ray Dalio'nun çok güzel bir şekilde [açıkladığı](https://www.linkedin.com/pulse/world-has-gone-mad-system-broken-ray-dalio/) gibi: borca dayalı para sistemimiz doğası gereği bozuktur. Bitcoin bunu düzeltiyor. Bunu düzeltiyor çünkü borca dayalı değil. Bunu düzeltiyor çünkü kesinlikle sınırlı bir arzı var. Bunu düzeltir çünkü keyfi olarak yaratılamaz; çünkü onu bozabilecek hiçbir bekçi, hiçbir merkezi güç yoktur.
 
@@ -82,7 +82,7 @@ Bitcoin'e bu özellikleri kazandıran hiçbir merkezi otorite yoktur. Bu özelli
 
 > Arazi satın alın. O maldan daha fazla üretmeyecekler.
 >
-> -- [Will Rogers](https://en.wikiquote.org/wiki/Will_Rogers)
+-- [Will Rogers](https://en.wikiquote.org/wiki/Will_Rogers)
 
 Will Rogers'ın doğru bir fikri vardı: sınırlı olanın değeri vardır. Bununla birlikte, bir değer deposu olarak Bitcoin birçok yönden topraktan (ve bu bağlamda altından) üstündür. Başka hiçbir varlık internet veya diğer iletişim kanalları üzerinden sihirli bir şekilde iletilemez. Bitcoin yalnızca bilgi olduğu için tüm varlıklar arasında en yüksek değer yoğunluğuna sahiptir. Kafanızda bir milyar dolar değerinde bitcoin olabilir ve çırılçıplak soyulsanız bile servetinizi koruyabilirsiniz.
 
@@ -108,7 +108,7 @@ Bunları kısaca teker teker inceleyelim.
 
 > Bir bitcoin var, bir de çöpcoin var.
 >
-> -- [Warren Davidson](https://twitter.com/bitstein/status/1151586640307064833?s=20)
+-- [Warren Davidson](https://twitter.com/bitstein/status/1151586640307064833?s=20)
 
 Çöpcoinler çıkmaz sokaktır. Bu yola girmeyin. Orada sizi acı ve kederden başka bir şey beklemez.
 
@@ -117,13 +117,14 @@ Bunları kısaca teker teker inceleyelim.
 Bu yazı itibariyle, 1$ size 14,488 satoshi satın alacaktır. 70 dolar harcadığınızda bir satoshi milyoneri olursunuz. Bitcoin pahalı. Satoshi ucuz.
 
 ![Bitcoin image](/images/content/blog/sevgili-ailem-sevgili-dostlar/sat.png)
-*"Otomatik DCA sayesinde her gün satoshi biriktiriyorum"*
+*Otomatik DCA sayesinde her gün satoshi biriktiriyorum*
 
 Yukarıda da belirtildiği gibi, bitcoin yüksek oranda bölünebilir. Yine, herhangi bir birim önyargısının sizi kandırmasına izin vermeyin: herkese yetecek kadar bitcoin var. Büyük miktarlarda bitcoin satın almaya çalışmak genellikle piyasayı zamanlamaya çalışmaya yol açar. Sat biriktirmek bu psikolojik baskıyı ortadan kaldırır. Daha da iyisi: Sat biriktirme işlemini otomatikleştirmenize olanak tanıyan pek çok hizmet mevcuttur. Ayarlayın ve unutun; birikiminiz otomatik olarak büyüyecektir. Mükemmel zamanlama konusunda endişelenmenize gerek yok, çılgınca fiyat kontrolü yok, emanetçilere maruz kalmak yok.
 
 Hepimiz eski bir atasözünü biliriz: "Ağaç dikmek için en iyi zaman 20 yıl önceydi. İkinci en iyi zaman ise şimdi." Aynı şey satoshi biriktirmek için de geçerlidir - ancak Bitcoin 20 yıl önce yoktu. Şu anda 11 yaşının biraz üzerinde ve küresel bilince sadece birkaç yıl önce girdi.
 
-> Bitcoin satın almak için en iyi zaman 10 yıl önceydi. İkinci en iyi zaman ise şimdi.
+> Bitcoin satın almak için en iyi zaman 10 yıl önceydi. 
+> İkinci en iyi zaman ise şimdi.
 
 Mesele şu: Bitcoin'e %0 ayırdığınız için kendinizi hırpalamayın. Sıfırdan kalkmak için çok geç değil. Tekrar ediyorum: Çok geç değil. Hâlâ erkencisiniz. Şu anda hala diğer paraları bitcoin ile takas edebiliyorsunuz. Gelecekte, muhtemelen onu kazanmanız gerekecek. Şöyle düşünün: Bitcoin'in izlediği yörünge devam ederse, itibari paranızı bitcoin ile değiştirmek için asla kötü bir zaman olmayacak.
 
@@ -131,7 +132,7 @@ Bitcoin bir biriktirme oyunudur. Bunu anladığınızda, satoshi biriktirmek bar
 
 > Bitcoin, dijital ve dünya hükümetlerinden ya da şirketlerinden bağımsız yeni bir para türüdür. Ele geçirilmesi, bloke edilmesi veya şişirilmesi zordur ve dünyanın dört bir yanına gönderilmesi kolaydır. Şimdiye kadar sahip olduğumuz en iyi paradır. Daha fazla insan bunu fark ettikçe fiyatı da artacaktır.
 >
-> -- [Matt Odell](https://twitter.com/odell/status/1131559561872252928?s=20)
+-- [Matt Odell](https://twitter.com/odell/status/1131559561872252928?s=20)
 
 Yeterince uzaklaştığınızda Bitcoin'in fiyat hareketinin yukarı ve sağa doğru olduğu açıkça görülür. Bu eğilimin devam edeceğine [inanmak için nedenler](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25) var. Bu yükseliş trendi bozulmamış olsa bile, bitcoin fiyatı muhtemelen bir süre daha dalgalı kalacaktır. Benim tavsiyem: fiyatı görmezden gelin. Sıfırdan çıkın. Hâlâ sıfır satoshi'iniz mı var? Tembelliği bırakın - biriktirmeye başlayın!
 
@@ -165,9 +166,9 @@ Tüm bunlar söylenirken, bir uyarıda bulunmak istiyorum:
 
 Bitcoin ile birikim yapmaya başlamak için daha iyi bir zaman olamazdı. Yerel para biriminizin belirli bir miktarını her hafta, ay veya gün otomatik olarak bitcoin'e dönüştürmenize olanak tanıyan birçok hizmet mevcuttur. Yakında güncelliğini yitirebilecekleri için burada herhangi bir öneride bulunmaktan kaçınacağım. Sizin için en iyi hizmetin hangisi olduğunu siz bulun. [Yerel rahibinizle](https://twitter.com/FriarHass) veya size en yakın bitcoin adamıyla iletişime geçin. Eğer satoshi biriktirmenin ne anlama geldiğini bilmiyorsa, daha iyi bir bitcoinci bulun. (Ve eğer o kişi ben isem, lütfen benimle iletişime geçin).
 
-> "Bitcoin sahibi olmak, tüm dünyadaki insanların katılabileceği birkaç asimetrik bahisten biridir."
+> Bitcoin sahibi olmak, tüm dünyadaki insanların katılabileceği birkaç asimetrik bahisten biridir.
 >
-> -- [Vijay Boyapati](https://twitter.com/real_vijay/status/969591986662424576)
+-- [Vijay Boyapati](https://twitter.com/real_vijay/status/969591986662424576)
 
 Bitcoin geleceğe yönelik bir yatırım olsa da, ben onu spekülatif bir yatırım olarak görmüyorum. Ayrıca tekrar dolar, euro ya da yen karşılığında satılacak bir varlık olarak da görmüyorum. Bir söz vardır: Hazır olduğunuzda, bitcoin'inizi satmak zorunda kalmayacaksınız.
 
