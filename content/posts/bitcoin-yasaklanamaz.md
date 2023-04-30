@@ -3,7 +3,8 @@ index: 3
 title: "Bitcoin Yasaklanamaz"
 author: "Parker Lewis"
 authorURL: "https://twitter.com/parkeralewis"
-meta: "Devletin bir şekilde bitcoin'i yasaklayabileceği fikri, gerçeği kabul etmeden hemen önce, kederin son aşamalarından biridir. Bu cümlenin sonucu, bitcoin'in "işe yaradığının" kabul edilmesidir. Aslında, bitcoin'in mevcut hükümet tekellerini tehdit edecek kadar iyi çalıştığı gerçeğini temsil ediyor..."
+meta: |
+  Devletin bir şekilde bitcoin'i yasaklayabileceği fikri, gerçeği kabul etmeden hemen önce, kederin son aşamalarından biridir. Bu cümlenin sonucu, bitcoin'in "işe yaradığının" kabul edilmesidir. Aslında, bitcoin'in mevcut hükümet tekellerini tehdit edecek kadar iyi çalıştığı gerçeğini temsil ediyor...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
 slug: "bitcoin-yasaklanamaz"
@@ -12,6 +13,7 @@ img: 'bitcoin-yasaklanamaz'
 tags:
     - translation
 ---
+
 
 ### İlk yayınlanma tarihi: 11/08/2019 | Son güncelleme: 01/17/2023 | Okuma süresi: 13 dakika
 
