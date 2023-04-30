@@ -18,6 +18,6 @@ export const images = {
   "bitcoin-privatnost-najbolje-prakse": `/images/content/bitcoin-privatnost-najbolje-prakse.png`,
   "bitcoin-daje-ti-krila": `/images/content/bitcoin-daje-ti-krila.png`,
   "bitcoin-je-vrijeme": `/images/content/bitcoin-je-vrijeme.png`,
-  "borba-protiv-monetarnog-kolonijalizma-pomocu-otvorenog-koda": `/images/content/borba-protiv-monetarnog-kolonijalizma-pomocu-otvorenog-koda.jpeg`,
+  "bitcoin-yasaklanamaz": `/images/content/bitcoin-yasaklanamaz.png`,
   "sevgili-ailem": `/images/content/dear-family.jpeg`, 
 } as const;
