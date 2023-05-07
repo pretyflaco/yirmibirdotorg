@@ -16,7 +16,7 @@ export const images = {
   "bitcoin-ne-moze-biti-zabranjen-featured": `/images/content/bitcoin-ne-moze-biti-zabranjen-featured.png`,
   "zasto-je-vazna-decentralizacija-bitcoina": `/images/content/zasto-je-vazna-decentralizacija-bitcoina.png`,
   "bitcoin-privatnost-najbolje-prakse": `/images/content/bitcoin-privatnost-najbolje-prakse.png`,
-  "bitcoin-daje-ti-krila": `/images/content/bitcoin-daje-ti-krila.png`,
+  "ne-kadar-bitcoin": `/images/content/ne-kadar-bitcoin.jpg`,
   "bitcoin-je-vrijeme": `/images/content/bitcoin-je-vrijeme.png`,
   "bitcoin-yasaklanamaz": `/images/content/bitcoin-yasaklanamaz.png`,
   "sevgili-ailem": `/images/content/dear-family.jpeg`, 
