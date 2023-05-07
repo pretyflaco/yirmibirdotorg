@@ -6,6 +6,8 @@ authorURL: "https://dergigi.com"
 meta: "Hala bitcoin'i olmayan herkese bir mektup."
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
+translator2: "Kaan"
+translatorURL2: "https://twitter.com/kaan_bey"
 slug: "sevgili-ailem-sevgili-dostlarim"
 flag: "turkey"
 img: 'sevgili-ailem'

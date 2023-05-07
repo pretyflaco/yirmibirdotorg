@@ -7,12 +7,15 @@ meta: |
   Devletin bir şekilde bitcoin'i yasaklayabileceği fikri, gerçeği kabul etmeden hemen önce, kederin son aşamalarından biridir. Bu cümlenin sonucu, bitcoin'in "işe yaradığının" kabul edilmesidir. Aslında, bitcoin'in mevcut hükümet tekellerini tehdit edecek kadar iyi çalıştığı gerçeğini temsil ediyor...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
+translator2: "Alican"
+translatorURL2: "https://twitter.com/alicanvergin"
 slug: "bitcoin-yasaklanamaz"
 flag: "turkey"
 img: 'bitcoin-yasaklanamaz'
 tags:
     - translation
 ---
+
 
 
 Bitcoin'in bir şekilde hükümetler tarafından yasaklanabileceği fikri, kabullenmeden hemen önce, kederin son aşamasıdır. İfadenin sonucu, bitcoin'in "işe yaradığının" kabulüdür. Aslında, bitcoin'in o kadar iyi çalıştığını varsayar ki, para üzerindeki hükümet tarafından yönetilen tekelleri tehdit edecek ve bu durumda hükümetler tehdidi ortadan kaldırmak için onu varoluştan düzenleyecektir. Hükümetlerin bitcoin'i yasaklayacağı iddiasını koşullu mantık olarak düşünün. Bitcoin para olarak işlevsel mi? Değilse, hükümetlerin yasaklayacakları bir şey yoktur. Eğer evet ise, o zaman hükümetler bitcoin'i yasaklamaya çalışacaktır. Dolayısıyla bu eleştiri hattının dayanak noktası, bitcoin'in para olarak işlevsel olduğunu varsayar. Bu durumda soru, hükümet müdahalesinin işlevsel bir bitcoin'in başarısız olmasına neden olup olamayacağıdır.

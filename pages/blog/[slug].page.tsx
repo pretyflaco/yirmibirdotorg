@@ -55,8 +55,19 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
 
   const otherPosts = posts.filter((p) => p.frontmatter?.slug !== router.query.slug).splice(0, 3);
 
-  const { title, author, translator, slug, authorURL, translatorURL, flag, img } =
-    post?.frontmatter || {};
+  const {
+    title,
+    author,
+    translator,
+    translator2,
+    slug,
+    authorURL,
+    translatorURL,
+    translatorURL2,
+    flag,
+    img,
+  } = post?.frontmatter || {};
+  
 
   return (
     <>
@@ -116,7 +127,7 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
               />
             )}
 
-            <div className="absolute z-5 text-center w-[80%] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+<div className="absolute z-5 text-center w-[80%] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
               <h1 className="text-[1.75rem] md:text-4xl xl:text-5xl">{title}</h1>
               <p className="mt-2 text-sm md:text-lg">
                 Yazar{" "}
@@ -127,10 +138,19 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
                 <a className="mr-1 text-purple" href={translatorURL}>
                   {translator}
                 </a>
+                {translator2 && (
+                  <>
+                    ,{" "}
+                    <a className="mr-1 text-purple" href={translatorURL2}>
+                      {translator2}
+                    </a>
+                  </>
+                )}
                 <Flag country={flag} />
               </p>
             </div>
           </div>
+
 
           <div className="relative mx-6 mt-16 text-xl tracking-wide md:w-auto sm:mx-10 prose md:mx-20 md:text-21 text-gray leading-8 md:leading-9 first-letter:text-3xl first-letter:tracking-wide">
             {post?.content && (

@@ -13,7 +13,10 @@ export type Frontmatter = {
   meta: string;
   translator: string;
   translatorURL: string;
+  translator2?: string;
+  translatorURL2?: string;
   img: string;
   flag: FlagType;
   slug: ArticleSlug;
 };
+

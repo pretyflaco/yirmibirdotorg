@@ -11,13 +11,16 @@ export function SmallerBlogPreview({
   author,
   authorURL,
   translator,
+  translator2,
   translatorURL,
+  translatorURL2,
   slug,
   meta,
   img,
   flag,
 }: Frontmatter) {
   const router = useRouter();
+
 
   return (
     <article className="flex flex-col">
@@ -49,6 +52,14 @@ export function SmallerBlogPreview({
           <a className="mr-1 text-purple" href={translatorURL}>
             {translator}
           </a>
+          {translator2 && (
+            <>
+              ,{" "}
+              <a className="mr-1 text-purple" href={translatorURL2}>
+                {translator2}
+              </a>
+            </>
+          )}
           <Flag country={flag} />
         </p>
         <p className="mt-6 mb-4 text-xl md:text-xl text-gray">{meta}</p>
@@ -59,3 +70,4 @@ export function SmallerBlogPreview({
     </article>
   );
 }
+
