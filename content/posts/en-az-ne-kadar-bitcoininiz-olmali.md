@@ -7,8 +7,6 @@ meta: |
   Birisi bana "Sizce çok çalışan ama çok para kazanmayan biri için ne kadar BTC yeterlidir?" diye sordu. Göründüğünün aksine, bu basit bir cevabı olmayan zor bir soru, çünkü çok fazla değişkeni var, yaş, coğrafi konum vb. Bu yüzden modüler bir cevap sunacağım...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
-translator2: "Alican"
-translatorURL2: "https://twitter.com/alicanvergin"
 slug: "en-az-ne-kadar-bitcoininiz-olmali"
 flag: "turkey"
 img: 'ne-kadar-bitcoin'
