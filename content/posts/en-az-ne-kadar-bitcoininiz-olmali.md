@@ -7,6 +7,8 @@ meta: |
   Birisi bana "Sizce çok çalışan ama çok para kazanmayan biri için ne kadar BTC yeterlidir?" diye sordu. Göründüğünün aksine, bu basit bir cevabı olmayan zor bir soru, çünkü çok fazla değişkeni var, yaş, coğrafi konum vb. Bu yüzden modüler bir cevap sunacağım...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
+translator2: "Kaan"
+translatorURL2: "https://twitter.com/kaan_bey"
 slug: "en-az-ne-kadar-bitcoininiz-olmali"
 flag: "turkey"
 img: 'ne-kadar-bitcoin'
@@ -28,7 +30,7 @@ Ayrıca, bitcoin kuru sıfıra düşmese bile, BTC geçmiş dalgalanmalarda oldu
 
 Kısacası, bütçeniz ne olursa olsun, tüm BTC'lerinizin en azından geçici olarak sıfır değerinde olduğunu düşünün!
 
-Sağlıklı bir yaklaşım, BTC birikimlerinize düzenli olarak biraz koyduğunuz bir kumbara olarak bakmaktır; farkına varmadan yapabileceğiniz bir miktar.
+Sağlıklı bir yaklaşım, BTC birikimlerinize düzenli olarak biraz koyduğunuz bir kumbara olarak bakmaktır; biriktirebileceğiniz bir miktar.
 
 Bazen verdiğim bir örnek bir paket sigaranın fiyatıdır. Günde bir paket sigara içen bir kişi ayda yaklaşık 250 dolar harcıyor ve bu para kelimenin tam anlamıyla duman olup uçuyor. Bu kişi için ayda 250 doları bir kenara koymanın (örneğin BTC olarak) gerçek bir sorun olmayacağı düşünülebilir.
 
@@ -80,7 +82,7 @@ Bugün 30 dolar size 75,000 satoshis satın alacaktır. Bitcoin'in fiyatının m
 
 Dolayısıyla, "en az ne kadar BTC'ye sahip olmanız gerekir?" sorusu sorulduğunda, bunun kolay bir cevabı olmadığını anlarsınız. Warren Buffet gibi bazıları için bu "sıfır", Elon Musk gibi diğerleri içinse "sıfırdan fazla"...
 
-Mümkün olan tek cevap arkadaşlarıma verdiğim tavsiyedir: en önemli şey öğrenmek ve anlamaktır. Ancak o zaman mali durumunuza ve protokole ve ekosistemine olan güveninize bağlı olarak kendi sorunuza cevap verebilirsiniz.
+Mümkün olan tek cevap arkadaşlarıma verdiğim tavsiyedir: en önemli şey öğrenmek ve anlamaktır. Ancak o zaman mali durumunuza, protokole ve ekosistemine olan güveninize bağlı olarak kendi sorunuza cevap verebilirsiniz.
 
 Bu yüzden onları kendi imkanlarına göre (bir öğrencinin özel bir bankacı kadar kaybedecek parası yoktur) biraz yatırım yapmaya teşvik ediyorum, ancak nasıl çalıştığını öğrenmek, nasıl düzgün bir şekilde sahip olunacağını okumak, birikimlerini nasıl dikkatli bir şekilde koruyacakları konusunda kendilerini eğitmek, Bitcoin'in neden icat edildiği, genel olarak paranın nasıl çalıştığı, enflasyon, merkez bankaları vb. konularda kendilerini eğitmek istemelerine yetecek kadar.
 
