@@ -32,9 +32,9 @@ Kısacası, bütçeniz ne olursa olsun, tüm BTC'lerinizin en azından geçici o
 
 Sağlıklı bir yaklaşım, BTC birikimlerinize düzenli olarak biraz koyduğunuz bir kumbara olarak bakmaktır; biriktirebileceğiniz bir miktar.
 
-Bazen verdiğim bir örnek bir paket sigaranın fiyatıdır. Günde bir paket sigara içen bir kişi ayda yaklaşık 250 dolar harcıyor ve bu para kelimenin tam anlamıyla duman olup uçuyor. Bu kişi için ayda 250 doları bir kenara koymanın (örneğin BTC olarak) gerçek bir sorun olmayacağı düşünülebilir.
+Bazen verdiğim bir örnek bir paket sigaranın fiyatıdır. Günde bir paket sigara içen bir kişi 12 Mayis 2023 itibari ile 35 TL (1,65 Euro) ayda yaklaşık 1000 TL (50 Euro) harcıyor ve bu para kelimenin tam anlamıyla duman olup uçuyor. Bu kişi için ayda 50 Euro’yu bir kenara koymanın (örneğin BTC olarak) gerçek bir sorun olmayacağı düşünülebilir.
 
-Basit bir hesaplama, 4 yıl önce başlayan aylık 250 dolarlık bir BTC birikimi için harcanan toplam miktarın 12'250 dolar ve bu şekilde elde edilen bitcoinlerin bugünkü değerinin yaklaşık 47'750 dolar olacağını göstermektedir.
+Basit bir hesaplama, 4 yıl önce başlayan aylık 50 Euro’luk bir BTC birikimi için harcanan toplam miktarın 2400 Euro ve bu şekilde elde edilen bitcoinlerin bugünkü değerinin yaklaşık 9300 Euro olacağını göstermektedir.
 
 *UYARI: Bu örneğin amacı "fiyat her zaman yükselir ve geçmişte olanlar tekrarlanacaktır" demek DEĞİLDİR! Bu sadece, günde bir paket sigaraya eşdeğer bir miktarı "çöpe atmanın" belirli koşullar altında karlı bir bahis olabileceğini göstermek için bir ÖRNEKTİR.*
 
@@ -62,11 +62,11 @@ Bitcoin'in bugünkü altınla aynı düzeyde bir değer saklama ve takas aracı 
 
 Hesaplamanın en acı yolu, enflasyondan korunmak için birikim yapmaktır.
 
-Bugün, %6 ila 8'i aşan korkutucu oranlar duyuyoruz ve hiçbir şey yapmamak, yani birikimlerinizi nakit olarak tutmak, onların kaçınılmaz bir şekilde erimesini izlemekle eşdeğer... Referans olarak, 100 € değerinin yarısını kaybedecek ve o zamana kadar enflasyon %6'nın üzerinde kalırsa 10 yıl içinde 50 € satın alma gücüne sahip olacak.
+Bugün, TL bazinda %100’u aşan korkutucu oranlar duyuyoruz ve hiçbir şey yapmamak, yani birikimlerinizi nakit olarak tutmak, onların kaçınılmaz bir şekilde erimesini izlemekle eşdeğer... Referans olarak, 1000 TL onumuzdeki sene değerinin yarısını kaybedecek ve o zamana kadar enflasyon %100 civarinda kalırsa 5 yıl içinde sadece 62,50 TL’lik alma gücüne sahip olacak.
 
 Ne yazık ki, riskli olmayan hiçbir yatırım birikimlerinizi etkili bir şekilde koruyamaz. Enflasyondan daha fazla getiri sağlayan bir yatırıma ihtiyacınız var ve bu oranlarda göz ardı edilemeyecek bir risk anlamına geliyor. Üstelik herkesin bu tür bir getiriye erişimi yoktur.
 
-Günlük bir paket sigara fiyatına geri dönersek ve BTC fiyatının uzun vadede biraz değer kazanacağını veya en azından yılda %6 düşmeyeceğini umarsak, birikimlerimizin bir kısmını bu metaforik buz küpünün erimesinin ölümüne karşı "korumayı" umabiliriz... Yukarıda tartışılan diğer noktaları her zaman akılda tutarak, tabii ki 1 numaralı kuraldan başlayarak.
+Günlük bir paket sigara fiyatına geri dönersek ve BTC fiyatının uzun vadede biraz değer kazanacağını veya en azından yılda %100 düşmeyeceğini umarsak, birikimlerimizin bir kısmını bu metaforik buz küpünün erimesinin ölümüne karşı "korumayı" umabiliriz... Yukarıda tartışılan diğer noktaları her zaman akılda tutarak, tabii ki 1 numaralı kuraldan başlayarak.
 
 # 5- İki pizza için milyonlar
 
