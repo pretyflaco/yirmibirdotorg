@@ -17,7 +17,7 @@ export const images = {
   "zasto-je-vazna-decentralizacija-bitcoina": `/images/content/zasto-je-vazna-decentralizacija-bitcoina.png`,
   "bitcoin-privatnost-najbolje-prakse": `/images/content/bitcoin-privatnost-najbolje-prakse.png`,
   "ne-kadar-bitcoin": `/images/content/ne-kadar-bitcoin.jpg`,
-  "bitcoin-je-vrijeme": `/images/content/bitcoin-je-vrijeme.png`,
+  "bitcoin-merkeziyetsizdir": `/images/content/bitcoin-merkeziyetsizdir.png`,
   "bitcoin-yasaklanamaz": `/images/content/bitcoin-yasaklanamaz.png`,
   "sevgili-ailem": `/images/content/dear-family.jpeg`, 
 } as const;
