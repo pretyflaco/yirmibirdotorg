@@ -107,11 +107,10 @@ Madencilikte merkeziyetsizlik şu anda muhtemelen yeterlidir. Ancak, bugünün s
 Bir kişinin 100.000 node çalıştırmasının ağı ne güçlendirdiğini ne de zayıflattığını anlamak çok önemlidir. Çünkü bir node sadece kod çalıştıran bilgisayarlar değil, aynı zamanda bir insan beynidir. Bir node'u yöneten insandır ve kullandığı paraya yönelik kural değişikliklerine direnebilir. Cüzdanına bağlı tek bir bilgisayarla bir kural değişikliğine direnmek, aynı cüzdana bağlanabilecek 100.000 node ile aynı etkiye sahiptir.
 
 Bir Tweet'imde bu konuyu detaylı bir şekilde ele almıştım:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was asked twice in two days:<br>Can&#39;t one person run for example 100,000 bitcoin nodes and overtake the <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> network and consensus rules with extra votes?<br><br>No. I&#39;ll explain...</p>&mdash; Parman ⚡ 13% ⚡Bitcoin Private Key Whisperer #810 (@parman_the) <a href="https://twitter.com/parman_the/status/1413920325201395718?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Arman Tweet Thread](/images/content/blog/bitcoin-merkeziyetsizdir/arman.png)](https://twitter.com/parman_the/status/1413920325201395718?s=20)
+
 
 [Bu yazıyla ilgili düşünceler bir yıl önce bu Tweet başlığında ortaya çıkmıştı.](https://twitter.com/parman_the/status/1407663667387146243)
 
 [Orijinal Makale](https://armantheparman.com/decentralisation/)
 İlk yayınlanma tarihi: 18/08/2022 
-
-[![Tweet](https://img.shields.io/twitter/url/https/twitter.com/parman_the/status/1413920325201395718.svg?style=social&logo=twitter)](https://twitter.com/parman_the/status/1413920325201395718)
