@@ -18,7 +18,7 @@ tags:
 
 Herhangi bir kripto para birimi için merkezi olmaması gereken şey tam olarak nedir? Birçok unsur merkeziyetsizleştirilebilir - ama hangileri önemlidir?
 
-Merkeziyetsizliğin anlamı bariz görünebilir (değildir). Hatta "ademi merkeziyetçilik" kelimesi belli ki iyi bir şeymiş gibi görünebilir (bu yüzden kripto para ile ilgili her şeyin pazarlamasında kullanılır).
+Merkeziyetsizliğin anlamı bariz görünebilir (değildir). Hatta "decentralization" kelimesi belli ki iyi bir şeymiş gibi görünebilir (bu yüzden kripto para ile ilgili her şeyin pazarlamasında kullanılır).
 
 Kelimenin düz anlamı merkezin olmadığıdır.
 
