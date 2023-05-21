@@ -26,14 +26,14 @@ Kelimenin düz anlamı merkezin olmadığıdır.
 
 Önemli olan cevap bağlama göre değişir. Sahip olmanız gereken bağlam, kripto para birimlerinin, yani Bitcoin'in, başlangıçta hükümet tarafından kapatılamayan halk parasına olanak sağlamak için icat edilmiş olmasıdır. Bu bağlamda, merkezi olmayan en önemli unsur Node'lardan oluşan network'tür.
 
-- Eğer nodlar merkeziyetsiz değilse, merkeziyetsiz olan başka hiçbir şeyin önemi yoktur.
-- Eğer nodlar merkeziyetsizse, o zaman diğer şeyler bir nevi önemlidir, ancak o kadar da önemli değildir.
+- Eğer node'lar merkeziyetsiz değilse, merkeziyetsiz olan başka hiçbir şeyin önemi yoktur.
+- Eğer node'lar merkeziyetsizse, o zaman diğer şeyler bir nevi önemlidir, ancak o kadar da önemli değildir.
 
 Madencilerin merkezsizleştirilmesi de çok önemlidir, ancak benim görüşüme göre ve belirtilen bağlamda, bu düğümlere göre ikincildir.
 
 Merkeziyetsizliğin doğru AMACINI (yani belirtilen bağlamı) bilmiyorsanız, merkeziyetsizliğin hangi boyutunun önemli olduğunu nasıl bilebilirsiniz?
 
-**4 ana amaç vardır.** İlk üçü nod ile ilgili, dördüncüsü ise madencilikle ilgilidir.
+**4 ana amaç vardır.** İlk üçü node ile ilgili, dördüncüsü ise madencilikle ilgilidir.
 
 # 1. Devletin kapatmasına karşı direnç
 
@@ -46,7 +46,7 @@ Bu, [cypherpunk'ların](https://nakamoto.com/the-cypherpunks/) uzun zaman öncek
 - ABD hükümetinin PGP'yi yasaklamasına karşı savundu (ve kazandı)
 - ve devlet kontrolündeki parayı aşmak için dijital internet parası yaratma konusunda birkaç başarısız girişimde bulundu.
 
-Bitcoin yaratıldığında, en başından beri merkeziyetsiz değildi. Kapatılabilirdi. Sadece Satoshi Nakamoto'nun ve Hal Finney'in (R.I.P.) bilgisayarındaydı. Ama Bitcoin o zamanlar bir tehdit oluşturmuyordu. Neden herhangi bir devlet bunu bilsin ya da umursasın ki? Böylece sessizce büyüdü ve giderek daha fazla insan ağa katıldı... NODLAR ÇALIŞTIRARAK.
+Bitcoin yaratıldığında, en başından beri merkeziyetsiz değildi. Kapatılabilirdi. Sadece Satoshi Nakamoto'nun ve Hal Finney'in (R.I.P.) bilgisayarındaydı. Ama Bitcoin o zamanlar bir tehdit oluşturmuyordu. Neden herhangi bir devlet bunu bilsin ya da umursasın ki? Böylece sessizce büyüdü ve giderek daha fazla insan ağa katıldı... NODE'LAR ÇALIŞTIRARAK.
 
 Bitcoin şu anda diğer tüm kripto para birimlerine kıyasla en büyük node merkeziyetsizliğine sahiptir. Bir node çalıştırmanın pahalı olmaması ve dolayısıyla maddi durumu iyi olmayanlar için engel teşkil etmemesi için bilinçli olarak tasarlanmıştır. Bugün, bir node çalıştırmanın maliyeti yaklaşık 300 ila 400 $ artı internet veri maliyetleridir.
 
