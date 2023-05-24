@@ -29,7 +29,7 @@ Kelimenin düz anlamı merkezin olmadığıdır.
 - Eğer node'lar merkeziyetsiz değilse, merkeziyetsiz olan başka hiçbir şeyin önemi yoktur.
 - Eğer node'lar merkeziyetsizse, o zaman diğer şeyler bir nevi önemlidir, ancak o kadar da önemli değildir.
 
-Madencilerin merkezsizleştirilmesi de çok önemlidir, ancak benim görüşüme göre ve belirtilen bağlamda, bu düğümlere göre ikincildir.
+Madencilerin merkezsizleştirilmesi de çok önemlidir, ancak benim görüşüme göre ve belirtilen bağlamda, bu node'lara göre ikincildir.
 
 Merkeziyetsizliğin doğru AMACINI (yani belirtilen bağlamı) bilmiyorsanız, merkeziyetsizliğin hangi boyutunun önemli olduğunu nasıl bilebilirsiniz?
 
