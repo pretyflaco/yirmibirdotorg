@@ -1,5 +1,5 @@
 ---
-index: 4
+index: 5
 title: "Bitcoin merkeziyetsizdir... ama bu ne anlama gelir?"
 author: "Arman The Parman"
 authorURL: "https://twitter.com/parman_the"

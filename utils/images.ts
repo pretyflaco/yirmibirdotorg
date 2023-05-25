@@ -15,7 +15,7 @@ export const images = {
   "bullishcase-featured": `/images/content/bullishcase-featured.jpg`,
   "bitcoin-ne-moze-biti-zabranjen-featured": `/images/content/bitcoin-ne-moze-biti-zabranjen-featured.png`,
   "zasto-je-vazna-decentralizacija-bitcoina": `/images/content/zasto-je-vazna-decentralizacija-bitcoina.png`,
-  "bitcoin-privatnost-najbolje-prakse": `/images/content/bitcoin-privatnost-najbolje-prakse.png`,
+  "bitcoinehosgeldiniz": `/images/content/bitcoinehosgeldiniz.jpeg`,
   "ne-kadar-bitcoin": `/images/content/ne-kadar-bitcoin.jpg`,
   "bitcoin-merkeziyetsizdir": `/images/content/bitcoin-merkeziyetsizdir.png`,
   "bitcoin-yasaklanamaz": `/images/content/bitcoin-yasaklanamaz.png`,
