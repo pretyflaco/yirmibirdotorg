@@ -115,13 +115,13 @@ Yani bu harika bir şey! Bu "dijital elmalara" nasıl davranmalı ya da değer v
 
 Şu anda pek çok insan bu konuda tartışıyor. Şu ve bu ekonomi okulu arasında tartışmalar var. Siyasetçiler arasında. Yazılımcılar arasında. Yine de hepsini dinlemeyin. Bazı insanlar zeki. Bazıları yanlış bilgilendirilmiş. Bazıları sistemin çok değerli olduğunu, bazıları ise sıfır değerli olduğunu söylüyor. Bazıları kesin bir rakam veriyor: [elma başına 1,300 dolar](http://www.forbes.com/sites/kashmirhill/2013/12/05/bank-of-america-analysts-say-bitcoins-value-is-1300/). Bazıları dijital altın, bazıları para birimi diyor. Bazıları da lale gibi olduğunu söylüyor. Bazıları dünyayı değiştireceğini söylüyor, bazıları sadece bir moda olduğunu.  
 
-Bu başka bir zaman için bir makale olsa da. Ama evlat, artık Bitcoin hakkında çoğu kişiden daha fazla şey biliyorsun.
+Bu konuda benim de [kendi fikrim](http://nikcustodio.tumblr.com/post/150500263430/why-blockchains-an-eli21) var.  
+
+Bu başka bir zaman için bir makale olsa da. Ama evlat, artık Bitcoin hakkında çoğu kişiden daha fazla şey biliyorsun.  
 
 # Okuma Önerileri (Güncelleme 2017)
 
 Maria Bustillos tarafından kaleme alınan ["Bitcoin'i Anlamıyorsunuz Çünkü Paranın Gerçek Olduğunu Düşünüyorsunuz"](https://medium.com/@mariabustillos/you-dont-understand-bitcoin-because-you-think-money-is-real-5aef45b8e952?source=linkShare-2d6f142ff3cc-1512362100) başlıklı yazı iyi bir tamamlayıcı okumadır.
-
-Bu konuda benim de [kendi fikrim](http://nikcustodio.tumblr.com/post/150500263430/why-blockchains-an-eli21) var.
 
 [Orijinal Makale](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/)  
 İlk yayınlanma tarihi: 12/12/2013 
