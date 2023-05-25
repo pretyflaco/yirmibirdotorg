@@ -22,7 +22,7 @@ export function MeetupsSection({ events }: { events: EventType[] }) {
           Bazılarımız bitcoin endüstrisinde çalışıyor, bazılarımızın bitcoin ile ilgili işletmeleri varken, 
           onlar bazıları sadece meraklı. Bizi birleştiren bu teknolojiye olan sevgimiz.
           Bu size ilginç geliyorsa, söyleyeceklerimizi duymak ister misiniz
-          veya bizimle paylaşmak istediğiniz bir şey var mı?
+          veya bizimle paylaşmak istediğiniz bir şey var mı? Bize <a href="https://t.me/YirmibirBitcoin" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline', color: '#0000EE' }}>Telegram&apos;da</a> katılın!
         </p>
         <div className="flex justify-center w-full">
           <ActionLink href="https://www.meetup.com/istanbul-bitcoin-meetup-group/">
