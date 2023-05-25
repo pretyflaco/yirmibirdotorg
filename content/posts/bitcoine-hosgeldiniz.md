@@ -15,22 +15,22 @@ tags:
 
 # İşte SSS'niz:
 
-S: Kime güvenmeliyim?
+S: Kime güvenmeliyim? <br>
 C: **Hiç kimseye.**
 
 
-S: Ne zaman satmalıyım?
+S: Ne zaman satmalıyım? <br>
 C: **Asla.**
 
 
-S: Bitcoin ölüyor mu çünkü ____?
+S: Bitcoin ölüyor mu çünkü ____? <br>
 C: **Hayır.**
 
-S: Kendimi neyin içine soktum?
+S: Kendimi neyin içine soktum? <br>
 C: **Kimse bilmiyor.**
 
 
-S: Nasıl daha fazla bilgi edinebilirim?
+S: Nasıl daha fazla bilgi edinebilirim? <br>
 C: **Burada zengin [içerik kaynağımız](https://www.yirmibir.org/blog) var.** Ya da [lopp.net](https://lopp.net) adresini ziyaret edebilirsiniz.
 
 
