@@ -29,8 +29,12 @@ export default function Index({
             </div>
           </div>
           <Hero />
+      
+      <a href="https://www.selambitcoin.com" target="_blank" rel="noopener noreferrer">
+        <img src="/selambitcoin.png" alt="Selam Bitcoin" style={{width: '100%', height: 'auto'}} />
+      </a>
 
-          <PodcastSection episodes={episodes} />
+      <PodcastSection episodes={episodes} />
           <BlogSection title="Bitcoin Blog" posts={posts} />
           <MeetupsSection events={events} />
         </div>
