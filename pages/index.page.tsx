@@ -30,6 +30,14 @@ export default function Index({
           </div>
           <Hero />
       
+          <div className="flex justify-center">
+        <div className="text-center">
+          <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
+            Dost Sitemiz
+          </h1>
+        </div>
+      </div>
+
       <a href="https://www.selambitcoin.com" target="_blank" rel="noopener noreferrer">
         <img src="/selambitcoin.png" alt="Selam Bitcoin" style={{width: '100%', height: 'auto'}} />
       </a>
