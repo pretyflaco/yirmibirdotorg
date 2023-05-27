@@ -14,7 +14,7 @@ export const images = {
   hero5: `/images/hero_5.webp`,
   "bullishcase-featured": `/images/content/bullishcase-featured.jpg`,
   "bitcoin-ne-moze-biti-zabranjen-featured": `/images/content/bitcoin-ne-moze-biti-zabranjen-featured.png`,
-  "bitcoini-bes-yasindaymisim-gibi-anlat": `/images/content/bitcoini-bes-yasindaymisim-gibi-anlat.jpeg`,
+  "bitcoini-bes-yasindaymisim-gibi-anlat": `/images/content/bitcoini-bes-yasindaymisim-gibi-anlat.png`,
   "bitcoinehosgeldiniz": `/images/content/bitcoinehosgeldiniz.jpeg`,
   "ne-kadar-bitcoin": `/images/content/ne-kadar-bitcoin.jpg`,
   "bitcoin-merkeziyetsizdir": `/images/content/bitcoin-merkeziyetsizdir.png`,
