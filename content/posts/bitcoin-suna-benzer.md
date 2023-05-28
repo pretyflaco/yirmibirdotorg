@@ -37,7 +37,19 @@ tags:
 
 **Bitcoin, Git'ten farklı** olarak herkesin tek bir dal üzerinde çalışmak için çabaladığı bir yöntemdir. Git'te herkes birkaç dala sahip olabilir ve tüm gün boyunca bunları çatallayabilir ve birleştirebilir. Bitcoin'de kimse çatalları "birleştiremez". Blok zinciri aslında bir işlem geçmişi ağacıdır, ancak her zaman en büyük bir dal (değeri olan) ve hiçbir değeri olmayan bazı tesadüfi mini dallar (en fazla bir-iki blok uzunluğunda) vardır. Git'te içerik dallardan daha önemlidir, Bitcoin'de konsensüs içerikten daha önemlidir.  
 
-**Bitcoin Bittorrent gibidir:** network tamamen merkeziyetsizdir, tek bir "darphane" veya "banka" yoktur. Blok zinciri Bittorrent'teki tek bir dosya gibidir: kriptografik olarak doğrulanır ve birçok bilgisayar arasında paylaşılır. Madenciler de dahil olmak üzere her katılımcı eşit şartlarda hareket eder. Network'ün bir parçası kesintiye uğrarsa, işlemler diğer parçalar üzerinden akabilir. Tüm network çökse bile, işlemlerle ilgili bilgiler binlerce bağımsız bilgisayarda saklanmaya devam eder ve kimsenin parası kaybolmaz. İnsanlar birbirlerine tekrar bağlandıklarında, hiçbir şey olmamış gibi işlem göndermeye devam edebilirler. Hem Bitcoin hem de Bittorrent nükleer bir savaşta hayatta kalabilir çünkü bilgi radyoaktif hale gelmez ve güvenli bir şekilde çoğaltılabilir.
+**Bitcoin Bittorrent gibidir:** network tamamen merkeziyetsizdir, tek bir "darphane" veya "banka" yoktur. Blok zinciri Bittorrent'teki tek bir dosya gibidir: kriptografik olarak doğrulanır ve birçok bilgisayar arasında paylaşılır. Madenciler de dahil olmak üzere her katılımcı eşit şartlarda hareket eder. Network'ün bir parçası kesintiye uğrarsa, işlemler diğer parçalar üzerinden akabilir. Tüm network çökse bile, işlemlerle ilgili bilgiler binlerce bağımsız bilgisayarda saklanmaya devam eder ve kimsenin parası kaybolmaz. İnsanlar birbirlerine tekrar bağlandıklarında, hiçbir şey olmamış gibi işlem göndermeye devam edebilirler. Hem Bitcoin hem de Bittorrent nükleer bir savaşta hayatta kalabilir çünkü bilgi radyoaktif hale gelmez ve güvenli bir şekilde çoğaltılabilir.  
+
+**Bitcoin Bittorrent'ten farklıdır:** birçok bağımsız "dosya" yerine, her zaman büyüyen tek bir dosya vardır: blok zinciri. Ayrıca, en önemli katılımcılar: madenciler çalışmaları için gerçek parayla ödüllendiriliyorlar.  
+
+**Bitcoin ifade özgürlüğü gibidir:** her işlem, nerede ve nasıl olursa olsun telaffuz edilebilen kısa bir genel mesajdır. Eğer bazı madenciler mesajı duyarsa, onu blok zincirine ekler ve bu mesaj sonsuza dek tarihe geçer. Herkes onu görecek ve kimse onu silemeyecektir.  
+
+**Bitcoin ifade özgürlüğünden farklıdır:** bir şeyi söylemenin bir bedeli vardır. İşlem, başlangıçta sahip olmanız gereken coinleri hareket ettirir. Yani her aptal bağıramaz, yalnızca ilk etapta bir miktar coin elde etme liyakatine sahip olanlar bağırabilir. Ayrıca, spam içeriyorsa veya yeterli ücret içermiyorsa madenciler işlemi reddedebilir. Yani kimse kimseye kalbinin iyiliğinden dolayı özgürlük sağlamaz, ancak herkes gönüllülük esasına göre işbirliği yapmaya çalışır.  
+
+**Bitcoin bir toplumsal sözleşme gibidir:** saf bir kültürel olgudur. İnsanlar ona bu şekilde davrandıkları ve onu tutmaya ve kurallarına saygı göstermeye cesaret ettikleri sürece para olarak çalışır. Teknoloji sadece bu sözleşme için gerekli tesisatı sağlamak için gereklidir.  
+
+**Bitcoin bir toplumsal sözleşmeye benzemez:** okullarda öğretilen türden bir sözleşme değildir. Esnek değildir ve herhangi bir yönetici tarafından dayatılmaz. Herkesin uymayı seçtiği, dolayısıyla mevcut mutabakata ağırlık katan bir kurallar bütünüdür.  
+
+**Bitcoin sihirli internet parası gibidir:** olduğu gibidir.
 
 [Orijinal Makale](https://oleganza.com/all/bitcoin-is-like/)  
 İlk yayınlanma tarihi: 10/12/2017 
