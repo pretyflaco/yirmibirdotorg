@@ -19,5 +19,6 @@ export const images = {
   "ne-kadar-bitcoin": `/images/content/ne-kadar-bitcoin.jpg`,
   "bitcoin-merkeziyetsizdir": `/images/content/bitcoin-merkeziyetsizdir.png`,
   "bitcoin-yasaklanamaz": `/images/content/bitcoin-yasaklanamaz.png`,
+  "bitcoin-suna-benzer": `/images/content/bitcoin-suna-benzer.png`,
   "sevgili-ailem": `/images/content/dear-family.jpeg`, 
 } as const;
