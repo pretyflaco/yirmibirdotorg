@@ -30,11 +30,27 @@ export default function Index({
             </div>
           </div>
           <Hero />
-      
+
           <div className="flex justify-center">
-        <div className="text-center">
-          <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
-            Dost Sitemiz
+            <div className="text-center">
+              <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
+                Bitcoin Twitter
+              </h1>
+            </div>
+          </div>
+          <div
+            dangerouslySetInnerHTML={{
+              __html: `
+              <a class="twitter-timeline" data-lang="tr" data-width="1000" data-height="600" data-theme="dark" href="https://twitter.com/YirmibirBitcoin/lists/1662960136757837824?ref_src=twsrc%5Etfw">A Twitter List by YirmibirBitcoin</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              `,
+            }}
+          />
+          
+          <div className="flex justify-center">
+            <div className="text-center">
+              <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
+                Dost Sitemiz
           </h1>
         </div>
       </div>
