@@ -1,0 +1,64 @@
+---
+index: 10
+title: "Bitcoin Kopyalanamaz"
+author: "Parker Lewis"
+authorURL: "https://twitter.com/parkeralewis"
+meta: |
+  Bitcoin'in bir şekilde devletler tarafından yasaklanabileceği fikri, kabullenmeden hemen önce, kederin son aşamasıdır. Bu ifade, bitcoin'in "işe yaradığının" bir kabulüdür. Aslında, bitcoin'in mevcut hükümet tekellerini tehdit edecek kadar iyi çalıştığı gerçeğini temsil ediyor...
+translator: "Kemal"
+translatorURL: "https://twitter.com/_pretyflaco"
+translator2: "Alican"
+translatorURL2: "https://twitter.com/alicanvergin"
+slug: "bitcoin-kopyalanamaz"
+flag: "turkey"
+img: 'bitcoin-kopyalanamaz'
+tags:
+    - translation
+---
+
+Çocukluğumuzda paranın ağaçta büyümediğini öğreniriz. Toplum olarak ise daha sonra para basmanın mümkün olduğunu, hatta para basmanın ekonomimizin normal, gerekli ve üretken bir işlevi olduğuna inandırılırız. Bitcoin'den önce, bu para basma ayrıcalığı küresel merkez bankalarına mahsustu (örneğin [buraya bakınız](https://fred.stlouisfed.org/series/BASE)). Bitcoin sonrası, artık her Ali, Mehmet ve Ayşe kendilerinin de para basabileceğini düşünüyor gibi görünüyor. Bitcoin'in bir kopyasını yaratmaya çalışmanın temelinde yatan cüret budur. İster konsensüs dışı bir hard-fork yaparak (bitcoin cash), ister bitcoin'i klonlayarak (litecoin) ya da "daha iyi" özelliklere sahip yeni bir protokol yaratarak (ethereum) olsun, her biri yeni bir para basma girişimidir. Bitcoin yapabiliyorsa, biz neden yapamayalım?  
+
+2019'da burada oturmuş, binlerce yıldır ilk kez bir ekonomik varlığın (bitcoin) serbest piyasada parasallaşmasına tanıklık ediyoruz. Bu durumun önemini düşünmek ya da bunun nasıl ve neden mümkün olduğunu anlamak yerine, pek çok insan bunun üzerinden atlıyor ve bir türeve ya da ilk etapta görmedikleri bir sorunu iyileştirmenin bir yoluna odaklanıyor. Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır. Bitcoin'i kopyalamaya çalışanlar günümüzün simyacılarıdır.  
+
+> "Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır."  
+
+Bize bitcoin'in çok yavaş olduğunu söylüyorlar, bu yüzden "daha hızlı" bir kopya yaratıyorlar. Ya da bize bitcoin'in küresel ekonominin gerektirdiği işlem sayısını gerçekleştirme kapasitesine sahip olmadığını söylüyorlar, böylece "daha büyük" ölçeğe sahip bir kopya yaratıyorlar. Sonra bize bitcoin'in bir para birimi olamayacak kadar değişken olduğunu söylüyorlar, böylece "daha istikrarlı" bir versiyon yaratıyorlar. Bu böyle devam ediyor. Daha sonra bitcoin'in çok katı olduğunu ve daha programlanabilir olması gerektiğini söyleyerek "daha esnek" bir kopya yaratıyorlar.  Hatta sık sık bize yarattıkları şeyin para olmadığını, bunun yerine "ödemeler" için bir araç ya da bir "yardımcı program" veya belki de "gazla çalışan küresel bir bilgisayar" olduğunu söylüyorlar. Ayrıca bizi yüzlerce, hatta binlerce para biriminin olduğu bir dünyaya ikna etmeye çalışıyorlar. Ancak hiç kuşkunuz olmasın, her durumda bunlar para basma girişimleridir.  
+
+# Bitcoin'in Değer Fonksiyonu  
+
+**Eğer bir varlığın birincil (tek olmasa da) kullanım amacı diğer mal ve hizmetlerin takası ise ve üretken bir varlığın (hisse senedi veya tahvil gibi) gelir akışı üzerinde talep hakkı yoksa, bir para biçimi olarak rekabet etmelidir ve ancak güvenilir parasal özelliklere sahipse değer depolayacaktır.** Her "özellik" değişikliğinde, bitcoin'i kopyalamaya çalışanlar, bitcoin'i değerli veya para olarak uygun kılan özellikleri anlamadıklarını gösteriyorlar. Bitcoin'in yazılım kodu 2009'da yayınlandığında o bir para değildi. Bugüne kadar, bitcoin'in yazılım kodu para değildir. Yarın kodu kopyalayabilir veya yeni bir özellikle kendi versiyonunuzu yaratabilirsiniz, ancak bitcoin'i para olarak kabul eden hiç kimse sizin versiyonunuzu kabul etmeyecektir. Bitcoin'in zaman içinde para olabilmesi, bitcoin ağının başlangıcında var olmayan ortaya çıkan özellikler geliştirmesiyle mümkün olmuştur ve bitcoin artık var olduğu için bu özelliklerin kopyalanması neredeyse imkansızdır.  
+
+> "Bitcoin'i kopyalamaya çalışanlar, bitcoin'i değerli veya para olarak uygun kılan özellikleri anlamadıklarını gösteriyorlar"  
+
+Bu özellikler, dünyanın dört bir yanındaki bireysel ekonomik aktörlerin bitcoin'i değerlendirmeleri ve servetlerinin bir kısmını bitcoin'de saklamaya karar vermeleriyle organik ve spontan bir şekilde ortaya çıkmıştır. Bitcoin'in değeri arttıkça merkezsizleşti ve merkezsizleştikçe ağın konsensüs kurallarını değiştirmek ya da geçerli işlemleri geçersiz kılmak veya engellemek de giderek zorlaştı (genellikle sansüre direnç olarak adlandırılır). Bitcoin'in yeterince merkeziyetsiz olup olmadığı ya da sansüre yeterince dirençli olup olmadığı konusunda makul tartışmalar devam etmektedir, ancak durum böyle olsa da, tartışmaya **daha az** konu olan başka hususlar da vardır:  
+
+1. Bitcoin, ister geleneksel para birimleri, ister diğer dijital para birimleri ya da altın gibi emtia paraları ile karşılaştırılsın, bugün dünyadaki en merkeziyetsiz ve sansüre en dirençli para sistemidir.  
+
+2. Bitcoin değerini merkeziyetsiz olmasından ve sansüre karşı dirençli olmasından almaktadır; bitcoin'in sabit 21 milyon arzının güvenilirliğini sağlayan ve güçlendiren (yani etkili bir değer saklama aracı olmasının nedeni) bu özelliklerdir.  
+
+3. Bitcoin, değeri arttıkça ve ağın tüm seviyelerinde ölçeklendikçe giderek daha merkeziyetsiz ve sansüre karşı daha dirençli hale gelmektedir.  
+
+4. Tekrarla.  
+
+![Bitcoin'in erdemli döngüsü](/images/content/blog/bitcoin-kopyalanamaz/bitcoin-virtuous-cycle.png)
+
+# Parasal Sistemler Teke Eğilimlidir
+
+Diğer tüm itibari para birimleri, emtia paraları ya da kripto paralar, bilinse de bilinmese de bitcoin ile aynı kullanım alanı için rekabet etmektedir ve parasal sistemler tek bir araca eğilim gösterirler çünkü bunların faydası tüketim ya da üretimden ziyade likiditedir. Parasal ağları değerlendirirken, daha büyük, daha likit ve daha güvenli bir ağ ulaşılabilir bir seçenek olarak mevcutsa, değeri daha küçük, daha az likit ve daha az güvenli bir ağda saklamak mantıksız olacaktır.  
+
+Bir sağduyu testi uygulayın. İki hafta çalıştınız ve işvereniniz size tüm dünyada 1 milyar kişi tarafından kabul edilen bir para birimiyle ya da 1 milyon kişi tarafından kabul edilen bir para birimiyle ödeme yapmayı teklif etseydi, hangisini seçerdiniz?  Birinin %99,9'unu ve diğerinin %0,1'ini mi talep ederdiniz, yoksa şansınızı bir milyar arkadaşınızla mı denerdiniz? ABD'de ikamet ediyorsanız ve yılda bir hafta Avrupa'ya seyahat ediyorsanız, işvereninizden size her hafta 1/52 oranında avro ödemesini talep eder misiniz yoksa şansınızı dolarla mı denersiniz? Pratik gerçeklik, neredeyse tüm bireylerin değeri tek bir parasal varlıkta sakladığıdır. Diğer parasal varlıklar olmadığı için değil, kendi piyasa ekonomileri içinde en likit varlık olduğu için.  
+
+Venezüella bolivarı ya da Arjantin pesosu olan herkes, mümkün olsa dolar sistemine geçmeyi tercih ederdi. Ve benzer şekilde, bir bitcoin kopyasında spekülasyon yapmayı seçen herkes, daha az likit, daha az güvenli bir parasal ağa gönüllü olarak katılma gibi mantıksız bir karar vermiş oluyor. Belirli para ağları bugün bitcoin'den daha büyük ve daha likit olsa da (örneğin dolar, euro, yen), servetlerinin bir yüzdesini bitcoin'de saklamayı seçen bireyler bunu ortalama olarak daha güvenli olduğuna inandıkları için yapıyor ( merkeziyetsiz → sansüre dirençli → sabit arz → değer saklama aracı). Ve başkalarının da (örneğin yakında arkadaş olacak bir milyar kişi) katılacağı beklentisi nedeniyle likidite ve ticaret ortakları artıyor.  
+
+> "Bir bitcoin kopyasında spekülasyon yapmayı seçen herkes, daha az likit, daha az güvenli bir parasal ağa gönüllü olarak katılma gibi mantıksız bir karar vermiş oluyor."  
+
+# Bitcoin Neden Kopyalanamaz?
+
+Dijital para birimleri yaratan birçok kişi, yarattıkları şeyin başarılı olması için para olması gerektiğini ya kabul ya da itiraf etmiyor; bu varlıklarda spekülasyon yapan diğerleri, parasal sistemlerin tek bir araca eğilimli olduğunu anlamıyor ya da safça kendi para birimlerinin bitcoin ile rekabet edebileceğine inanıyor. Hiçbiri, tercih ettikleri dijital para biriminin nasıl daha merkeziyetsiz, sansüre daha dirençli hale geleceğini veya bitcoin'den daha fazla likidite geliştireceğini açıklayamaz. Bunu daha da ileri götürmek gerekirse, başka hiçbir dijital para birimi, inandırıcı bir şekilde uygulanan bir para politikasına sahip olmak için gereken asgari merkeziyetsizlik veya sansüre direnç düzeyine muhtemelen ulaşamayacaktır. Bitcoin Standardı kitabından bir sayfa bunu iyi bir şekilde göstermektedir:
+
+![Blok zincir karar tablosu](/images/content/blog/bitcoin-kopyalanamaz/blockchain-karar-tablosu.png)
+
+Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kıtlığa ulaştığı için değerlidir. Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kısıtlılığı sağladığı için değerlidir. Bitcoin'in kısıtlı olmasının (ve para politikasının) güvenilirliği sadece merkeziyetsiz ve sansüre dirençli olmasından kaynaklanmaktadır ki bunun da yazılımla çok az ilgisi vardır.
+
+[Orijinal Makale](https://unchained.com/blog/bitcoin-cant-be-copied/)
+İlk yayınlanma tarihi: 02/08/2019 | Son güncelleme: 01/17/2023 | Okuma süresi: 9 dakika
