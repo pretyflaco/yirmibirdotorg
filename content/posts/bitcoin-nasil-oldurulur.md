@@ -4,7 +4,7 @@ title: "Bitcoin Nasıl Öldürülür"
 author: "Gigi"
 authorURL: "https://twitter.com/dergigi"
 meta: |
-  Bitcoin Nasıl Öldürülür - Aşağıda Bitcoin canavarının nasıl öldürüleceğine dair ayrıntılı, derinlemesine ve pratik bir adım adım kılavuz yer almaktadır. Bitcoin son derece dirençlidir. Milletvekili Patrick McHenry'nin de dediği gibi: hükümetler bu yeniliği durduramaz.
+  Burada Bitcoin canavarının nasıl öldürüleceğine dair ayrıntılı, derinlemesine ve pratik bir adım adım kılavuz yer almaktadır. Bitcoin son derece dirençlidir. Milletvekili Patrick McHenry'nin de dediği gibi: hükümetler bu yeniliği durduramaz.
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
 slug: "bitcoin-nasil-oldurulur"
