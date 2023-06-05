@@ -4,14 +4,14 @@ title: "Bitcoin Kopyalanamaz"
 author: "Parker Lewis"
 authorURL: "https://twitter.com/parkeralewis"
 meta: |
-  Bitcoin'in bir şekilde devletler tarafından yasaklanabileceği fikri, kabullenmeden hemen önce, kederin son aşamasıdır. Bu ifade, bitcoin'in "işe yaradığının" bir kabulüdür. Aslında, bitcoin'in mevcut hükümet tekellerini tehdit edecek kadar iyi çalıştığı gerçeğini temsil ediyor...
+  Bitcoin'den önce, para basma ayrıcalığı küresel merkez bankalarına mahsustu. Bitcoin sonrası, artık her Ali, Mehmet ve Ayşe kendilerinin de para basabileceğini düşünüyor gibi görünüyor...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
 translator2: "Alican"
 translatorURL2: "https://twitter.com/alicanvergin"
 slug: "bitcoin-kopyalanamaz"
 flag: "turkey"
-img: 'bitcoin-kopyalanamaz'
+img: 'bitcoin-yasaklanamaz'
 tags:
     - translation
 ---
