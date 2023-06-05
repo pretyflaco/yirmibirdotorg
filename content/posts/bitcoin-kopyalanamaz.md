@@ -20,7 +20,7 @@ tags:
 
 2019'da burada oturmuş, binlerce yıldır ilk kez bir ekonomik varlığın (bitcoin) serbest piyasada parasallaşmasına tanıklık ediyoruz. Bu durumun önemini düşünmek ya da bunun nasıl ve neden mümkün olduğunu anlamak yerine, pek çok insan bunun üzerinden atlıyor ve bir türeve ya da ilk etapta görmedikleri bir sorunu iyileştirmenin bir yoluna odaklanıyor. Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır. Bitcoin'i kopyalamaya çalışanlar günümüzün simyacılarıdır.  
 
-> "Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır."  
+> Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır.  
 
 Bize bitcoin'in çok yavaş olduğunu söylüyorlar, bu yüzden "daha hızlı" bir kopya yaratıyorlar. Ya da bize bitcoin'in küresel ekonominin gerektirdiği işlem sayısını gerçekleştirme kapasitesine sahip olmadığını söylüyorlar, böylece "daha büyük" ölçeğe sahip bir kopya yaratıyorlar. Sonra bize bitcoin'in bir para birimi olamayacak kadar değişken olduğunu söylüyorlar, böylece "daha istikrarlı" bir versiyon yaratıyorlar. Bu böyle devam ediyor. Daha sonra bitcoin'in çok katı olduğunu ve daha programlanabilir olması gerektiğini söyleyerek "daha esnek" bir kopya yaratıyorlar.  Hatta sık sık bize yarattıkları şeyin para olmadığını, bunun yerine "ödemeler" için bir araç ya da bir "yardımcı program" veya belki de "gazla çalışan küresel bir bilgisayar" olduğunu söylüyorlar. Ayrıca bizi yüzlerce, hatta binlerce para biriminin olduğu bir dünyaya ikna etmeye çalışıyorlar. Ancak hiç kuşkunuz olmasın, her durumda bunlar para basma girişimleridir.  
 
@@ -28,7 +28,7 @@ Bize bitcoin'in çok yavaş olduğunu söylüyorlar, bu yüzden "daha hızlı" b
 
 **Eğer bir varlığın birincil (tek olmasa da) kullanım amacı diğer mal ve hizmetlerin takası ise ve üretken bir varlığın (hisse senedi veya tahvil gibi) gelir akışı üzerinde talep hakkı yoksa, bir para biçimi olarak rekabet etmelidir ve ancak güvenilir parasal özelliklere sahipse değer depolayacaktır.** Her "özellik" değişikliğinde, bitcoin'i kopyalamaya çalışanlar, bitcoin'i değerli veya para olarak uygun kılan özellikleri anlamadıklarını gösteriyorlar. Bitcoin'in yazılım kodu 2009'da yayınlandığında o bir para değildi. Bugüne kadar, bitcoin'in yazılım kodu para değildir. Yarın kodu kopyalayabilir veya yeni bir özellikle kendi versiyonunuzu yaratabilirsiniz, ancak bitcoin'i para olarak kabul eden hiç kimse sizin versiyonunuzu kabul etmeyecektir. Bitcoin'in zaman içinde para olabilmesi, bitcoin ağının başlangıcında var olmayan ortaya çıkan özellikler geliştirmesiyle mümkün olmuştur ve bitcoin artık var olduğu için bu özelliklerin kopyalanması neredeyse imkansızdır.  
 
-> "Bitcoin'i kopyalamaya çalışanlar, bitcoin'i değerli veya para olarak uygun kılan özellikleri anlamadıklarını gösteriyorlar"  
+> Bitcoin'i kopyalamaya çalışanlar, bitcoin'i değerli veya para olarak uygun kılan özellikleri anlamadıklarını gösteriyorlar  
 
 Bu özellikler, dünyanın dört bir yanındaki bireysel ekonomik aktörlerin bitcoin'i değerlendirmeleri ve servetlerinin bir kısmını bitcoin'de saklamaya karar vermeleriyle organik ve spontan bir şekilde ortaya çıkmıştır. Bitcoin'in değeri arttıkça merkezsizleşti ve merkezsizleştikçe ağın konsensüs kurallarını değiştirmek ya da geçerli işlemleri geçersiz kılmak veya engellemek de giderek zorlaştı (genellikle sansüre direnç olarak adlandırılır). Bitcoin'in yeterince merkeziyetsiz olup olmadığı ya da sansüre yeterince dirençli olup olmadığı konusunda makul tartışmalar devam etmektedir, ancak durum böyle olsa da, tartışmaya **daha az** konu olan başka hususlar da vardır:  
 
@@ -50,7 +50,7 @@ Bir sağduyu testi uygulayın. İki hafta çalıştınız ve işvereniniz size t
 
 Venezüella bolivarı ya da Arjantin pesosu olan herkes, mümkün olsa dolar sistemine geçmeyi tercih ederdi. Ve benzer şekilde, bir bitcoin kopyasında spekülasyon yapmayı seçen herkes, daha az likit, daha az güvenli bir parasal ağa gönüllü olarak katılma gibi mantıksız bir karar vermiş oluyor. Belirli para ağları bugün bitcoin'den daha büyük ve daha likit olsa da (örneğin dolar, euro, yen), servetlerinin bir yüzdesini bitcoin'de saklamayı seçen bireyler bunu ortalama olarak daha güvenli olduğuna inandıkları için yapıyor ( merkeziyetsiz → sansüre dirençli → sabit arz → değer saklama aracı). Ve başkalarının da (örneğin yakında arkadaş olacak bir milyar kişi) katılacağı beklentisi nedeniyle likidite ve ticaret ortakları artıyor.  
 
-> "Bir bitcoin kopyasında spekülasyon yapmayı seçen herkes, daha az likit, daha az güvenli bir parasal ağa gönüllü olarak katılma gibi mantıksız bir karar vermiş oluyor."  
+> Bir bitcoin kopyasında spekülasyon yapmayı seçen herkes, daha az likit, daha az güvenli bir parasal ağa gönüllü olarak katılma gibi mantıksız bir karar vermiş oluyor.  
 
 # Bitcoin Neden Kopyalanamaz?
 
@@ -74,7 +74,7 @@ Empirik kanıtlar (fiyat mekanizması ve değer), piyasanın bitcoin'in farklıl
 
 [Nassim Taleb](https://twitter.com/nntaleb), çok küçük ve uzlaşmaz bir azınlığın kendi tercihlerini çoğunluğa nasıl dayatabildiğini yazıyor, buna azınlık kuralı diyor ve neden [En Tahammülsüz Olanın Kazandığını](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15) açıklıyor. Bitcoin (ve parasal sistemler) bu fenomenin mükemmel bir örneğidir. Eğer çok küçük bir azınlık bitcoin'in üstün parasal özelliklere sahip olduğunu ve sizin dijital (ya da geleneksel) para biriminizi para olarak kabul etmeyeceğini düşünürken, daha zayıf inançlı piyasa katılımcıları hem bitcoin'i hem de diğer para birimlerini kabul ederse, tahammülsüz azınlık kazanır. Dijital para üstünlüğü için küresel rekabette yaşanan tam da budur. Piyasa katılımcılarının küçük bir azınlığı, diğer tüm dijital para birimlerinin parasal özelliklerini reddederek yalnızca bitcoin'in geçerli olduğuna karar verirken, çoğunluk bitcoin'i diğer paralarla birlikte kabul etmeye razıdır. Uzlaşmazlığı nedeniyle azınlık, tercihini yavaş yavaş çoğunluğa dayatıyor. Dijital paralar dünyasında, çeşitlendirme yapmak, kalabalığın (ya da tahammülsüz azınlığın) gelecekteki paranızın ne olacağına karar vermesine izin vermek ve kendinizi normalde biriktireceğiniz paranın yalnızca bir kısmına razı etmekle eşdeğerdir. Zor kazanılmış paranızı bir kağıt parçasına değişmeden önce ödünleşimleri değerlendirin ve azınlık kuralını göz önünde bulundurun. Para ağaçta büyümez.  
 
-> "Bitcoin olağanüstü bir kriptografik başarıdır ve dijital dünyada kopyalanamayan bir şey yaratma becerisi muazzam bir değere sahiptir."  
+> Bitcoin olağanüstü bir kriptografik başarıdır ve dijital dünyada kopyalanamayan bir şey yaratma becerisi muazzam bir değere sahiptir.  
 - Eric Schmidt (Eski Google CEO'su)
 
 [Orijinal Makale](https://unchained.com/blog/bitcoin-cant-be-copied/)
