@@ -64,7 +64,7 @@ Bu sonuca, aşağıdaki hususlara ilişkin kendi anlayışını geliştirmeden v
 
 1. Bitcoin'in son derece kısıtlı olması (nasıl/neden);  
 2. Bitcoin'in kısıtlı olduğu için değerli olması; ve  
-3. parasal ağların tek bir araca yönelmesi.  
+3. parasal ağların tek bir araca eğilmesi.  
 
 Farklı sonuçlara varabilirsiniz, ancak bu, herhangi bir özellik setine dayalı bir çerçeveden ziyade bitcoin'i kopyalamanın (veya rekabet etmenin) mümkün olup olmadığını düşünürken göz önünde bulundurulması gereken uygun çerçevedir. Ayrıca, sizin veya benimki de dahil olmak üzere herhangi bir bireyin vardığı sonuçların denklemde çok az etkisi olduğunu kabul etmek de önemlidir. Bunun yerine önemli olan, piyasa görüş birliğinin neye inandığı ve en güvenilir uzun vadeli değer deposu olarak neye yakınsadığıdır.  
 
