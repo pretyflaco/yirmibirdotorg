@@ -58,7 +58,24 @@ Dijital para birimleri yaratan birçok kişi, yarattıkları şeyin başarılı 
 
 ![Blok zincir karar tablosu](/images/content/blog/bitcoin-kopyalanamaz/blockchain-karar-tablosu.png)
 
-Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kıtlığa ulaştığı için değerlidir. Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kısıtlılığı sağladığı için değerlidir. Bitcoin'in kısıtlı olmasının (ve para politikasının) güvenilirliği sadece merkeziyetsiz ve sansüre dirençli olmasından kaynaklanmaktadır ki bunun da yazılımla çok az ilgisi vardır.
+Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kıtlığa ulaştığı için değerlidir. Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kısıtlılığı sağladığı için değerlidir. Bitcoin'in kısıtlı olmasının (ve para politikasının) güvenilirliği sadece merkeziyetsiz ve sansüre dirençli olmasından kaynaklanmaktadır ki bunun da yazılımla çok az ilgisi vardır. Toplamda bu, giderek artan benimseme ve likiditeyi teşvik eder, bu da bitcoin ağının değerini pekiştirir ve güçlendirir. Bu sürecin bir parçası olarak, bireyler aynı zamanda daha kalitesiz parasal ağlardan çıkmayı tercih ediyor. Bitcoin'de ortaya çıkan özelliklerin kopyalanmasının neredeyse imkansız olmasının temel nedeni budur. Ve aynı zamanda bitcoin'in kopyalanamamasının ya da rekabet dışı bırakılamamasının nedeni de budur: çünkü bitcoin zaten bir seçenek olarak mevcuttur ve parasal özellikleri zaman ilerledikçe (ve daha büyük ölçekte) daha güçlü hale gelirken, aynı zamanda daha kalitesiz parasal ağların doğrudan pahasına olur.  
+
+Bu sonuca, aşağıdaki hususlara ilişkin kendi anlayışını geliştirmeden varmak mümkün değildir:  
+
+1. Bitcoin'in son derece kısıtlı olması (nasıl/neden);  
+2. Bitcoin'in kısıtlı olduğu için değerli olması; ve  
+3. parasal ağların tek bir araca yönelmesi.  
+
+Farklı sonuçlara varabilirsiniz, ancak bu, herhangi bir özellik setine dayalı bir çerçeveden ziyade bitcoin'i kopyalamanın (veya rekabet etmenin) mümkün olup olmadığını düşünürken göz önünde bulundurulması gereken uygun çerçevedir. Ayrıca, sizin veya benimki de dahil olmak üzere herhangi bir bireyin vardığı sonuçların denklemde çok az etkisi olduğunu kabul etmek de önemlidir. Bunun yerine önemli olan, piyasa görüş birliğinin neye inandığı ve en güvenilir uzun vadeli değer deposu olarak neye yakınsadığıdır.  
+
+Empirik kanıtlar (fiyat mekanizması ve değer), piyasanın bitcoin'in farklılığını belirlemeye devam ettiğini göstermektedir. Ciddi miktarda gürültüye rağmen. Tahminde bulunmadan önce, bitcoin'in neden işe yaradığını ve neden benzersiz olduğunu anlamaya çalışın. Birisi size daha iyi bir bitcoin veya farklılaştırıcı bir özellikten bahsettiğinde, sizden önceki son on yılda aynı yol ayrımına gelen piyasanın bu ödünleşimleri dikkate aldığını ve çok rasyonel nedenlerle rakipleri yerine bitcoin'i tercih ettiğini unutmayın.  
+
+# Azınlık Kuralı
+
+[Nassim Taleb](https://twitter.com/nntaleb), çok küçük ve uzlaşmaz bir azınlığın kendi tercihlerini çoğunluğa nasıl dayatabildiğini yazıyor, buna azınlık kuralı diyor ve neden [En Tahammülsüz Olanın Kazandığını](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15) açıklıyor. Bitcoin (ve parasal sistemler) bu fenomenin mükemmel bir örneğidir. Eğer çok küçük bir azınlık bitcoin'in üstün parasal özelliklere sahip olduğunu ve sizin dijital (ya da geleneksel) para biriminizi para olarak kabul etmeyeceğini düşünürken, daha zayıf inançlı piyasa katılımcıları hem bitcoin'i hem de diğer para birimlerini kabul ederse, tahammülsüz azınlık kazanır. Dijital para üstünlüğü için küresel rekabette yaşanan tam da budur. Piyasa katılımcılarının küçük bir azınlığı, diğer tüm dijital para birimlerinin parasal özelliklerini reddederek yalnızca bitcoin'in geçerli olduğuna karar verirken, çoğunluk bitcoin'i diğer paralarla birlikte kabul etmeye razıdır. Uzlaşmazlığı nedeniyle azınlık, tercihini yavaş yavaş çoğunluğa dayatıyor. Dijital paralar dünyasında, çeşitlendirme yapmak, kalabalığın (ya da tahammülsüz azınlığın) gelecekteki paranızın ne olacağına karar vermesine izin vermek ve kendinizi normalde biriktireceğiniz paranın yalnızca bir kısmına razı etmekle eşdeğerdir. Zor kazanılmış paranızı bir kağıt parçasına değişmeden önce ödünleşimleri değerlendirin ve azınlık kuralını göz önünde bulundurun. Para ağaçta büyümez.  
+
+> "Bitcoin olağanüstü bir kriptografik başarıdır ve dijital dünyada kopyalanamayan bir şey yaratma becerisi muazzam bir değere sahiptir."  
+- Eric Schmidt (Eski Google CEO'su)
 
 [Orijinal Makale](https://unchained.com/blog/bitcoin-cant-be-copied/)
 İlk yayınlanma tarihi: 02/08/2019 | Son güncelleme: 01/17/2023 | Okuma süresi: 9 dakika
