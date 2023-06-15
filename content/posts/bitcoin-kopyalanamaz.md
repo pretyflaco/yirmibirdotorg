@@ -7,8 +7,8 @@ meta: |
   Bitcoin'den önce, para basma ayrıcalığı küresel merkez bankalarına mahsustu. Bitcoin sonrası, artık her Ali, Mehmet ve Ayşe kendilerinin de para basabileceğini düşünüyor gibi görünüyor...
 translator: "Kemal"
 translatorURL: "https://twitter.com/_pretyflaco"
-translator2: "Alican"
-translatorURL2: "https://twitter.com/alicanvergin"
+translator2: "Kaan"
+translatorURL2: "https://twitter.com/kaan_bey"
 slug: "bitcoin-kopyalanamaz"
 flag: "turkey"
 img: 'bitcoin-yasaklanamaz'
@@ -16,13 +16,13 @@ tags:
     - translation
 ---
 
-Çocukluğumuzda paranın ağaçta büyümediğini öğreniriz. Toplum olarak ise daha sonra para basmanın mümkün olduğunu, hatta para basmanın ekonomimizin normal, gerekli ve üretken bir işlevi olduğuna inandırılırız. Bitcoin'den önce, bu para basma ayrıcalığı küresel merkez bankalarına mahsustu (örneğin [buraya bakınız](https://fred.stlouisfed.org/series/BASE)). Bitcoin sonrası, artık her Ali, Mehmet ve Ayşe kendilerinin de para basabileceğini düşünüyor gibi görünüyor. Bitcoin'in bir kopyasını yaratmaya çalışmanın temelinde yatan cüret budur. İster konsensüs dışı bir hard-fork yaparak (bitcoin cash), ister bitcoin'i klonlayarak (litecoin) ya da "daha iyi" özelliklere sahip yeni bir protokol yaratarak (ethereum) olsun, her biri yeni bir para basma girişimidir. Bitcoin yapabiliyorsa, biz neden yapamayalım?  
+Çocukluğumuzda paranın ağaçta büyümediğini öğreniriz. Toplum olarak ise daha sonra para basmanın mümkün olduğunu, hatta para basmanın ekonomimizin normal, gerekli ve üretken bir işlevi olduğuna inandırılırız. Bitcoin'den önce, bu para basma ayrıcalığı küresel merkez bankalarına mahsustu (örneğin [buraya bakınız](https://fred.stlouisfed.org/series/BASE)). Bitcoin'den sonra artık Aliler, Mehmetler ve Ayşeler kendilerinin de para basabileceklerini düşünüyor gibi görünüyorlar. Bitcoin'in bir kopyasını yaratmaya çalışmanın temelinde yatan cüret budur. İster konsensüs dışı bir hard-fork yaparak (bitcoin cash), ister bitcoin'i klonlayarak (litecoin) ya da "daha iyi" özelliklere sahip yeni bir protokol yaratarak (ethereum) olsun, her biri yeni bir para basma girişimidir. Bitcoin yapabiliyorsa, biz neden yapamayalım?  
 
 2019'da burada oturmuş, binlerce yıldır ilk kez bir ekonomik varlığın (bitcoin) serbest piyasada parasallaşmasına tanıklık ediyoruz. Bu durumun önemini düşünmek ya da bunun nasıl ve neden mümkün olduğunu anlamak yerine, pek çok insan bunun üzerinden atlıyor ve bir türeve ya da ilk etapta görmedikleri bir sorunu iyileştirmenin bir yoluna odaklanıyor. Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır. Bitcoin'i kopyalamaya çalışanlar günümüzün simyacılarıdır.  
 
 > Herkes kısa yoldan zengin olmak ister ve para olduğu sürece simyacılar da olacaktır.  
 
-Bize bitcoin'in çok yavaş olduğunu söylüyorlar, bu yüzden "daha hızlı" bir kopya yaratıyorlar. Ya da bize bitcoin'in küresel ekonominin gerektirdiği işlem sayısını gerçekleştirme kapasitesine sahip olmadığını söylüyorlar, böylece "daha büyük" ölçeğe sahip bir kopya yaratıyorlar. Sonra bize bitcoin'in bir para birimi olamayacak kadar değişken olduğunu söylüyorlar, böylece "daha istikrarlı" bir versiyon yaratıyorlar. Bu böyle devam ediyor. Daha sonra bitcoin'in çok katı olduğunu ve daha programlanabilir olması gerektiğini söyleyerek "daha esnek" bir kopya yaratıyorlar.  Hatta sık sık bize yarattıkları şeyin para olmadığını, bunun yerine "ödemeler" için bir araç ya da bir "yardımcı program" veya belki de "gazla çalışan küresel bir bilgisayar" olduğunu söylüyorlar. Ayrıca bizi yüzlerce, hatta binlerce para biriminin olduğu bir geleceğe ikna etmeye çalışıyorlar. Ancak hiç kuşkunuz olmasın, her durumda bunlar para basma girişimleridir.  
+Bize bitcoin'in çok yavaş olduğunu söylüyorlar, bu yüzden "daha hızlı" bir kopya yaratıyorlar. Ya da bize bitcoin'in küresel ekonominin gerektirdiği işlem sayısını gerçekleştirme kapasitesine sahip olmadığını söylüyorlar, böylece "daha büyük" ölçeğe sahip bir kopya yaratıyorlar. Sonra bize bitcoin'in bir para birimi olamayacak kadar değişken olduğunu söylüyorlar, böylece "daha istikrarlı" bir versiyon yaratıyorlar. Bu böyle devam ediyor. Daha sonra bitcoin'in çok katı olduğunu ve daha programlanabilir olması gerektiğini söyleyerek "daha esnek" bir kopya yaratıyorlar.  Hatta sık sık bize yarattıkları şeyin para olmadığını, bunun yerine "ödemeler" için bir araç ya da bir "yardımcı program" veya belki de "gazla çalışan küresel bir bilgisayar" olduğunu söylüyorlar. Ayrıca bizi yüzlerce, hatta binlerce para biriminin olduğu bir dünyaya ikna etmeye çalışıyorlar. Ancak hiç kuşkunuz olmasın, her durumda bunlar para basma girişimleridir.  
 
 # Bitcoin'in Değer Fonksiyonu  
 
@@ -58,7 +58,7 @@ Dijital para birimleri yaratan birçok kişi, yarattıkları şeyin başarılı 
 
 ![Blok zincir karar tablosu](/images/content/blog/bitcoin-kopyalanamaz/blockchain-karar-tablosu.png)
 
-Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kısıtlılığı sağladığı için değerlidir. Bitcoin'in kısıtlı olmasının (ve para politikasının) güvenilirliği sadece merkeziyetsiz ve sansüre dirençli olmasından kaynaklanmaktadır ki bunun da yazılımla çok az ilgisi vardır. Toplamda bu, giderek artan benimseme ve likiditeyi teşvik eder, bu da bitcoin ağının değerini pekiştirir ve güçlendirir. Bu sürecin bir parçası olarak, bireyler aynı zamanda daha kalitesiz parasal ağlardan çıkmayı tercih ediyor. Bitcoin'de ortaya çıkan özelliklerin kopyalanmasının neredeyse imkansız olmasının temel nedeni budur. Ve aynı zamanda bitcoin'in kopyalanamamasının ya da rekabet dışı bırakılamamasının nedeni de budur: çünkü bitcoin zaten bir seçenek olarak mevcuttur ve parasal özellikleri zaman ilerledikçe (ve daha büyük ölçekte) daha güçlü hale gelirken, aynı zamanda daha kalitesiz parasal ağların doğrudan pahasına olur.  
+Bitcoin belirli bir özelliğinden dolayı değil, değer saklama özelliğini elde ettiği sınırlı, dijital kısıtlılığı sağladığı için değerlidir. Bitcoin'in kısıtlı olmasının (ve para politikasının) güvenilirliği sadece merkeziyetsiz ve sansüre dirençli olmasından kaynaklanmaktadır ki bunun da yazılımla çok az ilgisi vardır. Toplamda bu, giderek artan benimseme ve likiditeyi teşvik eder, bu da bitcoin ağının değerini pekiştirir ve güçlendirir. Bu sürecin bir parçası olarak, bireyler aynı zamanda daha kalitesiz parasal ağlardan çıkmayı tercih ediyor. Bitcoin'de ortaya çıkan özelliklerin kopyalanmasının neredeyse imkansız olmasının temel nedeni budur. Ve aynı zamanda bitcoin'in kopyalanamamasının ya da rekabet dışı bırakılamamasının nedeni de budur: çünkü bitcoin zaten bir seçenek olarak mevcuttur ve parasal özellikleri zamanla (ve daha büyük ölçekte) daha güçlü hale gelir. Bu da bir yandan daha zayıf parasal ağları yok ederek gerçekleşir.  
 
 Bu sonuca, aşağıdaki hususlara ilişkin kendi anlayışını geliştirmeden varmak mümkün değildir:  
 
@@ -66,7 +66,7 @@ Bu sonuca, aşağıdaki hususlara ilişkin kendi anlayışını geliştirmeden v
 2. Bitcoin'in kısıtlı olduğu için değerli olması; ve  
 3. parasal ağların tek bir araca eğilmesi.  
 
-Farklı sonuçlara varabilirsiniz, ancak bu, herhangi bir özellik setine dayalı bir çerçeveden ziyade bitcoin'i kopyalamanın (veya rekabet etmenin) mümkün olup olmadığını düşünürken göz önünde bulundurulması gereken uygun çerçevedir. Ayrıca, sizin veya benimki de dahil olmak üzere herhangi bir bireyin vardığı sonuçların denklemde çok az etkisi olduğunu kabul etmek de önemlidir. Bunun yerine önemli olan, piyasa görüş birliğinin neye inandığı ve en güvenilir uzun vadeli değer deposu olarak neye yakınsadığıdır.  
+Farklı sonuçlara varabilirsiniz, ancak bu, herhangi bir özellik setine dayalı bir çerçeveden ziyade bitcoin'i kopyalamanın (veya rekabet etmenin) mümkün olup olmadığını düşünürken göz önünde bulundurulması gereken uygun çerçevedir. Ayrıca, sizin veya benimki de dahil olmak üzere herhangi bir bireyin vardığı sonuçların denklemde çok az etkisi olduğunu kabul etmek de önemlidir. BBunun yerine önemli olan, piyasadaki görüş birliğinin neye inandığı ve en güvenilir uzun vadeli değer deposu olarak neye yakınlık gösterdiğidir.  
 
 Empirik kanıtlar (fiyat mekanizması ve değer), piyasanın bitcoin'in farklılığını belirlemeye devam ettiğini göstermektedir. Ciddi miktarda gürültüye rağmen. Tahminde bulunmadan önce, bitcoin'in neden işe yaradığını ve neden benzersiz olduğunu anlamaya çalışın. Birisi size daha iyi bir bitcoin veya farklılaştırıcı bir özellikten bahsettiğinde, sizden önceki son on yılda aynı yol ayrımına gelen piyasanın bu ödünleşimleri dikkate aldığını ve çok rasyonel nedenlerle rakipleri yerine bitcoin'i tercih ettiğini unutmayın.  
 
