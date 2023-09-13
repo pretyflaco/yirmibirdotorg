@@ -41,7 +41,7 @@ export default function Index({
           <div
             dangerouslySetInnerHTML={{
               __html: `
-              <a class="twitter-timeline" data-lang="tr" data-width="1000" data-height="600" data-theme="dark" href="https://twitter.com/YirmibirBitcoin/lists/1662960136757837824?ref_src=twsrc%5Etfw">A Twitter List by YirmibirBitcoin</a>
+              <a class="twitter-timeline" data-lang="tr" data-width="1000" data-height="600" data-theme="dark" href="https://twitter.com/i/lists/1662960136757837824?s=20">A Twitter List by YirmibirBitcoin</a>
               <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
               `,
             }}
