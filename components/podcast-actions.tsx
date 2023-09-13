@@ -15,7 +15,7 @@ export function PodcastActions({ title }: { title: string }) {
           <SpotifyIcon />
         </a>
         <a
-          href="https://www.youtube.com/@yirmibirbitcoin9805"
+          href="https://www.youtube.com/@yirmibirbitcoin"
           target="_blank"
           rel="noreferrer"
         >
