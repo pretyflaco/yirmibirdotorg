@@ -7,7 +7,7 @@ export const images = {
   meetupCover: `/images/meetup-cover.webp`,
   meetup: `/images/meetup.webp`,
   player: `/images/player.webp`,
-  hero1: `/images/hero_1.webp`,
+  hero1: `/images/hero_1.jpg`,
   hero2: `/images/hero_2.webp`,
   hero3: `/images/hero_3.webp`,
   hero4: `/images/hero_4.webp`,
