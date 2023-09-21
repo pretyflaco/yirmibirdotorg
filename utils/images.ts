@@ -10,7 +10,7 @@ export const images = {
   hero1: `/images/hero_6.webp`,
   hero2: `/images/hero_2.webp`,
   hero3: `/images/hero_3.webp`,
-  hero4: `/images/hero_4.webp`,
+  hero4: `/images/hero_7.webp`,
   hero5: `/images/hero_5.webp`,
   "bullishcase-featured": `/images/content/bullishcase-featured.jpg`,
   "bitcoin-nasil-oldurulur": `/images/content/bitcoin-nasil-oldurulur.jpg`,
