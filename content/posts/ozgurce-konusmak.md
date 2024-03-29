@@ -23,11 +23,15 @@ Bu beni son günlerde endişelendiren bir kaç şeyden birisine getiriyor. Meden
 
 # Önermeler [n=0]
 
-- ∀i≤c<a href="#fn1" id="ref1"><sup>1</sup></a>
-- P!=NP<a href="#fn2" id="ref2"><sup>2</sup></a>
-- Hayat yaşamaya değer<a href="#fn3" id="ref3"><sup>3</sup></a>
-- Emeksiz yemek olmaz<a href="#fn4" id="ref4"><sup>4</sup></a>
-- İfade özgürlüğü arzulanan bir şeydir.<a href="#fn5" id="ref5"><sup>5</sup></a>
+·     ∀i≤c ¹
+
+·     P!=NP ²
+
+·     Hayat yaşamaya değer ³
+
+·     Emeksiz yemek olmaz ⁴ 
+
+·     İfade özgürlüğü arzulanan bir şeydir. ⁵ 
 
 # Logos (Deyi) [n=1]
 
@@ -45,7 +49,7 @@ Makul olmayan adamı susturursak onu nasıl bulabiliriz ki?  Daha kötüsü; dı
 
 # DiaLogos [n=2]
 
-Özgür ve engelsiz diyalog da tercihe bağlı değildir. Bir şeyleri tartışabilmeliyiz ki diğerleri bize aptal olduğumuz yerde bize söyleyebilsin. Ayrıca hepimiz aptalız. Kendimize has açılardan aptal olabiliriz fakat, ne olursa olsun, hepimiz aptalız. Sanki hiç kör noktası olmayan bir bakış açısı varmış gibi, tarafsız düşünce diye bir şey de yoktur. Yapabileceğimiz en iyi şey bunun farkında olmak ve önyargılarımız ve kör noktalarımız ile mücadele etmektir. Fakat bunu birey olarak yapamayız. Bunu kollektif olarak ve daha da önemlisi, dağıtık olarak yapmalıyız.<sup>6</sup>
+Özgür ve engelsiz diyalog da tercihe bağlı değildir. Bir şeyleri tartışabilmeliyiz ki diğerleri bize aptal olduğumuz yerde bize söyleyebilsin. Ayrıca hepimiz aptalız. Kendimize has açılardan aptal olabiliriz fakat, ne olursa olsun, hepimiz aptalız. Sanki hiç kör noktası olmayan bir bakış açısı varmış gibi, tarafsız düşünce diye bir şey de yoktur. Yapabileceğimiz en iyi şey bunun farkında olmak ve önyargılarımız ve kör noktalarımız ile mücadele etmektir. Fakat bunu birey olarak yapamayız. Bunu kollektif olarak ve daha da önemlisi, dağıtık olarak yapmalıyız.⁶
 
 Bir *Babil Kulesi inşa* etmek kötü bir fikir.
 
@@ -55,13 +59,13 @@ Kamusal söylem de tercih konusu değildir. Çağımızda, özellikle çevrim i�
 
 Topluma bir şey söylemenin en basit yolu bir platforma girmek, bir “kürsüye çıkmak” ve söylemek istediğiniz şeyi söylemek. Ancak buradaki problem, o kürsünün sizin olmaması. Orası başkasının kürsüsü. Bu yüzden sizi kürsüden aşağı indirebilir.
 
-Bu platformlar arasındaki farklar türsel değil, kategoriktir. Kimi platformlarda, cinsel içerik paylaştığınız için farazi bir nezarethaneye düşebilir; kimi platformlarda ise, siyasi söylemden ötürü hapse girebilirsiniz. Bu örnekte farazi bile değil.<sup>7</sup>
+Bu platformlar arasındaki farklar türsel değil, kategoriktir. Kimi platformlarda, cinsel içerik paylaştığınız için farazi bir nezarethaneye düşebilir; kimi platformlarda ise, siyasi söylemden ötürü hapse girebilirsiniz. Bu örnekte farazi bile değil.⁷
 
 > “Bana en namuslu adamın elinden altı satır verin, size onu astıracak bir şeyler bulayım.” 
 >
 > -- Kardinal Richelieu
 
-Eğer birisi sizi platform dışına atma gücüne sahipse, bu güç önünde sonunda kullanılacak ve istismar edilecektir. Yeterince büyük bir skandal veya münakaşa bulunacak veya üretilecek ve *puf*, “sorunlu” kullanıcı gönderildi. Tek bir tuş ile ortadan kaldırıldı. Ne kadar güçlü olduğunuzun bir önemi yok.<sup>8</sup>
+Eğer birisi sizi platform dışına atma gücüne sahipse, bu güç önünde sonunda kullanılacak ve istismar edilecektir. Yeterince büyük bir skandal veya münakaşa bulunacak veya üretilecek ve *puf*, “sorunlu” kullanıcı gönderildi. Tek bir tuş ile ortadan kaldırıldı. Ne kadar güçlü olduğunuzun bir önemi yok.⁸
 
 İşte bu yüzden Serbest Konuşma [platformları](https://twitter.com/dergigi/status/1508217667768963075) var olamaz. Sadece Serbest Konuşma [protokolleri](https://njump.me/nevent1qqsz9fgdac7yvs7z07sx92zf2rkldgnfav2rkce03gdm95efzyfgg4szyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxt5xvet) var olabilir.
 
@@ -89,16 +93,11 @@ Bu kararı sizin için bir başkası veremez. Bu, [sizinle](https://nostr.org/) 
 
 **Dipnotlar:**
 
-<a id="fn1">1.</a> Hiçbir bilgi [ışık hızından](https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds) daha hızlı hareket edemez. Sonuç olarak, senkronizasyon ve bilgi yayılımı söz konusu olduğunda tüm bilgi sistemleri [fiziksel kısıtlamalarla](https://dergigi.com/threads/physical-limits) karşılaşacaktır. [↩](#ref1)
-
-<a id="fn2">2.</a> Kriptografi işe yarıyor ve yaramaya [devam edecek](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP). "[...] bir şekilde [evren şifrelemeye gülümsüyor](https://bitcoin-resources.com/books/cypherpunks)." [↩](#ref2)
-
-<a id="fn3">3.</a> Varoluş [Gerçek ve İyidir](https://www.goodreads.com/book/show/40311194). Ne Nihilizm ne de Solipsizm arzu edilir. "[...] ve [iyiydi](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)." [↩](#ref3)
-
-<a id="fn4">4.</a> Bir şeye [karşılıksız sahip olamayız](https://en.wikipedia.org/wiki/First_law_of_thermodynamics). Özgürlük [sorumluluk](https://archive.is/U6iJ4) gerektirir; elektronik para zaman gerektirir, [zaman](https://dergigi.com/time) ise [ısı](https://dergigi.com/threads/time-requires-heat) gerektirir. [↩](#ref4)
-
-<a id="fn5">5.</a> [İfade özgürlüğü](https://en.wikipedia.org/wiki/Freedom_of_speech) arzu edilir çünkü özgürlük tiranlığa tercih edilir ve her tiranın ilk adımı [konuşmayı kısıtlamak](https://bitcoin-resources.com/books/nineteen-eighty-four1984), muhalifleri susturmak ve [kitapları yakmaktır](https://bitcoin-resources.com/books/fahrenheit451). İkinci adım ise soykırımdır. [↩](#ref5)
- 
+1. Hiçbir bilgi [ışık hızından](https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds) daha hızlı hareket edemez. Sonuç olarak, senkronizasyon ve bilgi yayılımı söz konusu olduğunda tüm bilgi sistemleri [fiziksel kısıtlamalarla](https://dergigi.com/threads/physical-limits) karşılaşacaktır. 
+2. Kriptografi işe yarıyor ve yaramaya [devam edecek](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP). "[...] bir şekilde [evren şifrelemeye gülümsüyor](https://bitcoin-resources.com/books/cypherpunks)." 
+3. Varoluş [Gerçek ve İyidir](https://www.goodreads.com/book/show/40311194). Ne Nihilizm ne de Solipsizm arzu edilir. "[...] ve [iyiydi](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)." 
+4. Bir şeye [karşılıksız sahip olamayız](https://en.wikipedia.org/wiki/First_law_of_thermodynamics). Özgürlük [sorumluluk](https://archive.is/U6iJ4) gerektirir; elektronik para zaman gerektirir, [zaman](https://dergigi.com/time) ise [ısı](https://dergigi.com/threads/time-requires-heat) gerektirir.
+5. [İfade özgürlüğü](https://en.wikipedia.org/wiki/Freedom_of_speech) arzu edilir çünkü özgürlük tiranlığa tercih edilir ve her tiranın ilk adımı [konuşmayı kısıtlamak](https://bitcoin-resources.com/books/nineteen-eighty-four1984), muhalifleri susturmak ve [kitapları yakmaktır](https://bitcoin-resources.com/books/fahrenheit451). İkinci adım ise soykırımdır. 
 6. Podcast şeklinde uzun biçimli diyalogların çoğaldığını görmek harika. Ancak, bu konuşmalar merkezi bir tarafın ev sahipliğinde yapılırsa faydası kaybolur, işte bu yüzden [açık bir podcast ekosistemi](https://newpodcastapps.com/) çok önemlidir.
 7. [İngiltere](https://archive.is/OQ1LC), [Suudi Arabistan](https://archive.is/co19A) vb. örneklere bakınız.
 8. [Görevi başındaki ABD başkanları](https://archive.is/0LvLe) bile platform edilmekten kaçamıyor.
