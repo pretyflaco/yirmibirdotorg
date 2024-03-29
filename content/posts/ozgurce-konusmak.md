@@ -23,15 +23,11 @@ Bu beni son günlerde endişelendiren bir kaç şeyden birisine getiriyor. Meden
 
 # Önermeler [n=0]
 
-·     ∀i≤c<sup>1</sup>
-
-·     P!=NP<sup>2</sup>
-
-·     Hayat yaşamaya değer<sup>3</sup>
-
-·     Emeksiz yemek olmaz<sup>4</sup>
-
-·     İfade özgürlüğü arzulanan bir şeydir.<sup>5</sup>
+- ∀i≤c[^1]
+- P!=NP[^2]
+- Hayat yaşamaya değer[^3]
+- Emeksiz yemek olmaz[^4]
+- İfade özgürlüğü arzulanan bir şeydir.[^5]
 
 # Logos (Deyi) [n=1]
 
@@ -93,11 +89,11 @@ Bu kararı sizin için bir başkası veremez. Bu, [sizinle](https://nostr.org/) 
 
 **Dipnotlar:**
 
-1. Hiçbir bilgi [ışık hızından](https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds) daha hızlı hareket edemez. Sonuç olarak, senkronizasyon ve bilgi yayılımı söz konusu olduğunda tüm bilgi sistemleri [fiziksel kısıtlamalarla](https://dergigi.com/threads/physical-limits) karşılaşacaktır. 
-2. Kriptografi işe yarıyor ve yaramaya [devam edecek](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP). "[...] bir şekilde [evren şifrelemeye gülümsüyor](https://bitcoin-resources.com/books/cypherpunks)." 
-3. Varoluş [Gerçek ve İyidir](https://www.goodreads.com/book/show/40311194). Ne Nihilizm ne de Solipsizm arzu edilir. "[...] ve [iyiydi](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)." 
-4. Bir şeye [karşılıksız sahip olamayız](https://en.wikipedia.org/wiki/First_law_of_thermodynamics). Özgürlük [sorumluluk](https://archive.is/U6iJ4) gerektirir; elektronik para zaman gerektirir, [zaman](https://dergigi.com/time) ise [ısı](https://dergigi.com/threads/time-requires-heat) gerektirir.
-5. [İfade özgürlüğü](https://en.wikipedia.org/wiki/Freedom_of_speech) arzu edilir çünkü özgürlük tiranlığa tercih edilir ve her tiranın ilk adımı [konuşmayı kısıtlamak](https://bitcoin-resources.com/books/nineteen-eighty-four1984), muhalifleri susturmak ve [kitapları yakmaktır](https://bitcoin-resources.com/books/fahrenheit451). İkinci adım ise soykırımdır. 
+[^1]: Hiçbir bilgi [ışık hızından](https://en.wikipedia.org/wiki/Speed_of_light#Upper_limit_on_speeds) daha hızlı hareket edemez. Sonuç olarak, senkronizasyon ve bilgi yayılımı söz konusu olduğunda tüm bilgi sistemleri [fiziksel kısıtlamalarla](https://dergigi.com/threads/physical-limits) karşılaşacaktır.
+[^2]: Kriptografi işe yarıyor ve yaramaya [devam edecek](https://en.wikipedia.org/wiki/P_versus_NP_problem#P_%E2%89%A0_NP). "[...] bir şekilde [evren şifrelemeye gülümsüyor](https://bitcoin-resources.com/books/cypherpunks)."
+[^3]: Varoluş [Gerçek ve İyidir](https://www.goodreads.com/book/show/40311194). Ne Nihilizm ne de Solipsizm arzu edilir. "[...] ve [iyiydi](https://en.wikipedia.org/wiki/Life_Is_Worth_Living)."
+[^4]: Bir şeye [karşılıksız sahip olamayız](https://en.wikipedia.org/wiki/First_law_of_thermodynamics). Özgürlük [sorumluluk](https://archive.is/U6iJ4) gerektirir; elektronik para zaman gerektirir, [zaman](https://dergigi.com/time) ise [ısı](https://dergigi.com/threads/time-requires-heat) gerektirir.
+[^5]: [İfade özgürlüğü](https://en.wikipedia.org/wiki/Freedom_of_speech) arzu edilir çünkü özgürlük tiranlığa tercih edilir ve her tiranın ilk adımı [konuşmayı kısıtlamak](https://bitcoin-resources.com/books/nineteen-eighty-four1984), muhalifleri susturmak ve [kitapları yakmaktır](https://bitcoin-resources.com/books/fahrenheit451). İkinci adım ise soykırımdır. 
 6. Podcast şeklinde uzun biçimli diyalogların çoğaldığını görmek harika. Ancak, bu konuşmalar merkezi bir tarafın ev sahipliğinde yapılırsa faydası kaybolur, işte bu yüzden [açık bir podcast ekosistemi](https://newpodcastapps.com/) çok önemlidir.
 7. [İngiltere](https://archive.is/OQ1LC), [Suudi Arabistan](https://archive.is/co19A) vb. örneklere bakınız.
 8. [Görevi başındaki ABD başkanları](https://archive.is/0LvLe) bile platform edilmekten kaçamıyor.
