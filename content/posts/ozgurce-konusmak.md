@@ -1,14 +1,16 @@
 ---
 index: 13
-title: Özgürce Konuşmak
-meta: Serbest Konuşma Platformlarının Tezatlığı Üzerine
-author: Der Gigi
-authorURL: https://dergigi.com
-translator: Taylan
-translatorURL: https://njump.me/npub166l9t9ckan9yh6j8pku0stszkekt0s8uhqwvddz4qr92r9w0wxcs59u7c3
-slug: ozgurce-konusmak
-flag: turkey
+title: "Özgürce Konuşmak"
+meta: "Serbest Konuşma Platformlarının Tezatlığı Üzerine"
+author: "Der Gigi"
+authorURL: "https://dergigi.com"
+translator: "Taylan"
+translatorURL: "https://njump.me/npub166l9t9ckan9yh6j8pku0stszkekt0s8uhqwvddz4qr92r9w0wxcs59u7c3"
+slug: "ozgurce-konusmak"
+flag: "turkey"
 img: 'ozgurce-konusmak'
+tags:
+    - translation
 ---
 
 Bir arkadaşımla konuşurken ifade özgürlüğü sorunu gündemimize geldi. Şahsen sorun olarak değil bir probleme çözüm olarak görüyorum esasında. Bu, insan olduğumuz sürece, sürekli yüzleşeceğimiz çetrefilli bir sorun. 
