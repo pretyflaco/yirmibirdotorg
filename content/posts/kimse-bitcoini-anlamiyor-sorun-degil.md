@@ -73,7 +73,7 @@ Bitcoin'in ilk versiyonlarında [herkes herkesin parasını harcayabiliyordu](ht
 > ayrı adımda değerlendirilmesini sağladı."   
 - Theymos   
    
-Satoshi, []"en iyi zincir" mantığını en uzun zinciri kullanmaktan](https://github.com/bitcoin/bitcoin/commit/40cd0369419323f8d7385950e20342e998c994e1?ref=yirmibir.org#diff-623e3fd6da1a45222eeec71496747b31R420) en fazla iş ispatına (proof-of-work) sahip olan zinciri kullanmaya değiştirerek büyük bir uzlaşı sorununu çözdü. Teknik olarak bunun bir "hard fork" (Fork ya da çatallama, bir projenin kopyalanması ve çoğazaltılması anlamına gelir) [olduğu söylenebilir](https://twitter.com/petertoddbtc/status/749610420005117952?ref=yirmibir.org); ancak bu bir zincir forklanmasına neden olmadı; çünkü o zaman en uzun zincir aynı zamanda en fazla iş ispatına sahip zincirdi.   
+Satoshi, ["en iyi zincir" mantığını en uzun zinciri kullanmaktan](https://github.com/bitcoin/bitcoin/commit/40cd0369419323f8d7385950e20342e998c994e1?ref=yirmibir.org#diff-623e3fd6da1a45222eeec71496747b31R420) en fazla iş ispatına (proof-of-work) sahip olan zinciri kullanmaya değiştirerek büyük bir uzlaşı sorununu çözdü. Teknik olarak bunun bir "hard fork" (Fork ya da çatallama, bir projenin kopyalanması ve çoğazaltılması anlamına gelir) [olduğu söylenebilir](https://twitter.com/petertoddbtc/status/749610420005117952?ref=yirmibir.org); ancak bu bir zincir forklanmasına neden olmadı; çünkü o zaman en uzun zincir aynı zamanda en fazla iş ispatına sahip zincirdi.   
    
 Ayrıca Satoshi, hizmet reddi saldırılarına karşı koruma olarak [blok boyutunu sınırını ortaya koymuştur](https://sourceforge.net/p/bitcoin/code/103/tree/trunk/main.h?diff=515630145fcbc978e39dbaa5%3A102&ref=yirmibir.org). Blok boyutu ilk başta sadece 32 Megabaytlık bir ağ mesajı boyutuyla dolaylı olarak sınırlıydı.   
    
@@ -89,7 +89,7 @@ Ben Satoshi'nin erken aşamalarındaki pek de bilinmeyen hatalarını ararken Gr
    
 İlk Bitcoin sürümlerinde, herhangi bir kullanıcı piyasaya sürülen herhangi bir sürümü diğer sürümlerden hard fork'layabilirdi! Bu tasarım hatası, Satoshi'nin Bitcoin'i ilk yayınlandığında güvenli yükseltmeler için gerekli koşulları tam olarak anlamadığını gösterdi; ancak düzeltmesi daha sonra bunları anladığını gösterdi.   
    
-> OP\_VER adında, doğrulama düğümünün sürüm numarasını yığına iten bir işlem kodu vardı. (Satoshi her zaman Bitcoin düğüm yazılımının 
+> OP_VER adında, doğrulama düğümünün sürüm numarasını yığına iten bir işlem kodu vardı. (Satoshi her zaman Bitcoin düğüm yazılımının 
 > yalnızca bir parçası olması gerektiğine inanmıştır). Bu işlem kodunun görünürdeki amacı, komut dosyasına özellikler ekleyebilmeniz 
 > ve sadece daha yeni destekleyici sürümlerin bu yeni işlem kodlarını görmesini sağlamaktı (ayrıca kod tabanında başlangıçta 16 
 > bitlik işlem kodu alanı vardı.); ancak birisi bunu kötü niyetli olarak "OP_VER 1234 IF FALSE RETURN ENDIF TRUE" gibi kullanarak 1.
