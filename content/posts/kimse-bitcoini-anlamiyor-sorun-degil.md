@@ -214,7 +214,7 @@ Bu, insan doğasında olan bir 'komuta ve kontrol' zihniyetidir; ben de geçmiş
    
 Bitcoin'in evrimine ilişkin tartışmalarda, değişikliklerin ağı nasıl etkileyeceğine ilişkin teknik hususlardan çok daha fazla husus dikkate alınmaktadır.   
    
-Ryan X Charles, ölçeklendirme tartışmalarındaki en popüler iki bakış açısının [üst düzey felsefelerini](https://ryanxcharlestimes.com/blockicans-and-blockocrats-73a9a594f1e5?ref=yirmibir.org#.uuts1r5x5) ele aldı. Bu tartışmalardaki çekişmelerin çoğu: a)farklı öncelikler ve b)Bitcoin için kullanım durumlarına ilişkin farklı inançlardan kaynaklanmaktadır.   
+Ryan X Charles, ölçeklendirme tartışmalarındaki en popüler iki bakış açısının [üst düzey felsefelerini](https://ryanxcharlestimes.com/blockicans-and-blockocrats-73a9a594f1e5?ref=yirmibir.org#.uuts1r5x5) ele aldı. Bu tartışmalardaki çekişmelerin çoğu: a- farklı öncelikler ve b- Bitcoin için kullanım durumlarına ilişkin farklı inançlardan kaynaklanmaktadır.   
    
 Maalesef bu tartışmalara katılanların önemli bir kısmı kendi bakış açılarını dogmatik bir inanç noktasına taşımış ve bu da entelektüel bir söylemde bulunmayı neredeyse imkansız kılmıştır.   
    
