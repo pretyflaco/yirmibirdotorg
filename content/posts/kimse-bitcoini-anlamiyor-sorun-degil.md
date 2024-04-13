@@ -200,7 +200,7 @@ Shaolin Fry'ın [yakın zamanda ifade ettiği](https://lists.linuxfoundation.org
    
 > Zaten (dolaylı olarak) siyasi kaprisler tarafından kontrol edilen çok sayıda para birimi seçeneğimiz var.   
 >   
->Bitcoin bundan daha sağlam bir şey olmalı. İlk günkü tam mutabakat kurallarının değişmez ('taşa oturtulmuş') olduğunu söyleyebilmeyi 
+> Bitcoin bundan daha sağlam bir şey olmalı. İlk günkü tam mutabakat kurallarının değişmez ('taşa oturtulmuş') olduğunu söyleyebilmeyi
 > çok isterdim ancak mühendislik gerçekliği bunu gerçekçi kılmıyor. Bitcoin için bu hayal, ilk kesin ve ciddi mutabakat kusurunun 
 > bulunduğu gün öldü. Hatalı işlem kodlarının devre dışı bırakılması, onu daha da zayıflattı ve tekrar tamamen genel olması için daha 
 > fazla değişiklik yapılmasını gerektirdi. Ancak dünya nadiren bu kadar uygun bir şekilde siyah ve beyazdır. Bitcoin halen daha az 
