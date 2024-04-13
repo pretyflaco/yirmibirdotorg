@@ -301,15 +301,4 @@ Bir balina yatırımcı, Bitcoin'i erken benimseyen biri, C-Seviye yönetici, ge
 [![Lopp Final](/images/content/blog/kimse-bitcoini-anlamiyor/loppwhale.png)](https://x.com/lopp/status/829415824326852611)
 
 Jameson Lopp (@lopp), 8 Şubat 2017   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+ 
