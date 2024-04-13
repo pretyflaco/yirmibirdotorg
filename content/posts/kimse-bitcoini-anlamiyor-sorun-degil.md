@@ -268,7 +268,7 @@ Bitcoin'in kontrolünüz dışında kendi yolunda ilerlediğini kabul ederek 'Bi
 Oynadığınız için teşekkürler millet, hepiniz haklısınız! Çıkarı olan herkes Bitcoin'i etkilemeye çalışabilir, hiçbiri kontrol edemez.    
 pic.twitter.com/chfbUtZAZi   
    
--Jameson Lopp (@lopp), 2 Mart 2017   
+- Jameson Lopp (@lopp), 2 Mart 2017   
    
 ## Bitcoin Bitkin Düşüyor  
 
