@@ -68,6 +68,9 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
     img,
   } = post?.frontmatter || {};
   
+    // Hydration-specific debugging: Add console logs right before the return statement
+    console.log("Post Data:", post);
+    console.log("Router Slug:", router.query.slug);
 
   return (
     <>
