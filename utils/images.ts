@@ -22,5 +22,6 @@ export const images = {
   "bitcoin-suna-benzer": `/images/content/bitcoin-suna-benzer.png`,
   "bitcoinin-fiat-para-birimlerine-ve-bisikletlere-gore-karsilasirmasi": `/images/content/yarisma.png`,
   "sevgili-ailem": `/images/content/dear-family.jpeg`,
-  "ozgurce-konusmak": `/images/content/ozgurce-konusmak.jpg`,  
+  "ozgurce-konusmak": `/images/content/ozgurce-konusmak.jpg`,
+  "kimse-bitcoini-anlamiyor": `/images/content/kimse-bitcoini-anlamiyor.png`,
 } as const;
