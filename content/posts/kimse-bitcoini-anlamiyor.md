@@ -246,7 +246,6 @@ Bitcoin'in kontrolünüz dışında kendi yolunda ilerlediğini kabul ederek 'Bi
 [![Lopp Thanks](/images/content/blog/kimse-bitcoini-anlamiyor/loppthanks.png)](https://x.com/lopp/status/837346594852831232)
    
 Oynadığınız için teşekkürler millet, hepiniz haklısınız! Çıkarı olan herkes Bitcoin'i etkilemeye çalışabilir, hiçbiri kontrol edemez.    
-pic.twitter.com/chfbUtZAZi   
    
 - Jameson Lopp (@lopp), 2 Mart 2017   
    
@@ -254,7 +253,7 @@ pic.twitter.com/chfbUtZAZi
 
 [![Lopp First Step](/images/content/blog/kimse-bitcoini-anlamiyor/loppfirststep.png)](https://x.com/lopp/status/829419398708486145)
    
-Bitcoin'i anlamanın ilk adımı: Bitcoin'i anlamadığınızı kabul etmek.
+Bitcoin'i anlamanın ilk adımı: Bitcoin'i anlamadığınızı kabul etmek.  
 Son adım: "anlamanın" sabit bir hedef olmadığının farkına varmak.   
 
 -Jameson Lopp (@lopp) 8 Şubat 2017   
