@@ -47,7 +47,7 @@ Bitcoin'i anlamak için
 4. ekonomik ve parasal teori 
 
 hakkında fikir sahibi olmalısınız. 
-Temelde bu sadece bir teknoloi değil, kültürel bir paradigma değişimi."   
+Temelde bu sadece bir teknoloji değil, kültürel bir paradigma değişimi."   
    
 Ferdinando bizzat benim de üzerinde duracağım kilit bir noktaya parmak basıyor: Bitcoin yalnızca bir teknoloji değil, daha da az somut şey temsil eden bir teknoloji.   
    
