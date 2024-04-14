@@ -16,6 +16,7 @@ import { useState } from "react";
 import React from "react";
 import classNames from "classnames";
 import Head from "next/head";
+import YouTubeVideo from '../../components/youtubevideo';
 
 function getTwitterShareURL(title: string, slug: string) {
   return `https://twitter.com/intent/tweet?text=${title} https://yirmibir.org/blog/${slug}`;
