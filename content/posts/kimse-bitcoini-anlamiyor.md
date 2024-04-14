@@ -109,7 +109,7 @@ Bitcoin'in ne kadar az anlaşıldığını, Bitcoin'i analiz etmek ve geliştirm
 2015: 3,670  
 2016: 3,580"   
    
--Jameson Loop (@lopp), 17 Aralaık 2016   
+-Jameson Lopp (@lopp), 17 Aralık 2016   
    
 Satoshi bir keresinde [çekirdek tasarımın sabit olduğunu](https://bitcointalk.org/index.php?topic=195.msg1611&ref=yirmibir.org#msg1611) ve diğer uygulamaların ağ için bir tehdit oluşturacağını belirtmişti. İnsanlar çoğu zaman bu alıntıyı (ve Satoshi'nin diğer sözlerini) alır ve Bitcoin protokolünün bir şekilde gelişmesi gerektiğini (otoriteye başvurarak) yanlış bir şekilde savunmak için kullanır.   
    
@@ -119,14 +119,14 @@ Gördüğümüz üzere, Satoshi esasında ilk geliştiriciler kodu ve uç duruml
    
 Bitcoin'in katkıların bir potada eritilmesiyle oluştuğu hakkındaki açıklamamı hatırlayın. Satoshi birkaç yıl boyunca gizlice üstünde çalıştığı projesini yayındalıktan sonra bu gerçek anlamda ortaya çıktı.   
    
-Bitcoin piyasa sürüldüğü ilk hafta işbirlikçisi Hal Finney'i de kazandı. Hal, Satoshi'nin orijinal whitepaper açıklmasından da anlaşılacağı gibi Bitcoin'in gerçekten işe yarayabileceğine erkenden inanan birkaç kişiden biriydi.   
+Bitcoin piyasaya sürüldüğü ilk hafta iş birlikçisi Hal Finney'i de kazandı. Hal, Satoshi'nin orijinal whitepaper açıklmasından da anlaşılacağı gibi Bitcoin'in gerçekten işe yarayabileceğine erkenden inanan birkaç kişiden biriydi.   
    
 > [Hal Finney] iddiaya göre ilk kodlarda birçok kusur tespit etti ve bunlar işlem kodlarının azaltılmasıyla düzeltildi. Hal Finney cypherpunk'ların cypherpunk'ıydı. Hem üstün kodlama hem de ormanı ve ağaçları görme ve gördüklerini açıklama konusunda ender bir yeteneği vardı. Hepimiz onun yazılarını dikkatle okurduk, bu kadar saygı gören başka biri olduğunu sanmıyorum."   
 – Ian Grigg   
    
 Finney, [Satoshi ile olan e-postalarının](http://online.wsj.com/public/resources/documents/finneynakamotoemails.pdf?ref=yirmibir.org) bir kısmını Wall Street Journal'da yayınladı; ki ilginç bir okumadır. Finney, Satoshi'nin "yoğun bir şekilde test etmesine" rağmen beklemediği birkaç hatayı bulmayı başardığında Satoshi'nin şaşkınlığını görebilirsiniz.   
    
-Bazı sistemlerin ([ethereum gibi](https://ethereum.github.io/yellowpaper/paper.pdf?ref=yirmibir.org)) aksine, Bitcoin'in resmi bir spesifikasyonu yoktur. Bitcoin'in bir spesifikasyonu olsaydı bile, protokolde değişiklik yapmak teknik açıdan daha kolay ya da daha zor olmazdı; ancak sosyal açıdan daha kolay olabilirdi.   
+Bazı sistemlerin ([ethereum gibi](https://ethereum.github.io/yellowpaper/paper.pdf?ref=yirmibir.org)) aksine, Bitcoin'in resmi bir spesifikasyonu yoktur. Bitcoin'in bir spesifikasyonu olsaydı bile protokolde değişiklik yapmak teknik açıdan daha kolay ya da daha zor olmazdı; ancak sosyal açıdan daha kolay olabilirdi.   
    
 Charlie Lee'nin [Andresen'in önerdiği tanıma](http://gavinandresen.ninja/a-definition-of-bitcoin?ref=yirmibir.org) yanıt olarak belirttiği gibi, bu tanım biçimsizdir:   
 
@@ -143,19 +143,19 @@ Değişikliklerin yürürlüğe girdiği nesnel bir süreç de bulunmaz:
 Bitcoin protokolü; konsensüsü nesnel olarak belirlerken, nesnel konsensüsteki değişiklikleri belirleme araçları özneldir.
 - Jameson Lopp (@lopp), 25 Şubat 2017   
    
-Paul Stzorc, bitcoin geliştirme konusunda objektif kararlar almaktan bahsetti, ancak bu gerçekleşmekten çok uzak.   
+Paul Stzorc, bitcoin geliştirme konusunda objektif kararlar almaktan bahsetti; ancak bu gerçekleşmekten çok uzak.   
    
 Sunumu [bu blog yazısına](https://www.truthcoin.info/blog/win-win-blocksize/?ref=yirmibir.org) dayanıyordu.   
 
 Youtube: [Scaling Bitcoin Day 2](https://www.youtube.com/embed/TgjrS-BPWDQ)
 
    
-Bitcoin'in gücünün değişmezlik, ademi merkeziyetçilik ya da diğer moda sözcüklerle ilgili dogmatik inançların somutlaşmış hali olmasından değil, işbirliğinden kaynaklandığını ileri sürüyorum. İşbirliğini alıp insan konsensüsünü belirlemek için kullanma süreci gürültülü ve dağınık olabilir, ancak içinde çalışmamız gereken yönetişim modeli budur.   
+Bitcoin'in gücünün değişmezlik, ademi merkeziyetçilik ya da diğer moda sözcüklerle ilgili dogmatik inançların somutlaşmış hali olmasından değil, işbirliğinden kaynaklandığını ileri sürüyorum. İş birliğini alıp insan konsensüsünü belirlemek için kullanma süreci gürültülü ve dağınık olabilir; ancak içinde çalışmamız gereken yönetişim modeli budur.   
    
 Gördüğüm gibi [gönüllülük](http://www.notbeinggoverned.com/introduction-to-voluntaryism/?ref=yirmibir.org) esasına dayanan bu [idare sistemi](https://thecontrol.co/the-governance-of-blockchains-5ba17a4f5da6?ref=yirmibir.org#.wrijnsojo), bitcoin'in 'sabit' olan tek yönüdür.   
    
 ## Bitcoin'in sihri   
-Sergej Kotliar [bu yazıyı](http://ziggamon.tumblr.com/post/93502914957/why-bitcoin-is-religious?ref=yirmibir.org) yıllar önce kaleme almış ve Bitcoin'in neden din ile benzerlikler taşıdığını anlatmıştı. Kotliar'ın da ifade ettiği gibi, sistemin bir bütün olarak çalışmasında biraz sihir var; çünkü teknik olmayan bileşenlere dayanıyor.   
+Sergej Kotliar [bu yazıyı](http://ziggamon.tumblr.com/post/93502914957/why-bitcoin-is-religious?ref=yirmibir.org) yıllar önce kaleme almış ve Bitcoin'in neden din ile benzerlikler taşıdığını anlatmıştı. Kotliar'ın da ifade ettiği gibi: Sistemin bir bütün olarak çalışmasında biraz sihir var; çünkü teknik olmayan bileşenlere dayanıyor.   
    
 Sistemin iyi hizalanmış teşvikleri, ona rehberlik eden bir "görünmez el" oluşturuyor.   
    
@@ -267,8 +267,7 @@ Youtube: [Bitcoin scaling with Andreas Antonopoulos](https://www.youtube.com/wat
    
 Jimmy Song da çıkmaz ve umutsuzluk karşısında [iyimserlik için](https://medium.com/@jimmysong/why-Bitcoin-will-get-scaling-without-segwit-or-large-blocks-772799fab021?ref=yirmibir.org#.trvv9cxuu) harika bir örnek oluşturdu.   
    
-> Kısacası, Bitcoin olgunlaşıyor ve piyasa Bitcoin'in ne olacağını tanımlamaya başlıyor. Eminim ki tartışmanın her iki tarafında da 
-> ne olacağından hoşlanmayacak insanlar vardır; ancak merkeziyetsiz bir para birimiyle elde edeceğiniz şey budur.   
+> Kısacası, Bitcoin olgunlaşıyor ve piyasa Bitcoin'in ne olacağını tanımlamaya başlıyor. Eminim ki tartışmanın her iki tarafında da ne olacağından hoşlanmayacak insanlar vardır; ancak merkeziyetsiz bir para birimiyle elde edeceğiniz şey budur.   
    
 Bu yeni ekosistem hakkında mümkün olduğunca çok bilgi tüketme arayışımı sürdüreceğim; ancak Bitcoin'i anlama hedefimden vazgeçeli çok oldu.   
    
