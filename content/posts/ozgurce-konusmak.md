@@ -85,7 +85,7 @@ Tarihin çok önemli zamanlarındayız. Uygarlığımız daha önce hiç bu kada
 
 Zamanımızın Kairos'u kişiseldir- belki de tüm kairotik anlar öyledir.
 
-İleriye nasıl ilerleyeceğinize siz karar vereceksiniz. Hangi oyunu oynamak istediğinize siz karar vereceksiniz; ne kadar [sorumluluğu](https://dergigi.com/responsibility) omuzlanacaksınız. Makinenin içinde sıkışmak mı istiyorsunuz? Sizi kullanan ve istismar eden bir makinenin içinde. Sizin zamanınızı, dikkatinizi ve [değerinizi](https://dergigi.com/value) ayıklayıp yok ederek beslenen bir makine! Yoksa kendi servetinizi, sağlığınızı, düşüncelerinizi ve [konuşmalarınızı](https://dergigi.com/speech) kontrol altına alacak cesarete sahip misiniz?
+İleriye nasıl ilerleyeceğinize siz karar vereceksiniz. Hangi oyunu oynamak istediğinize siz karar vereceksiniz; ne kadar [sorumluluğu](https://dergigi.com/responsibility) omuzlanacaksınız. Makinenin içinde sıkışmak mı istiyorsunuz? Sizi kullanan ve istismar eden bir makinenin içinde. Sizin zamanınızı, dikkatinizi ve [değerinizi](https://dergigi.com/value?ref=yirmibir.org) ayıklayıp yok ederek beslenen bir makine! Yoksa kendi servetinizi, sağlığınızı, düşüncelerinizi ve [konuşmalarınızı](https://dergigi.com/speech) kontrol altına alacak cesarete sahip misiniz?
 
 Bu kararı sizin için bir başkası veremez. Bu, [sizinle](https://nostr.org/) başlayıp bitiyor.
 
@@ -101,3 +101,6 @@ Bu kararı sizin için bir başkası veremez. Bu, [sizinle](https://nostr.org/) 
 6. Podcast şeklinde uzun biçimli diyalogların çoğaldığını görmek harika. Ancak, bu konuşmalar merkezi bir tarafın ev sahipliğinde yapılırsa faydası kaybolur, işte bu yüzden [açık bir podcast ekosistemi](https://newpodcastapps.com/) çok önemlidir.
 7. [İngiltere](https://archive.is/OQ1LC), [Suudi Arabistan](https://archive.is/co19A) vb. örneklere bakınız.
 8. [Görevi başındaki ABD başkanları](https://archive.is/0LvLe) bile platform edilmekten kaçamıyor.
+
+[Orijinal Makale](https://dergigi.com/2024/03/25/speaking-freely-online?ref=yirmibir.org)  
+İlk yayınlanma tarihi: 25/03/2024

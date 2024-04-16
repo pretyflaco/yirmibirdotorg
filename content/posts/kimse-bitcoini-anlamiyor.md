@@ -53,7 +53,7 @@ Ferdinando bizzat benim de üzerinde duracağım kilit bir noktaya parmak basıy
    
 Bitcoin; fikirlerin, felsefelerin, kültürlerin ve politikaların bir potada eritilip ateşle imtihanının sonucu olarak ortaya çıkan ve yaşayan bir protokoldür.   
    
-Bugün olduğumuz noktaya nasıl geldiğimizi tayin etmek için "[Cyberpunkların Yükselişi](https://blog.lopp.net/bitcoin-and-the-rise-of-the-cypherpunks/)"ni okuyabilirsiniz.  
+Bugün olduğumuz noktaya nasıl geldiğimizi tayin etmek için "[Cyberpunkların Yükselişi](https://blog.lopp.net/bitcoin-and-the-rise-of-the-cypherpunks?ref=yirmibir.org)"ni okuyabilirsiniz.  
    
 ## Satoshi'nin Bitcoin anlayışı   
 > Bu şeyi genel kitleler için tanımlamak gerçekten zor, bu şeyle ilişkilendirebilecek hiçbir şey yok.  
