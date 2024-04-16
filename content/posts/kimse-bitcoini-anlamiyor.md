@@ -15,7 +15,7 @@ tags:
 
 Bitcoin ile ilgilenmeye başladığımda kendimi Bitcoin hakkında olabildiğince çok bilgi edinmek ve parçaları bir araya getirmek için sayısız saatler harcarken buldum.   
    
-Yıllar süren bu öğrenmenin ardından şimdilerde zamanımı başkalarının Bitcoin'i daha iyi anlamasına yardımcı olmaya ayırıyorum. Birçoğu bana ''Bitcoin uzmanı'' dese de ben kendimi hala bir öğrenci olarak nitelendiriyorum; çünkü tavşan deliğinin ne kadar derin olduğunu hala kestirebilmiş değilim.   
+Yıllar süren bu öğrenmenin ardından şimdilerde zamanımı başkalarının Bitcoin'i daha iyi anlamasına yardımcı olmaya ayırıyorum. Birçoğu bana ''Bitcoin uzmanı'' dese de ben kendimi hala bir öğrenci olarak nitelendiriyorum; çünkü tavşan deliğinin ne kadar derin olduğunu hâlâ kestirebilmiş değilim.   
 
 ![Bitcoin Puzzle](/images/content/blog/kimse-bitcoini-anlamiyor/what-is-bitcoin.png)
    
@@ -68,7 +68,7 @@ Bitcoin'in ilk versiyonlarında [herkes herkesin parasını harcayabiliyordu](ht
 > "OP_RETURN işlem kodu başlangıçta script'in başarısız olmak yerine erken sonlanmasına neden oluyordu, bu sebeple yalnızca scriptSig OP_TRUE OP_RETURN kullanarak herhangi birinin bitcoinlerini ele geçirebiliyordunuz. Ayrıca tüm scriptPubKey'i bir sabite (true olarak değerlendirilir) dönüştürmek için bir scriptSig'in hemen sonuna bir pushdata opcode'u koymak da mümkündü. Satoshi, OP_RETURN'ün davranışını değiştirerek işlemin hemen başarısız olmasına neden oldu ve scriptSig ile scriptPubKey'in iki ayrı adımda değerlendirilmesini sağladı."   
 - Theymos   
    
-Satoshi, ["en iyi zincir" mantığını en uzun zinciri kullanmaktan](https://github.com/bitcoin/bitcoin/commit/40cd0369419323f8d7385950e20342e998c994e1?ref=yirmibir.org#diff-623e3fd6da1a45222eeec71496747b31R420) en fazla iş ispatına (proof-of-work) sahip olan zinciri kullanmaya değiştirerek büyük bir uzlaşı sorununu çözdü. Teknik olarak bunun bir "hard fork" (Fork ya da çatallama, bir projenin kopyalanması ve çoğazaltılması anlamına gelir) [olduğu söylenebilir](https://twitter.com/petertoddbtc/status/749610420005117952?ref=yirmibir.org); ancak bu bir zincir forklanmasına neden olmadı; çünkü o zaman en uzun zincir aynı zamanda en fazla iş ispatına sahip zincirdi.   
+Satoshi, ["en iyi zincir" mantığını en uzun zinciri kullanmaktan](https://github.com/bitcoin/bitcoin/commit/40cd0369419323f8d7385950e20342e998c994e1?ref=yirmibir.org#diff-623e3fd6da1a45222eeec71496747b31R420) en fazla iş ispatına (proof-of-work) sahip olan zinciri kullanmaya değiştirerek büyük bir uzlaşı sorununu çözdü. Teknik olarak bunun bir "hard fork" (Fork ya da çatallanma, bir projenin kopyalanması ve çoğaltılması anlamına gelir) [olduğu söylenebilir](https://twitter.com/petertoddbtc/status/749610420005117952?ref=yirmibir.org); ancak bu bir zincir forklanmasına neden olmadı; çünkü o zaman en uzun zincir aynı zamanda en fazla iş ispatına sahip zincirdi.   
    
 Ayrıca Satoshi, hizmet reddi saldırılarına karşı koruma olarak [blok boyutunu sınırını ortaya koymuştur](https://sourceforge.net/p/bitcoin/code/103/tree/trunk/main.h?diff=515630145fcbc978e39dbaa5%3A102&ref=yirmibir.org). Blok boyutu ilk başta sadece 32 Megabaytlık bir ağ mesajı boyutuyla dolaylı olarak sınırlıydı.   
    
@@ -115,11 +115,11 @@ Satoshi bir keresinde [çekirdek tasarımın sabit olduğunu](https://bitcointal
    
 Size bunun Satoshi'nin yanıldığı başka bir konu olduğunu iddia ediyorum.   
    
-Gördüğümüz üzere, Satoshi esasında ilk geliştiriciler kodu ve uç durumları keşfederken Bitcoin üzerinde pekçok değişiklik yapmak zorunda kaldı. Buna ek olarak bugün çalışan ve ağı bozmayan yarım düzineden fazla Bitcoin istemci uygulaması var. Hatta [2013 yılında](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki?ref=yirmibir.org) Berkeley DB zincir fork'unda (çattlamasında) olduğu gibi makine düzeyindeki farkılılıklar uzlaşmasının bozulmasına neden olabildiğinde tek bir uygulamanın ağ için tehdit oluşturabildiğini gözlemledik.   
+Gördüğümüz üzere, Satoshi esasında ilk geliştiriciler kodu ve uç durumları keşfederken Bitcoin üzerinde pekçok değişiklik yapmak zorunda kaldı. Buna ek olarak bugün çalışan ve ağı bozmayan yarım düzineden fazla Bitcoin istemci uygulaması var. Hatta [2013 yılında](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki?ref=yirmibir.org) Berkeley DB zincir fork'unda (çatallanmasında) olduğu gibi makine düzeyindeki farkılılıklar uzlaşmasının bozulmasına neden olabildiğinde tek bir uygulamanın ağ için tehdit oluşturabildiğini gözlemledik.   
    
 Bitcoin'in katkıların bir potada eritilmesiyle oluştuğu hakkındaki açıklamamı hatırlayın. Satoshi birkaç yıl boyunca gizlice üstünde çalıştığı projesini yayındalıktan sonra bu gerçek anlamda ortaya çıktı.   
    
-Bitcoin piyasaya sürüldüğü ilk hafta iş birlikçisi Hal Finney'i de kazandı. Hal, Satoshi'nin orijinal whitepaper açıklmasından da anlaşılacağı gibi Bitcoin'in gerçekten işe yarayabileceğine erkenden inanan birkaç kişiden biriydi.   
+Bitcoin piyasaya sürüldüğü ilk hafta iş birlikçisi Hal Finney'i de kazandı. Hal, Satoshi'nin orijinal whitepaper açıklamasından da anlaşılacağı gibi Bitcoin'in gerçekten işe yarayabileceğine erkenden inanan birkaç kişiden biriydi.   
    
 > [Hal Finney] iddiaya göre ilk kodlarda birçok kusur tespit etti ve bunlar işlem kodlarının azaltılmasıyla düzeltildi. Hal Finney cypherpunk'ların cypherpunk'ıydı. Hem üstün kodlama hem de ormanı ve ağaçları görme ve gördüklerini açıklama konusunda ender bir yeteneği vardı. Hepimiz onun yazılarını dikkatle okurduk, bu kadar saygı gören başka biri olduğunu sanmıyorum."   
 – Ian Grigg   
@@ -150,7 +150,7 @@ Sunumu [bu blog yazısına](https://www.truthcoin.info/blog/win-win-blocksize/?r
 Youtube: [Scaling Bitcoin Day 2](https://www.youtube.com/embed/TgjrS-BPWDQ)
 
    
-Bitcoin'in gücünün değişmezlik, ademi merkeziyetçilik ya da diğer moda sözcüklerle ilgili dogmatik inançların somutlaşmış hali olmasından değil, işbirliğinden kaynaklandığını ileri sürüyorum. İş birliğini alıp insan konsensüsünü belirlemek için kullanma süreci gürültülü ve dağınık olabilir; ancak içinde çalışmamız gereken yönetişim modeli budur.   
+Bitcoin'in gücünün değişmezlik, ademi merkeziyetçilik ya da diğer moda sözcüklerle ilgili dogmatik inançların somutlaşmış hali olmasından değil, iş birliğinden kaynaklandığını ileri sürüyorum. İş birliğini alıp insan konsensüsünü belirlemek için kullanma süreci gürültülü ve dağınık olabilir; ancak içinde çalışmamız gereken yönetişim modeli budur.   
    
 Gördüğüm gibi [gönüllülük](http://www.notbeinggoverned.com/introduction-to-voluntaryism/?ref=yirmibir.org) esasına dayanan bu [idare sistemi](https://thecontrol.co/the-governance-of-blockchains-5ba17a4f5da6?ref=yirmibir.org#.wrijnsojo), bitcoin'in 'sabit' olan tek yönüdür.   
    
@@ -279,7 +279,10 @@ Bir balina yatırımcı, Bitcoin'i erken benimseyen biri, C-Seviye yönetici, ge
 [![Lopp Final](/images/content/blog/kimse-bitcoini-anlamiyor/loppwhale.png)](https://x.com/lopp/status/829415824326852611)
 
 Jameson Lopp (@lopp), 8 Şubat 2017
+<<<<<<< HEAD
 
 
 [Orijinal Makale](https://blog.lopp.net/nobody-understands-bitcoin-and-thats-ok&ref=yirmibir.org)  
 İlk yayınlanma tarihi: 08/02/2017
+=======
+>>>>>>> fa5cd873f1776b98a44beae0a6f4966cbf13f649
