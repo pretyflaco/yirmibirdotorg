@@ -221,7 +221,7 @@ Sonuç olarak, günümüzde Bitcoin tartışmaları çoğunlukla bir tarafın di
    
 Bakış açılarının, toplumdaki söylemin kalitesini düşüren dogmatik inançlara dönüştüğünü görmek rahatsız edici.   
    
-Bitcoin'e bakışta tek bir 'doğru' yaklaşım olmadığını, aksine çok sayıda bakış açısı olduğunu belirtmek isterim. Bakış açılarının ve kullanım durumlarının çeşitliliği, Bitcoin hakkında yazdığım [ilk makalelerden](https://blog.lopp.net/the-multifaceted-nature-of-bitcoin/) birinin konusuydu.   
+Bitcoin'e bakışta tek bir 'doğru' yaklaşım olmadığını, aksine çok sayıda bakış açısı olduğunu belirtmek isterim. Bakış açılarının ve kullanım durumlarının çeşitliliği, Bitcoin hakkında yazdığım [ilk makalelerden](https://blog.lopp.net/the-multifaceted-nature-of-bitcoin?ref=yirmibir.org) birinin konusuydu.   
    
 Bitcoin'in ne olması gerektiğine dair çelişkili bakış açılarına sahip kişiler tarafından yayılan söylemlere katılmak zorunda olduğunuzu söylemiyorum. Buna ek olarak bunu doğrudan bir karşı saldırı ile savunmanız gereken kötü niyetli bir saldırı olarak değil, böyle kabul etmenizi önereceğim.   
    
