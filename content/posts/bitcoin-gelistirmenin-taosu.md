@@ -86,8 +86,8 @@ Bu detaylı inceleme süreci, bir öneri etrafında fikir mutabakatı oluşturma
    
 Yeni bir fikir yukarıdaki şartları sağladıktan sonra, sponsorlarından kodu spesifikasyonla uyumlu olan çalışan bir uygulama üretmeleri beklenir. Geriye dönük uyumluluğu korumayı ve mümkün olduğunca az yıkıcı olmayı hedeflemelidir. Eric Lombrozo, birlikte çalışabilirliği kolaylaştırmak için teklifleri etkileşimde bulundukları ağ katmanlarına göre kategorize etmeyi kolayalştıran [BIP123](https://github.com/bitcoin/bips/blob/master/bip-0123.mediawiki?ref=yirmibir.org)'ü tanıtmıştır.   
    
-## Kaba mutabakat ve çalışan kod   
-> IETF birçok yönden katılımcılarının inançları doğrultusunda çalışır. “Kurucu inançlardan” biri David Clark'ın IETF ile ilgili ilk alıntılarından birinde somutlaşmaktadır: “Kralları, başkanları ve oylamayı reddediyoruz. Biz kaba mutabakata ve çalışan koda inanıyoruz”. 
+## Kaba mutabakat ve koşturulan kod   
+> IETF birçok yönden katılımcılarının inançları doğrultusunda çalışır. “Kurucu inançlardan” biri David Clark'ın IETF ile ilgili ilk alıntılarından birinde somutlaşmaktadır: “Kralları, başkanları ve oylamayı reddediyoruz. Biz kaba mutabakata ve koşturulan koda inanıyoruz”. 
 - The Tao of IETF: A Novice's Guide to the Internet Engineering Task Force, [2012](https://www.ietf.org/tao.html#rfcs.ids?ref=yirmibir.org)   
    
 Yıllar boyunca Bitcoin'in yönetim modeli (ya da eksikliği) hakkında çok şey yazıldı. Satoshi Nakomoto, 2010 yılında geliştirme sahnesinden kaybolduğunda haleflerinin fikir mutabakatına dayalı kritik kararlarla karşı karşıya kaldıklarında dikkate almaları için bir talimat veya kılavuz bırakmadı.   
