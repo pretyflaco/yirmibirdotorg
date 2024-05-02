@@ -8,7 +8,7 @@ translator: "Emir Yorulmaz"
 translatorURL: "https://twitter.com/_untreu"
 slug: "bitcoini-yasaklamanin-sonuclari"
 flag: "turkey"
-img: 'bitcoini-yasaklamanin-sonuclari'
+img: 'btc-law'
 tags:
     - translation
 ---

@@ -25,4 +25,5 @@ export const images = {
   "ozgurce-konusmak": `/images/content/ozgurce-konusmak.jpg`,
   "kimse-bitcoini-anlamiyor": `/images/content/kimse-bitcoini-anlamiyor.png`,
   "bitcoin-gelistirmenin-taosu": `/images/content/bitcoin-gelistirmenin-taosu.png`,
+  "btc-law": `/images/content/btc-law.png`,
 } as const;
