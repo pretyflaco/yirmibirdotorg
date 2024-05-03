@@ -43,7 +43,8 @@ Peki, 256 bitlik bir sayı tam olarak nedir? Adından da anlaşılacağı gibi, 
 **Uyarı**: Bu sayfadaki özel anahtarlar gerçek özel anahtarlardır. Herhangi bir örnek anhatara bitcoin göndermeyin veya aktarmayın. aksi halde paranızı kaybedersiniz. Tekrar ediyorum: **PARANIZI KAYBEDERSİNİZ.**   
    
 Aşağıdaki 256 bitlik bir sayıdır:   
-> 0010111011001011101110101011010110001001101111010001011010100110001001110010101110101010101100000001101100000111000000011100010100100001000001010001011011100 000111000111010101001111101000110111010100011011111000101111100000110100010110110000010101010111111    
+> 0010111011001011101110101011010110001001101111010001011010100110001001110010101110101010101100000001101100000111000000011
+> 100010100100001000001010001011011100000111000111010101001111101000110111010100011011111000101111100000110100010110110000010101010111111    
    
 Bu sıfırlar ve birler, daha doğru ifade etmek gerekirse bu sıfır ve birlerin içindeki bilgiler, bir özel anahatarı oluşturur. Bu "bilgiyi" Bitcoin ağı üzerinde Bitcoin almak ve göndermek için kullanabilirsiniz. (4)   
    
@@ -108,11 +109,13 @@ Açık anahtarlı kriptografinin çalışmasını sağlayan şey matematiktir. B
    
 Bir örneğe bakalım. Aşağıdaki geçerli bir işlemdir (7):    
    
-> 01000000017967a5185e907a25225574544c31f7b059c1a191d65b53dcc1554d339c4f9efc010000006a47304402206a2eb16b7b92051d0fa38c133e67684ed064effada1d7f925c842da401d4f2 2702201f196b10e6e4b4a9fff948e5c5d71ec5da53e90529c8dbd122bff2b1d21dc8a90121039b7bcd0824b9a9164f7ba098408e63e5b7e3cf90835cceb19868f54f8961a825ffffffff014baf21 00000000001976a914db4d1141d0048b1ed15839d0b7a4c488cd368b0e88ac00000000      
+> 01000000017967a5185e907a25225574544c31f7b059c1a191d65b53dcc1554d339c4f9efc010000006a47304402206a2eb16b7b92051d0fa38
+> c133e67684ed064effada1d7f925c842da401d4f22702201f196b10e6e4b4a9fff948e5c5d71ec5da53e90529c8dbd122bff2b1d21dc8a90121039b
+> 7bcd0824b9a9164f7ba098408e63e5b7e3cf90835cceb19868f54f8961a825ffffffff014baf21 00000000001976a914db4d1141d0048b1ed15839d0b7a4c488cd368b0e88ac00000000      
    
 Bunu çözmek (decoding) ve incelemek için çeşitli araçlar kullanabilirsiniz. Bu araçlar sadece biz insanların bilgiyi anlamasını sağlar; ancak allta yatan gerçeklik hala devam etmektedir: her şey sayılardan ibarettir.   
    
-![Byte Map](/images/content/blog/bitcoini-yasaklamanin-sonuclari/byte-map-trans-back.png)    
+![Byte Map](/images/content/blog/bitcoini-yasaklamanin-sonuclari/byte-map-trans-black.png)    
    
 Tekrarlayacak olursak Bitcoin ağıyla etkileşime geçmek için yapmanız gereken tek şey şunlardır:   
    
