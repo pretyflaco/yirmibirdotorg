@@ -31,27 +31,43 @@ export default function Index({
           </div>
           <Hero />
 
-          <BlogSection title="Bitcoin Blog" posts={posts} />
-
+          <div className="flex justify-center">
+            <div className="text-center">
+              <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
+                Bitcoin Twitter
+              </h1>
+            </div>
+          </div>
+          <div
+            dangerouslySetInnerHTML={{
+              __html: `
+              <a class="twitter-timeline" data-lang="tr" data-width="1000" data-height="600" data-theme="dark" href="https://x.com/i/lists/1662960136757837824?s=20">A Twitter List by YirmibirBitcoin</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              `,
+            }}
+          />
+          
           <div className="flex justify-center">
             <div className="text-center">
               <h1 className="mt-10 text-3xl font-semibold md:text-5xl lg:mt-20">
                 Dost Sitemiz
-              </h1>
-            </div>
-          </div>
+          </h1>
+        </div>
+      </div>
 
-          <a href="https://www.selambitcoin.com" target="_blank" rel="noopener noreferrer">
-            <img src="/selambitcoin.webp" alt="Selam Bitcoin" style={{width: '100%', height: 'auto'}} />
-          </a>
+      <a href="https://www.selambitcoin.com" target="_blank" rel="noopener noreferrer">
+        <img src="/selambitcoin.webp" alt="Selam Bitcoin" style={{width: '100%', height: 'auto'}} />
+      </a>
 
-          <PodcastSection episodes={episodes} />
+      <PodcastSection episodes={episodes} />
+          <BlogSection title="Bitcoin Blog" posts={posts} />
           <MeetupsSection events={events} />
         </div>
       </div>
     </main>
   );
 }
+
 
 export async function getStaticProps() {
   const episodes = await fetchPodcastEpisodes();
