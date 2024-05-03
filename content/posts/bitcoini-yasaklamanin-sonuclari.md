@@ -17,7 +17,7 @@ Bitcoin; tıpkı ateş, elektrik, bilgisayar ve ondan önceki devrimsel tüm ica
    
 Bitcoin'in nasıl çalıştığını anlamaya başladığınızda dünyanın dört bir yanındaki insanlar için neden bu kadar yararlı olduğunun da farkına varmaya başlayacaksınız ve umuyorum ki temel çalışma prensiplerini gerçekten kavradığınızda Bitcoin'i yasaklamanın neden aptalca olduğunu da anlamaya başlayacaksınız.   
    
-Yasama organları ve politikacılar tarafından yapılan son yorumlar ışığında Bitcoin'in neyi nasıl yaptığını unutmamalıyız. Bitcoin bir metindir, Bitcoin konuşmadır, Bitcoin matematiktir. 2+2 = 4'ün nasıl yargı yetkisi yoksa Bitcoin'in de yoktur. Bitcoin sınır tanımaz, Bitcoin her yerde ve hiçbir yerdedir ve doğru şekilde kullanılıp güvence altına alındığı hakde hiçbir hukuk dili veya başka türlü karmaşık bir dil bu gerçekleri değiştirmeyecektir.   
+Yasama organları ve politikacılar tarafından yapılan son yorumlar ışığında Bitcoin'in neyi nasıl yaptığını unutmamalıyız. Bitcoin bir metindir, Bitcoin konuşmadır, Bitcoin matematiktir. 2+2 = 4'ün nasıl yargı yetkisi yoksa Bitcoin'in de yoktur. Bitcoin sınır tanımaz, Bitcoin her yerde ve hiçbir yerdedir ve doğru şekilde kullanılıp güvence altına alındığı halde hiçbir hukuk dili veya başka türlü karmaşık bir dil bu gerçekleri değiştirmeyecektir.   
    
 Bitcoin'i kullanmak için herhangi bir özel ekipmana ihtiyaç yoktur. Bitcoin'i daha verimli ve daha güvenli bir şekilde kullanmak için yazılım ve özel donanım kullanıyoruz; ancak teoride Bitcoin kalem ve kağıt üzerinde çalıştırılabilir.   
    
@@ -40,18 +40,20 @@ Bitcoin ağıyla etkileşime geçmek için bir cüzdana, yani bir özel anahtara
    
 Peki, 256 bitlik bir sayı tam olarak nedir? Adından da anlaşılacağı gibi, 256 bitlik bir sayı, sıfırlar ve birler kullanılarak temsil edildiğinde 256 ikili basamak uzunluğunda olan bir sayıdır. Başka bir ifadeyle: gerçekten büyük bir sayıdır.   
    
-**Uyarı**: Bu sayfadaki özel anahtarlar gerçek özel anahtarlardır. Herhangi bir örnek anhatara bitcoin göndermeyin veya aktarmayın. aksi halde paranızı kaybedersiniz. Tekrar ediyorum: **PARANIZI KAYBEDERSİNİZ.**   
+**Uyarı**: Bu sayfadaki özel anahtarlar gerçek özel anahtarlardır. Herhangi bir örnek anahtara bitcoin göndermeyin veya aktarmayın. aksi halde paranızı kaybedersiniz. Tekrar ediyorum: **PARANIZI KAYBEDERSİNİZ.**   
    
 Aşağıdaki 256 bitlik bir sayıdır:   
 > 0010111011001011101110101011010110001001101111010001011010100110001001110010101110101010101100000001101100000111000000011
 > 100010100100001000001010001011011100000111000111010101001111101000110111010100011011111000101111100000110100010110110000010101010111111    
    
-Bu sıfırlar ve birler, daha doğru ifade etmek gerekirse bu sıfır ve birlerin içindeki bilgiler, bir özel anahatarı oluşturur. Bu "bilgiyi" Bitcoin ağı üzerinde Bitcoin almak ve göndermek için kullanabilirsiniz. (4)   
+Bu sıfırlar ve birler, daha doğru ifade etmek gerekirse bu sıfır ve birlerin içindeki bilgiler, bir özel anahtarı oluşturur. Bu "bilgiyi" Bitcoin ağı üzerinde Bitcoin almak ve göndermek için kullanabilirsiniz. (4)   
    
-Bu neden bu kadar mühim? Bu gerçekten çok mühim; çünkü odamda otururken 256 kez yazı tura atarak bir Bitcoin cüzdanı oluşturabilirim. Eğer [anonim cüzdanları](https://twitter.com/McGuinnessEU/status/1417494016741023753?s=20?ref=yirmibir.org) yasaklamak istiyorsunuz yazı tura atmayı da yasaklamalısınız ki bu yazı turayı yasaklamak da yetmez; zar atmayı, kart karmayı, optik veya atmosferik türbülansları ölçmeyi de yasaklamanız gerekir.   
+Bu neden bu kadar mühim? Bu gerçekten çok mühim; çünkü odamda otururken 256 kez yazı tura atarak bir Bitcoin cüzdanı oluşturabilirim. Eğer [anonim cüzdanları](https://twitter.com/McGuinnessEU/status/1417494016741023753?s=20?ref=yirmibir.org) yasaklamak istiyorsanız, yazı tura atmayı da yasaklamalısınız ki bu yazı turayı yasaklamak da yetmez; zar atmayı, kart karmayı, optik veya atmosferik türbülansları ölçmeyi de yasaklamanız gerekir.   
    
 Tüm bunlara ek olarak sıfır ve birler sadece "bilgi" olduğundan onları sonsuz biçimde temsil edebilirsiniz. Bilgi değişmez; sadece bilginin temsili değişir.    
-Aynı bilginin onaltılık versiyonu: 12e188aeb7c9aeb0eef7fac7c89e3b9b535a30b2ce8d6b74b706fa6f86b061e4    
+Aynı bilginin onaltılık versiyonu: 
+> 12e188aeb7c9aeb0eef7fac7c89e3b9b535a30b2ce8d6b74b706fa6f86b061e4    
+
 yukarıdaki sıfırlar ve birlerle aynı özel anahtarı temsil eder. Biraz pratikle ezbere öğrenilebilecek aşağıdaki hatırlanası kod gibi:   
    
 > concert, frozen, pull, battle, spend, fancy, orient, inside, quiz, submit, scare, mechanic, awake, mercy, lock, inside, language, tag, dash, control, borrow, hip, print, absorb      
@@ -102,7 +104,6 @@ Gerçek işlemlerde birden fazla gönderici ve birden fazla alıcının yanı s�
    
 Bu da bizi asıl mühim kısma getiriyor: imza. Elle yazılan imzalar dijital dünyada pek kullanışlı değildir, haliyle matematikçiler ve kriptograflar modern bir eşdeğer bulmuşlardır: dijital imzalar.   
    
-Bu da bizi önemli kısma getiriyor: imza. Elle yazılan imzalar dijital bir dünyada pek kullanışlı değildir, bu nedenle matematikçiler ve kriptograflar modern bir eşdeğer bulmuşlardır: dijital imzalar.   
 Bu imzaların nasıl çalıştığını açıklarken ayrıntıya girmeyeceğim, ancak önemli kısım şudur: hepsi sadece matematik ve sayılardır. Özel anahtarınız, matematiksel işlemler gerçekleştirmek için kullanılan büyük bir gizli sayı görevi görür. Bu matematiksel işlemlerin sonucu, yine bir sayı olan açık anahtarınız kullanılarak kontrol edilebilen dijital bir imza yani başka bir sayıdır.   
    
 Açık anahtarlı kriptografinin çalışmasını sağlayan şey matematiktir. Bu matematiğin güzelliği, gizli numarayı ifşa etmeden gönderenin gizli bir numarayı kontrol ettiğini doğrulayabilmenizdir. Kriptografik imzaların yaptığı da budur.   
@@ -113,7 +114,7 @@ Bir örneğe bakalım. Aşağıdaki geçerli bir işlemdir (7):
 > c133e67684ed064effada1d7f925c842da401d4f22702201f196b10e6e4b4a9fff948e5c5d71ec5da53e90529c8dbd122bff2b1d21dc8a90121039b
 > 7bcd0824b9a9164f7ba098408e63e5b7e3cf90835cceb19868f54f8961a825ffffffff014baf21 00000000001976a914db4d1141d0048b1ed15839d0b7a4c488cd368b0e88ac00000000      
    
-Bunu çözmek (decoding) ve incelemek için çeşitli araçlar kullanabilirsiniz. Bu araçlar sadece biz insanların bilgiyi anlamasını sağlar; ancak allta yatan gerçeklik hala devam etmektedir: her şey sayılardan ibarettir.   
+Bunu çözmek (decoding) ve incelemek için çeşitli araçlar kullanabilirsiniz. Bu araçlar sadece biz insanların bilgiyi anlamasını sağlar; ancak altta yatan gerçeklik hala devam etmektedir: her şey sayılardan ibarettir.   
    
 ![Byte Map](/images/content/blog/bitcoini-yasaklamanin-sonuclari/byte-map-trans-black.png)    
    
