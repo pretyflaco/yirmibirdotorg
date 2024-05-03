@@ -202,3 +202,7 @@ Bu makale büyük oranda yakında çıkacak olan [21 Ways](https://21-ways.com/)
 6. Bitcoin adresimi emojilere dönüştürmek için "[emojicoding](https://github.com/shea256/emojicoding)" kullandım. Ayrıca "[emojaddress](https://github.com/MerkleData/emojaddress)", Stephan Snigirev'in [Emoji Bitcoin Cüzdanı](https://stepansnigirev.github.io/emoji-wallet/) ve diğerleri de var.   
 7. Aşağıdaki kimliği girerek işlemi bir blok gezgininde kendiniz arayabilirsiniz: [fc9e4f9c334d55c1dc535bd691a1c159b0f7314c54745522257a905e18a56779](https://www.blockstream.info/tx/fc9e4f9c334d55c1dc535bd691a1c159b0f7314c54745522257a905e18a56779)   
 8. İşlemlerin kodunu çözmek için birçok araç vardır. İşte bir örnek: [https://live.blockcypher.com/btc/decodetx/](https://live.blockcypher.com/btc/decodetx/)
+
+[Orijinal Makale](https://dergigi.com/2021/08/02/implications-of-outlawing-bitcoin/?ref=yirmibir.org)
+[©©BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.tr) 
+İlk yayınlanma tarihi: 02/08/2021
