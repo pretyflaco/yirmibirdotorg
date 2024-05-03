@@ -140,8 +140,8 @@ Amator telsiz üzerinde Bitcoin ağı. Kaynak: NVK
 Satoshi harcamanın bir mesaj gönderdiği gerçeği daha yüksek katmanlarda da aynıdır. Lightning Network (LN) üzerindeki düğümler de birebir aynı işlevi yerine getirir: ileri-geri mesaj gönderir, hiçbir farklılık yoktur.   
    
 Bu durum Bitcoin hakkındaki iki hakikati gizlemektedir:   
--Bitcoin bir mesajlaşma protokolüdür.   
--Tüm mesajlar düz metindir.   
+- Bitcoin bir mesajlaşma protokolüdür.   
+- Tüm mesajlar düz metindir.   
    
 Mesajlar şifreli bir iletişim kanalı üzerinden gönderilebilse de protokolün mesajları her zaman düz metin olacaktır. Öyle olmak zorundadırlar. Bitcoin'in tek amacı her şeyin herkes tarafından kolayca doğrulanabilir olmasıdır.   
    
