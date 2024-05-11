@@ -26,4 +26,5 @@ export const images = {
   "kimse-bitcoini-anlamiyor": `/images/content/kimse-bitcoini-anlamiyor.png`,
   "bitcoin-gelistirmenin-taosu": `/images/content/bitcoin-gelistirmenin-taosu.png`,
   "bitcoini-yasaklamanin-sonuclari": `/images/content/bitcoini-yasaklamanin-sonuclari.png`,
+  "bitcoin-spor-gibi": `/images/content/bitcoin-spor-gibi.jpg`,
 } as const;
