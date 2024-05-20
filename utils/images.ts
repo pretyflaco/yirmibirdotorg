@@ -27,4 +27,5 @@ export const images = {
   "bitcoin-gelistirmenin-taosu": `/images/content/bitcoin-gelistirmenin-taosu.png`,
   "bitcoini-yasaklamanin-sonuclari": `/images/content/bitcoini-yasaklamanin-sonuclari.png`,
   "bitcoin-spor-gibi": `/images/content/bitcoin-spor-gibi.jpg`,
+  "devletin-despotizmi": `/images/content/devletin-despotizmi.jpg`,
 } as const;
