@@ -29,4 +29,5 @@ export const images = {
   "bitcoin-spor-gibi": `/images/content/bitcoin-spor-gibi.jpg`,
   "devletin-despotizmi": `/images/content/devletin-despotizmi.jpg`,
   "utxo-rehberi": `/images/content/utxo-rehberi.jpg`,
+  "kycsiz-bitcoinin-faydalari": `/images/content/kycsiz-bitcoinin-faydalari.png`,
 } as const;
