@@ -8,7 +8,7 @@ translator: "Efe Çini"
 translatorURL: "https://twitter.com/efecini"
 slug: "bitcoin-fiat-ve-islam"
 flag: "turkey"
-img: ''
+img: 'bitcoin-fiat-ve-islam'
 tags:
     - translation
 ---

@@ -30,4 +30,5 @@ export const images = {
   "devletin-despotizmi": `/images/content/devletin-despotizmi.jpg`,
   "utxo-rehberi": `/images/content/utxo-rehberi.jpg`,
   "kycsiz-bitcoinin-faydalari": `/images/content/kycsiz-bitcoinin-faydalari.png`,
+  "bitcoin-fiat-ve-islam": `/images/content/bitcoin-fiat-ve-islam.png`,
 } as const;
