@@ -31,4 +31,5 @@ export const images = {
   "utxo-rehberi": `/images/content/utxo-rehberi.jpg`,
   "kycsiz-bitcoinin-faydalari": `/images/content/kycsiz-bitcoinin-faydalari.png`,
   "bitcoin-fiat-ve-islam": `/images/content/bitcoin-fiat-ve-islam.png`,
+  "kriptoyu-kovalarken-bitcoini-buldum": `/images/content/kriptoyu-kovalarken-bitcoini-buldum.jpg`,
 } as const;
