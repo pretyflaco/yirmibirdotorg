@@ -1,6 +1,10 @@
 import React from 'react';
 
 const quotes = [  {
+    text: "Study Bitcoin.",
+    author: "pretyflaco"
+  },
+  {
     text: "test",
     author: "pretyflaco"
   },
