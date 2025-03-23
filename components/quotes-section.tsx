@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const quotes = [
@@ -27,7 +26,7 @@ export function QuotesSection() {
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {quotes.map((quote, index) => (
             <div key={index} className="p-6 bg-dark/50 rounded-lg border border-lightDark/20 backdrop-blur-sm hover:border-purple/30 transition-all duration-300">
-              <p className="text-lg mb-4 italic text-gray-200">"{quote.text}"</p>
+              <p className="text-lg mb-4 italic">&ldquo;{quote.text}&rdquo;</p>
               <p className="text-sm text-purple">- {quote.author}</p>
             </div>
           ))}
