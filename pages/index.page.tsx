@@ -1,4 +1,5 @@
 import { BlogSection } from "../components/blog-section";
+import { QuotesSection } from "../components/quotes-section";
 import { MeetupsSection } from "../components/meetups-section";
 import { PodcastSection } from "../components/podcast-section";
 import matter from "gray-matter";
@@ -31,6 +32,8 @@ export default function Index({
           </div>
           <Hero />
 
+          <QuotesSection />
+          
           <BlogSection title="Bitcoin Blog" posts={posts} />
 
           <div className="flex justify-center">
