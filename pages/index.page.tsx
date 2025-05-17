@@ -33,7 +33,7 @@ export default function Index({
           <Hero />
 
           <QuotesSection />
-          
+
           <BlogSection title="Bitcoin Blog" posts={posts} />
 
           <div className="flex justify-center">
@@ -46,6 +46,10 @@ export default function Index({
 
           <a href="https://www.selambitcoin.com" target="_blank" rel="noopener noreferrer">
             <img src="/selambitcoin.webp" alt="Selam Bitcoin" style={{width: '100%', height: 'auto'}} />
+          </a>
+
+          <a href="https://turuncuhap.com" target="_blank" rel="noopener noreferrer" className="mt-4 block">
+            <img src="/turuncuhap.png" alt="Turuncu Hap" style={{width: '100%', height: 'auto'}} />
           </a>
 
           <PodcastSection episodes={episodes} />
