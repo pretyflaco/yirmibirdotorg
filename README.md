@@ -29,5 +29,4 @@ Merging PRs to `main` will trigger a deployment to [yirmibir.org](https://yirmib
 [Etkinlik nasıl eklenir?](https://github.com/pretyflaco/yirmibirdotorg/blob/main/CONTRIBUTING.md)?
 
 
-# Trigger deploy for new podcast episodes Sat May 31 07:44:17 PM +03 2025
-# Deploy for episodes 003 and 004 Tue Jun  3 11:59:02 AM +03 2025
+
