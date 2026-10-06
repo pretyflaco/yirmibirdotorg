@@ -4,7 +4,7 @@ title: "Bitcoin Tam da Olması Gereken Yerde"
 meta: "On yıldır oynaklığı istikrarlı biçimde azalıyor. Dijital altın olma yolundaki bir varlıktan beklenecek olan da tam olarak budur."
 author: "Matt Hougan"
 authorURL: "https://x.com/Matt_Hougan"
-translator: ""
+translator: "Yirmibir LLM"
 translatorURL: ""
 slug: "bitcoin-tam-da-olmasi-gereken-yerde"
 flag: "turkey"
@@ -56,4 +56,4 @@ Nihayetinde Bitcoin'in dijital bir değer saklama aracı olamayacak kadar oynak 
 
 *TL karşılıkları 6 Ekim 2026 kuruyla (1 USD ≈ 49,16 TL) hesaplanmış yaklaşık değerlerdir.*
 
-[Orijinal Makale](ORIGINAL_URL_TODO)
+[Orijinal Makale](https://partners.wsj.com/the-nakamoto-project/bitcoin-reframed/bitcoin-is-right-on-schedule/)
