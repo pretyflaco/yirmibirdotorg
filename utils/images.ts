@@ -33,4 +33,5 @@ export const images = {
   "bitcoin-fiat-ve-islam": `/images/content/bitcoin-fiat-ve-islam.png`,
   "kriptoyu-kovalarken-bitcoini-buldum": `/images/content/kriptoyu-kovalarken-bitcoini-buldum.jpg`,
   "lyn-alden-dec-2024-newsletter": `/images/content/lyn-alden-dec-2024-newsletter.jpg`,
+  "bitcoin-tam-da-olmasi-gereken-yerde": `/images/content/bitcoin-tam-da-olmasi-gereken-yerde.jpg`,
 } as const;
