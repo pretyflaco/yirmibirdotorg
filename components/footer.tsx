@@ -40,6 +40,11 @@ export function Footer() {
           </li>
         </ul>
       </div>
+      <div className="max-w-7xl mx-auto mt-6 text-center text-sm">
+        <Link href="/privacy">
+          <a className="text-gray hover:text-purple">Gizlilik Politikası / Privacy Policy</a>
+        </Link>
+      </div>
     </footer>
   );
 }

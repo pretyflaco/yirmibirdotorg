@@ -13,4 +13,7 @@ module.exports = {
     domains: ["*.cloudfront.net/*"],
   },
   pageExtensions: ["page.tsx"],
+  async redirects() {
+    return [{ source: "/gizlilik", destination: "/privacy", permanent: true }];
+  },
 };
