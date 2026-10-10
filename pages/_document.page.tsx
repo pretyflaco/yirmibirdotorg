@@ -10,6 +10,12 @@ export default function Document() {
         />
         <link rel="icon" href="/images/favicon.ico" />
         <link rel="icon" href="/images/favicon.png" />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="Yirmibir Blog"
+          href="/rss.xml"
+        />
       </Head>
       <body>
         <Main />
