@@ -39,6 +39,7 @@ const items = posts
       `      <dc:creator>${esc(credit)}</dc:creator>`,
       tags,
       `      <yirmibir:index>${fm.index ?? 0}</yirmibir:index>`,
+      fm.xURL ? `      <yirmibir:x>${esc(fm.xURL)}</yirmibir:x>` : "",
       "    </item>",
     ]
       .filter(Boolean)
