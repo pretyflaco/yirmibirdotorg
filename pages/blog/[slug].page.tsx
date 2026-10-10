@@ -138,10 +138,14 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
                 <a className="text-purple" href={authorURL}>
                   {author}
                 </a>
-                , Tercüme{" "}
-                <a className="mr-1 text-purple" href={translatorURL}>
-                  {translator}
-                </a>
+                {translator && (
+                  <>
+                    , Tercüme{" "}
+                    <a className="mr-1 text-purple" href={translatorURL}>
+                      {translator}
+                    </a>
+                  </>
+                )}
                 {translator2 && (
                   <>
                     ,{" "}
