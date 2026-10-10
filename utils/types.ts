@@ -18,5 +18,6 @@ export type Frontmatter = {
   img: string;
   flag: FlagType;
   slug: ArticleSlug;
+  xURL?: string; // X announcement post, shown by the Telegram bot
 };
 

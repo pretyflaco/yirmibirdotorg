@@ -1,4 +1,5 @@
 ---
+xURL: "https://x.com/YirmibirBitcoin/status/2108867524536279090"
 index: 25
 title: "Kutudaki Truva Atı: İmza Cihazınızı Neden Kendiniz Kurmalısınız?"
 meta: "Hazır donanım cüzdan yerine genel amaçlı parçalarla kendi imza cihazınızı kurmayı savunan 'aşırı paranoyak' Bitcoin'cileri hatırlıyor musunuz? Malezya'dan çıkan casus çipli Ledger'lardan sonra artık pek de çılgınca gelmiyorlar."
