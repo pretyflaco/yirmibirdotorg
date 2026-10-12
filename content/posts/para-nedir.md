@@ -1,4 +1,5 @@
 ---
+xURL: "https://x.com/YirmibirBitcoin/status/2109779647382581540"
 index: 26
 title: "Para Nedir?"
 meta: "Bir bardak çayın arkasında binlerce insanın emeği var. Birbirini hiç tanımayan bu insanları birlikte çalıştıran şey para. Takastan altına, kralın damgasından merkez bankalarına ve Bitcoin'e: paranın hikâyesi, on dakikalık bir videoda."
