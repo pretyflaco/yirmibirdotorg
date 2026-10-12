@@ -1,18 +1,18 @@
 import React from 'react';
 
-// Define props for the YouTubeVideo component
 interface YouTubeVideoProps {
-    videoId: string;  // Each instance of YouTubeVideo can have a different videoId
+    videoId: string;
+    title?: string;
 }
 
-const YouTubeVideo: React.FC<YouTubeVideoProps> = ({ videoId }) => {
+// Responsive 16:9 embed. youtube-nocookie.com: no YouTube cookies until the visitor presses play.
+const YouTubeVideo: React.FC<YouTubeVideoProps> = ({ videoId, title }) => {
     return (
-        <div>
+        <div style={{ position: "relative", width: "100%", paddingBottom: "56.25%", height: 0 }}>
             <iframe
-                width="560"
-                height="315"
-                src={`https://www.youtube.com/embed/${videoId}`}
-                title="YouTube video player"
+                style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+                src={`https://www.youtube-nocookie.com/embed/${videoId}`}
+                title={title || "YouTube video player"}
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen

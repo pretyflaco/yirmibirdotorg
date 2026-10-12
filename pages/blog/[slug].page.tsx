@@ -161,6 +161,11 @@ export default function Blog({ posts }: InferGetStaticPropsType<typeof getStatic
 
 
           <div className="relative mx-6 mt-16 text-xl tracking-wide md:w-auto sm:mx-10 prose md:mx-20 md:text-21 text-gray leading-8 md:leading-9 first-letter:text-3xl first-letter:tracking-wide">
+            {post?.frontmatter?.youtubeId && (
+              <div className="mx-auto mb-12 max-w-3xl">
+                <YouTubeVideo videoId={post.frontmatter.youtubeId} title={post.frontmatter.title} />
+              </div>
+            )}
             {post?.content && (
               <div
                 dangerouslySetInnerHTML={{ __html: md().render(post.content) }}

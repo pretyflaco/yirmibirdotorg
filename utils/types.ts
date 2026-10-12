@@ -19,5 +19,6 @@ export type Frontmatter = {
   flag: FlagType;
   slug: ArticleSlug;
   xURL?: string; // X announcement post, shown by the Telegram bot
+  youtubeId?: string; // embedded above the post body
 };
 
