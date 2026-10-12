@@ -35,4 +35,5 @@ export const images = {
   "lyn-alden-dec-2024-newsletter": `/images/content/lyn-alden-dec-2024-newsletter.jpg`,
   "bitcoin-tam-da-olmasi-gereken-yerde": `/images/content/bitcoin-tam-da-olmasi-gereken-yerde.jpg`,
   "kutudaki-truva-ati": `/images/content/kutudaki-truva-ati.jpg`,
+  "para-nedir": `/images/content/para-nedir.jpg`,
 } as const;
